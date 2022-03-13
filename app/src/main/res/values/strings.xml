@@ -1,0 +1,3615 @@
+<resources>
+    <string name="app_name">Brain Up Quiz GK</string>
+    <string name="introduction">
+Brain Up Quiz GK is a collection of the best
+educative questions for kids in different categories.
+To develop their General Knowledge skills.</string>
+
+    <string name="dialog">Questions are Not Loaded yet &#8230;
+    Please Connect to Internet and Try Again!!!</string>
+
+    <string name="baner">ca-app-pub-6365946657421973/9074954251</string>
+    <string name="inter">ca-app-pub-6365946657421973/5059811331</string>
+    <string name="rewards">ca-app-pub-6365946657421973/8200856289</string>
+
+
+
+    <!--GROUP A-->
+
+    <!-- LEVEL   1-->
+
+    <string name="g1_l1_q1_option1">Venus</string>
+    <string name="g1_l1_q1_option2">Uranus</string>
+    <string name="g1_l1_q1_option3">Pluto</string> <!-- correct answer-->
+    <string name="g1_l1_q1_option4">Saturn</string>
+    <string name="g1_l1_q1_text">Which is the coldest and smallest planet?</string>
+
+
+    <string name="g1_l1_q2_option1">Dog</string>
+    <string name="g1_l1_q2_option2">Sea Horse</string>
+    <string name="g1_l1_q2_option3">Goldfish</string><!-- correct answer-->
+    <string name="g1_l1_q2_option4">Lion</string>
+    <string name="g1_l1_q2_text">An animal who can see both infrared and ultraviolet light</string>
+
+    <string name="g1_l1_q3_option1">Kiwi</string><!-- correct answer-->
+    <string name="g1_l1_q3_option2">Peacock</string>
+    <string name="g1_l1_q3_option3">Owl</string>
+    <string name="g1_l1_q3_option4">Ostrich</string>
+    <string name="g1_l1_q3_text">Which bird has no wings at all?</string>
+
+    <string name="g1_l1_q4_option1">Doha</string>
+    <string name="g1_l1_q4_option2">Baghdad</string><!-- correct answer-->
+    <string name="g1_l1_q4_option3">Tehran</string>
+    <string name="g1_l1_q4_option4">New Delhi</string>
+    <string name="g1_l1_q4_text">Capital of Iraq</string>
+    <string name="g1_l1_q5_option1">Doha</string>
+    <string name="g1_l1_q5_option2">Baghdad</string>
+    <string name="g1_l1_q5_option3">Moscow</string><!-- correct answer-->
+    <string name="g1_l1_q5_option4">New Delhi</string>
+    <string name="g1_l1_q5_text">Capital of Russia (Russian Federation)</string>
+
+
+
+    <string name="g1_l1_q6_option1">Casablanca</string>
+    <string name="g1_l1_q6_option2">Fes</string>
+    <string name="g1_l1_q6_option3">Ouarzazate</string>
+    <string name="g1_l1_q6_option4">Rabat</string><!-- correct answer-->
+    <string name="g1_l1_q6_text">What is capital of MOROCCO?</string>
+
+
+
+    <string name="g1_l1_q7_option1">ostrich</string>
+    <string name="g1_l1_q7_option2">hummingbird</string><!-- correct answer-->
+    <string name="g1_l1_q7_option3">sparrow</string>
+    <string name="g1_l1_q7_option4">crow</string>
+    <string name="g1_l1_q7_text">which of the following is the smallest bird</string>
+
+
+    <string name="g1_l1_q8_option1">earth</string><!-- correct answer-->
+    <string name="g1_l1_q8_option2">saturn</string>
+    <string name="g1_l1_q8_option3">jupiter</string>
+    <string name="g1_l1_q8_option4">neptune</string>
+    <string name="g1_l1_q8_text">blue planet is the other name of which planet</string>
+
+
+    <string name="g1_l1_q9_option1">Newton</string>
+    <string name="g1_l1_q9_option2">Alexander Graham Bell</string>
+    <string name="g1_l1_q9_option3">Oliver Evans</string><!-- correct answer-->
+    <string name="g1_l1_q9_option4">Guglielmo Marconi</string>
+    <string name="g1_l1_q9_text">Who invented refrigerator?</string>
+
+
+    <string name="g1_l1_q10_option1">White blood cells</string><!-- correct answer-->
+    <string name="g1_l1_q10_option2">Red blood cells</string>
+    <string name="g1_l1_q10_option3">White and Red blood cells</string>
+    <string name="g1_l1_q10_option4">None</string>
+    <string name="g1_l1_q10_text">Which type of blood cells help our bodies to fight infection?</string>
+
+
+
+
+
+
+
+
+
+    <!-- LEVEL   2-->
+
+
+    <string name="g1_l2_q1_option2">70</string><!-- correct answer-->
+    <string name="g1_l2_q1_option1">80</string>
+    <string name="g1_l2_q1_option3">60</string>
+    <string name="g1_l2_q1_option4">90</string>
+    <string name="g1_l2_q1_text">What percent of Earth is water?</string>
+
+
+
+
+    <string name="g1_l2_q2_option1">Lotus</string>
+    <string name="g1_l2_q2_option2">Oranges</string>
+    <string name="g1_l2_q2_option3">Onion</string><!-- correct answer-->
+    <string name="g1_l2_q2_option4">Apple</string>
+    <string name="g1_l2_q2_text">Which of the following is a vegetable?</string>
+
+
+    <string name="g1_l2_q3_option1">Big Screen</string>
+    <string name="g1_l2_q3_option2">Sound System</string>
+    <string name="g1_l2_q3_option3">Chair</string>
+    <string name="g1_l2_q3_option4">Utensils</string><!-- correct answer-->
+    <string name="g1_l2_q3_text">Which of the following you will not find in Cinema Hall?</string>
+
+
+    <string name="g1_l2_q4_option1">Pan</string>
+    <string name="g1_l2_q4_option2">Glass</string><!-- correct answer-->
+    <string name="g1_l2_q4_option3">Spoon</string>
+    <string name="g1_l2_q4_option4">Plate</string>
+    <string name="g1_l2_q4_text">Which will you use for drinking Water or Juice?</string>
+
+
+    <string name="g1_l2_q5_option1">Calf</string>
+    <string name="g1_l2_q5_option2">Lamb</string>
+    <string name="g1_l2_q5_option3">Cub</string><!-- correct answer-->
+    <string name="g1_l2_q5_option4">Pup</string>
+    <string name="g1_l2_q5_text">Tiger baby is called</string>
+
+
+    <string name="g1_l2_q6_option1">Mixed</string>
+    <string name="g1_l2_q6_option2">Hybrid</string><!-- correct answer-->
+    <string name="g1_l2_q6_option3">Automatic</string>
+    <string name="g1_l2_q6_option4">Semi-Automatic</string>
+    <string name="g1_l2_q6_text">The vehicle who used multiple fuels is called</string>
+
+
+    <string name="g1_l2_q7_option1">notebook</string><!-- correct answer-->
+    <string name="g1_l2_q7_option2">dictionary</string>
+    <string name="g1_l2_q7_option3">textbook</string>
+    <string name="g1_l2_q7_option4">directory</string>
+    <string name="g1_l2_q7_text">we write things down in ----------</string>
+
+    <string name="g1_l2_q8_option1">whale shark</string><!-- correct answer-->
+    <string name="g1_l2_q8_option2">white shark</string>
+    <string name="g1_l2_q8_option3">stonefish</string>
+    <string name="g1_l2_q8_option4">lion fish</string>
+    <string name="g1_l2_q8_text">which is the lagrest fish in the world</string>
+
+    <string name="g1_l2_q9_option3">94%</string><!-- correct answer-->
+    <string name="g1_l2_q9_option2">90%</string>
+    <string name="g1_l2_q9_option1">24%</string>
+    <string name="g1_l2_q9_option4">78%</string>
+    <string name="g1_l2_q9_text">Oceans represent of water on Earth</string>
+
+
+
+    <string name="g1_l2_q10_option1">Test Match</string>
+    <string name="g1_l2_q10_option2">T20</string><!-- correct answer-->
+    <string name="g1_l2_q10_option3">One Day</string>
+    <string name="g1_l2_q10_option4">Draw</string>
+    <string name="g1_l2_q10_text">Shortest format of cricket match is called</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- LEVEL   3-->
+
+
+
+
+
+
+
+    <string name="g1_l3_q1_option1">Frog</string>
+    <string name="g1_l3_q1_option2">Snake</string>
+    <string name="g1_l3_q1_option3">Whale</string>
+    <string name="g1_l3_q1_option4">Star Fish</string><!-- correct answer-->
+    <string name="g1_l3_q1_text">which animal who Living without a brain</string>
+
+    <string name="g1_l3_q2_option1">1000</string>
+    <string name="g1_l3_q2_option2">1200</string><!-- correct answer-->
+    <string name="g1_l3_q2_option3">400</string>
+    <string name="g1_l3_q2_option4">220</string>
+    <string name="g1_l3_q2_text">How much times (per minutes) the heart of Hummingbird beat?</string>
+
+    <string name="g1_l3_q3_option1">Twin Towers</string>
+    <string name="g1_l3_q3_option2">Burj Khalifa</string><!-- correct answer-->
+    <string name="g1_l3_q3_option3">Burj Tarrif</string>
+    <string name="g1_l3_q3_option4">Kutub Minar</string>
+    <string name="g1_l3_q3_text">Which is the highest building in the world?</string>
+
+    <string name="g1_l3_q4_option1">Atlantic Ocean</string>
+    <string name="g1_l3_q4_option4">Pacific Ocean</string><!-- correct answer-->
+    <string name="g1_l3_q4_option3">Indian Ocean</string>
+    <string name="g1_l3_q4_option2">Southern Ocean</string>
+    <string name="g1_l3_q4_text">Largest ocean on the Earth</string>
+
+
+    <string name="g1_l3_q5_option1">Manchester</string>
+    <string name="g1_l3_q5_option2">London</string>
+    <string name="g1_l3_q5_option3">Cardiff</string>
+    <string name="g1_l3_q5_option4">Edinburgh</string><!-- correct answer-->
+    <string name="g1_l3_q5_text">What is capital of Scotland</string>
+
+    <string name="g1_l3_q6_option1">africa</string>
+    <string name="g1_l3_q6_option2">asia</string><!-- correct answer-->
+    <string name="g1_l3_q6_option3">australia</string>
+    <string name="g1_l3_q6_option4">europe</string>
+    <string name="g1_l3_q6_text">smallest continent in the world is</string>
+
+    <string name="g1_l3_q7_option1">mawazin</string>
+    <string name="g1_l3_q7_option2">christmas</string><!-- correct answer-->
+    <string name="g1_l3_q7_option3">diwali</string>
+    <string name="g1_l3_q7_option4">holi</string>
+    <string name="g1_l3_q7_text">which festival brings gifts and santa claus</string>
+
+    <string name="g1_l3_q8_option1">1.21 KM</string>
+    <string name="g1_l3_q8_option2">1.61 KM</string><!-- correct answer-->
+    <string name="g1_l3_q8_option3">0.61 KM</string>
+    <string name="g1_l3_q8_option4">1.5 KM</string>
+    <string name="g1_l3_q8_text">1 miles =?</string>
+
+    <string name="g1_l3_q9_option1">Eye</string><!-- correct answer-->
+    <string name="g1_l3_q9_option2">Fingers</string>
+    <string name="g1_l3_q9_option3">Hand</string>
+    <string name="g1_l3_q9_option4">Ear</string>
+    <string name="g1_l3_q9_text">What is it impossible to keep open when sneezing?</string>
+
+
+    <string name="g1_l3_q10_option1">Earth</string>
+    <string name="g1_l3_q10_option2">Uranus</string>
+    <string name="g1_l3_q10_option3">Venus</string>
+    <string name="g1_l3_q10_option4">Mars</string><!-- correct answer-->
+    <string name="g1_l3_q10_text">Which planet also called as Red Planet?</string>
+
+
+
+
+    <!-- LEVEL   4-->
+
+
+
+    <string name="g1_l4_q1_option1">Mango</string><!-- correct answer-->
+    <string name="g1_l4_q1_option2">Peas</string>
+    <string name="g1_l4_q1_option3">Basil</string>
+    <string name="g1_l4_q1_option4">Spinach</string>
+    <string name="g1_l4_q1_text">Which of the following is a Fruit?</string>
+
+    <string name="g1_l4_q2_option1">Apple</string>
+    <string name="g1_l4_q2_option2">Banana</string>
+    <string name="g1_l4_q2_option3">Turnip</string><!-- correct answer-->
+    <string name="g1_l4_q2_option4">Grapes</string>
+    <string name="g1_l4_q2_text">Which of the following is a vegetable?</string>
+
+    <string name="g1_l4_q3_option1">10 Billion</string>
+    <string name="g1_l4_q3_option3">4.54 Billion</string><!-- correct answer-->
+    <string name="g1_l4_q3_option2">600 Billion</string>
+    <string name="g1_l4_q3_option4">45 Billion</string>
+    <string name="g1_l4_q3_text">How much years ago, the Earth formed?</string>
+
+
+    <string name="g1_l4_q4_option4">Nepalese Rupee</string><!-- correct answer-->
+    <string name="g1_l4_q4_option2">US Dollar</string>
+    <string name="g1_l4_q4_option3">European Euro</string>
+    <string name="g1_l4_q4_option1">British Pound</string>
+    <string name="g1_l4_q4_text">Currency of Nepal</string>
+
+    <string name="g1_l4_q5_option1">Calf</string>
+    <string name="g1_l4_q5_option2">Piglet</string><!-- correct answer-->
+    <string name="g1_l4_q5_option3">Cub</string>
+    <string name="g1_l4_q5_option4">Pup</string>
+    <string name="g1_l4_q5_text">Pig baby is called</string>
+
+
+    <string name="g1_l4_q6_option1">Car</string><!-- correct answer-->
+    <string name="g1_l4_q6_option2">Aeroplane</string>
+    <string name="g1_l4_q6_option3">Train</string>
+    <string name="g1_l4_q6_option4">Ship</string>
+    <string name="g1_l4_q6_text">Which of the following travels on road?</string>
+
+    <string name="g1_l4_q7_option1">ganga</string>
+    <string name="g1_l4_q7_option2">nile</string><!-- correct answer-->
+    <string name="g1_l4_q7_option3">amazon</string>
+    <string name="g1_l4_q7_option4">yangtze</string>
+    <string name="g1_l4_q7_text">which the longest river in the world</string>
+
+    <string name="g1_l4_q8_option1">horses</string>
+    <string name="g1_l4_q8_option2">bicycles</string>
+    <string name="g1_l4_q8_option3">ships</string><!-- correct answer-->
+    <string name="g1_l4_q8_option4">cars</string>
+    <string name="g1_l4_q8_text">what type of transportation made up the spanish armada</string>
+
+    <string name="g1_l4_q9_option1">England</string>
+    <string name="g1_l4_q9_option2">Canada</string>
+    <string name="g1_l4_q9_option3">Australia</string><!-- correct answer-->
+    <string name="g1_l4_q9_option4">USA</string>
+    <string name="g1_l4_q9_text">Which country celebrates Christmas in summer season?</string>
+
+
+
+
+
+    <string name="g1_l4_q10_option1">3</string>
+    <string name="g1_l4_q10_option2">5</string>
+    <string name="g1_l4_q10_option3">2</string>
+    <string name="g1_l4_q10_option4">4</string><!-- correct answer-->
+    <string name="g1_l4_q10_text">How many mounted players in Golf team?</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- LEVEL   5-->
+
+
+
+
+
+
+
+    <string name="g1_l5_q1_option1">6</string>
+    <string name="g1_l5_q1_option2">8</string><!-- correct answer-->
+    <string name="g1_l5_q1_option3">10</string>
+    <string name="g1_l5_q1_option4">12</string>
+    <string name="g1_l5_q1_text">How many arms an octopus has?</string>
+
+    <string name="g1_l5_q2_option1">Kiwi</string><!-- correct answer-->
+    <string name="g1_l5_q2_option2">Ostrich</string>
+    <string name="g1_l5_q2_option3">Peacock</string>
+    <string name="g1_l5_q2_option4">Puffin</string>
+    <string name="g1_l5_q2_text">Which birds are blind?</string>
+
+    <string name="g1_l5_q3_option1">India</string><!-- correct answer-->
+    <string name="g1_l5_q3_option2">Britain</string>
+    <string name="g1_l5_q3_option3">United State of America</string>
+    <string name="g1_l5_q3_option4">China</string>
+    <string name="g1_l5_q3_text">Which is the highest populated country in the world??</string>
+
+    <string name="g1_l5_q4_option1">Calculator</string>
+    <string name="g1_l5_q4_option2">Microchip</string><!-- correct answer-->
+    <string name="g1_l5_q4_option3">Battery</string>
+    <string name="g1_l5_q4_option4">Macroprocessor</string>
+    <string name="g1_l5_q4_text">A microprocessor is also called as</string>
+
+    <string name="g1_l5_q5_option1">Berlin</string><!-- correct answer-->
+    <string name="g1_l5_q5_option2">Bern</string>
+    <string name="g1_l5_q5_option3">London</string>
+    <string name="g1_l5_q5_option4">Paris</string>
+    <string name="g1_l5_q5_text">What is capital of Germany?</string>
+
+    <string name="g1_l5_q6_option1">horseshoe</string>
+    <string name="g1_l5_q6_option2">nayagara</string>
+    <string name="g1_l5_q6_option3">jog</string>
+    <string name="g1_l5_q6_option4">angel</string><!-- correct answer-->
+    <string name="g1_l5_q6_text">what is worlds highest water falls</string>
+
+    <string name="g1_l5_q7_option1">blood</string><!-- correct answer-->
+    <string name="g1_l5_q7_option2">air</string>
+    <string name="g1_l5_q7_option3">water</string>
+    <string name="g1_l5_q7_option4">gas</string>
+    <string name="g1_l5_q7_text">what does the heart pump</string>
+
+
+
+    <string name="g1_l5_q8_option1">1.5 MM</string>
+    <string name="g1_l5_q8_option2">25 CM</string>
+    <string name="g1_l5_q8_option3">2.5 CM</string><!-- correct answer-->
+    <string name="g1_l5_q8_option4">5 CM</string>
+    <string name="g1_l5_q8_text">1 Inch =?</string>
+
+
+    <string name="g1_l5_q9_option1">Chin</string>
+    <string name="g1_l5_q9_option2">Palm</string>
+    <string name="g1_l5_q9_option3">Foot Sole</string><!-- correct answer-->
+    <string name="g1_l5_q9_option4">Eye</string>
+    <string name="g1_l5_q9_text">Which part of body, where skin is thickest?</string>
+
+
+    <string name="g1_l5_q10_option1">Venus</string>
+    <string name="g1_l5_q10_option2">Pluto</string>
+    <string name="g1_l5_q10_option3">Earth</string>
+    <string name="g1_l5_q10_option4">Mercury</string><!-- correct answer-->
+    <string name="g1_l5_q10_text">Which is the smallest planet in the Solar System?</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- LEVEL   6-->
+
+
+    <string name="g1_l6_q1_option1">Radish</string>
+    <string name="g1_l6_q1_option2">Plum</string><!-- correct answer-->
+    <string name="g1_l6_q1_option3">Mint</string>
+    <string name="g1_l6_q1_option4">Potato</string>
+    <string name="g1_l6_q1_text">Which of the following is a Fruit?</string>
+
+    <string name="g1_l6_q2_option1">Mint</string>
+    <string name="g1_l6_q2_option2">Cabbage</string><!-- correct answer-->
+    <string name="g1_l6_q2_option3">Ball</string>
+    <string name="g1_l6_q2_option4">Bat</string>
+    <string name="g1_l6_q2_text">Which of the following is a vegetable?</string>
+
+    <string name="g1_l6_q3_option1">Italian lira</string>
+    <string name="g1_l6_q3_option2">US Dollar</string>
+    <string name="g1_l6_q3_option4">European Euro</string><!-- correct answer-->
+    <string name="g1_l6_q3_option3">British Pound</string>
+    <string name="g1_l6_q3_text">Currency of Belgium</string>
+
+
+    <string name="g1_l6_q4_option1">Sunglass</string>
+    <string name="g1_l6_q4_option2">Phone</string>
+    <string name="g1_l6_q4_option3">Utensils</string><!-- correct answer-->
+    <string name="g1_l6_q4_option4">Umbrella</string>
+    <string name="g1_l6_q4_text">Which will you use for preparing food?</string>
+    <string name="g1_l6_q5_option1">Calf</string>
+    <string name="g1_l6_q5_option2">Lamb</string>
+    <string name="g1_l6_q5_option3">Kid (Billy)</string><!-- correct answer-->
+    <string name="g1_l6_q5_option4">Pup</string>
+    <string name="g1_l6_q5_text">Goat baby is called</string>
+    <string name="g1_l6_q6_option1">Bus</string>
+    <string name="g1_l6_q6_option2">Car</string>
+    <string name="g1_l6_q6_option3">Train</string>
+    <string name="g1_l6_q6_option4">Boat</string><!-- correct answer-->
+    <string name="g1_l6_q6_text">Which of the following travels on water?</string>
+    <string name="g1_l6_q7_option1">upper</string><!-- correct answer-->
+    <string name="g1_l6_q7_option2">laces</string>
+    <string name="g1_l6_q7_option3">sole</string>
+    <string name="g1_l6_q7_option4">wedge</string>
+    <string name="g1_l6_q7_text">what is the bottom part of a shoe under the toes, known as</string>
+    <string name="g1_l6_q8_option1">neptune</string>
+    <string name="g1_l6_q8_option2">saturn</string>
+    <string name="g1_l6_q8_option3">jupitr</string><!-- correct answer-->
+    <string name="g1_l6_q8_option4">earth</string>
+    <string name="g1_l6_q8_text">which planet is known as vacuum cleaner</string>
+    <string name="g1_l6_q9_option1">2</string>
+    <string name="g1_l6_q9_option2">4</string>
+    <string name="g1_l6_q9_option3">6</string><!-- correct answer-->
+    <string name="g1_l6_q9_option4">8</string>
+    <string name="g1_l6_q9_text">how many legs does a butterfly have</string>
+
+
+    <string name="g1_l6_q10_option1">1</string><!-- correct answer-->
+    <string name="g1_l6_q10_option2">2</string>
+    <string name="g1_l6_q10_option3">4</string>
+    <string name="g1_l6_q10_option4">3</string>
+    <string name="g1_l6_q10_text">How many players in international single table tennis team?</string>
+
+
+    <!-- LEVEL   7-->
+
+
+
+
+    <string name="g1_l7_q1_option1">Frog</string><!-- correct answer-->
+    <string name="g1_l7_q1_option2">Snake</string>
+    <string name="g1_l7_q1_option3">Whale</string>
+    <string name="g1_l7_q1_option4">Octopus</string>
+    <string name="g1_l7_q1_text">Animal take breathes through skin</string>
+    <string name="g1_l7_q2_option1">Ostrich</string><!-- correct answer-->
+    <string name="g1_l7_q2_option2">Duck</string>
+    <string name="g1_l7_q2_option3">Peacock</string>
+    <string name="g1_l7_q2_option4">Swan</string>
+    <string name="g1_l7_q2_text">Which bird has biggest eye among all birds?</string>
+    <string name="g1_l7_q3_option1">february</string><!-- correct answer-->
+    <string name="g1_l7_q3_option2">march</string>
+    <string name="g1_l7_q3_option3">december</string>
+    <string name="g1_l7_q3_option4">januray</string>
+    <string name="g1_l7_q3_text">Which month has the least number of days</string>
+    <string name="g1_l7_q4_option1">Data or information entered</string><!-- correct answer-->
+    <string name="g1_l7_q4_option2">Data processing in the computer</string>
+    <string name="g1_l7_q4_option3">View report</string>
+    <string name="g1_l7_q4_option4">Playing music</string>
+    <string name="g1_l7_q4_text">When speaking of computer input, input refers to?</string>
+   
+    <string name="g1_l7_q5_option1">Doha</string>
+    <string name="g1_l7_q5_option2">Baghdad</string>
+    <string name="g1_l7_q5_option3">Moscow</string>
+    <string name="g1_l7_q5_option4">Riyadh</string><!-- correct answer-->
+    <string name="g1_l7_q5_text">Capital of Saudi Arabia</string>
+    <string name="g1_l7_q6_option1">Doha</string><!-- correct answer-->
+    <string name="g1_l7_q6_option2">Colombo</string>
+    <string name="g1_l7_q6_option3">Moscow</string>
+    <string name="g1_l7_q6_option4">Abu Dhabi</string>
+    <string name="g1_l7_q6_text">Capital of Qatar</string>
+
+    
+	<string name="g1_l7_q7_option1">stable</string>
+    <string name="g1_l7_q7_option2">nest</string>
+    <string name="g1_l7_q7_option3">grass land</string><!-- correct answer-->
+    <string name="g1_l7_q7_option4">den</string>
+    <string name="g1_l7_q7_text">a kangaroo lives in a -------------</string>
+    <string name="g1_l7_q8_option1">Alexander Graham Bell</string>
+    <string name="g1_l7_q8_option2">Thomas Decimal</string>
+    <string name="g1_l7_q8_option3">Thomas Edison</string><!-- correct answer-->
+    <string name="g1_l7_q8_option4">Charles Babbage</string>
+    <string name="g1_l7_q8_text">Who invented Light bulb?</string>
+    <string name="g1_l7_q9_option1">Chin</string>
+    <string name="g1_l7_q9_option2">Finger</string>
+    <string name="g1_l7_q9_option3">Cheek</string>
+    <string name="g1_l7_q9_option4">Eye Lid</string><!-- correct answer-->
+    <string name="g1_l7_q9_text">Which part of body, where skin is thinnest?</string>
+    <string name="g1_l7_q10_option1">Mercury</string><!-- correct answer-->
+    <string name="g1_l7_q10_option2">Venus</string>
+    <string name="g1_l7_q10_option3">Earth</string>
+    <string name="g1_l7_q10_option4">Pluto</string>
+    <string name="g1_l7_q10_text">Which planet is the nearest to the Sun</string>
+
+
+
+
+    <!-- LEVEL  8-->
+
+    <string name="g1_l8_q1_option1">Radish</string>
+    <string name="g1_l8_q1_option2">Brinjal</string>
+    <string name="g1_l8_q1_option3">Lychee</string><!-- correct answer-->
+    <string name="g1_l8_q1_option4">Mint</string>
+    <string name="g1_l8_q1_text">Which of the following is a Fruit?</string>
+    <string name="g1_l8_q2_option1">Cucumber</string><!-- correct answer-->
+    <string name="g1_l8_q2_option2">Apple</string>
+    <string name="g1_l8_q2_option3">Banana</string>
+    <string name="g1_l8_q2_option4">Balloon</string>
+    <string name="g1_l8_q2_text">Which of the following is a vegetable?</string>
+    <string name="g1_l8_q3_option1">Platform</string>
+    <string name="g1_l8_q3_option2">Washing Machine</string><!-- correct answer-->
+    <string name="g1_l8_q3_option3">Bench</string>
+    <string name="g1_l8_q3_option4">Chair</string>
+    <string name="g1_l8_q3_text">Which of the following you will not find on Railway Station?</string>
+    <string name="g1_l8_q4_option1">Boat</string>
+    <string name="g1_l8_q4_option2">Cycle</string><!-- correct answer-->
+    <string name="g1_l8_q4_option3">Camera</string>
+    <string name="g1_l8_q4_option4">Chair</string>
+    <string name="g1_l8_q4_text">Which will you use for school travel everyday?</string>
+  
+
+    <string name="g1_l8_q5_option1">European Euro</string>
+    <string name="g1_l8_q5_option2">US Dollar</string>
+    <string name="g1_l8_q5_option3">Swiss Franc</string><!-- correct answer-->
+    <string name="g1_l8_q5_option4">British Pound</string>
+    <string name="g1_l8_q5_text">Currency of Switzerland</string>
+
+    <string name="g1_l8_q6_option1">Doha</string>
+    <string name="g1_l8_q6_option2">Colombo</string>
+    <string name="g1_l8_q6_option4">Ankara</string><!-- correct answer-->
+    <string name="g1_l8_q6_option3">Abu Dhabi</string>
+    <string name="g1_l8_q6_text">Capital of Turkey</string>
+    <string name="g1_l8_q7_option1">Doha</string>
+    <string name="g1_l8_q7_option4">Colombo</string>
+    <string name="g1_l8_q7_option3">Ankara</string>
+    <string name="g1_l8_q7_option2">Ulan Bator</string><!-- correct answer-->
+    <string name="g1_l8_q7_text">Capital of Mongolia</string>
+
+   
+   <string name="g1_l8_q8_option1">Eid-ul-Fitr</string><!-- correct answer-->
+    <string name="g1_l8_q8_option2">Muharram</string>
+    <string name="g1_l8_q8_option3">Easter</string>
+    <string name="g1_l8_q8_option4">Eid-ul-Zuha</string>
+    <string name="g1_l8_q8_text">Which festival is end of Ramadan (fast for 30 days)?</string>
+    <string name="g1_l8_q9_option1">Halloween</string>
+    <string name="g1_l8_q9_option2">Good Friday</string>
+    <string name="g1_l8_q9_option3">Easter</string>
+    <string name="g1_l8_q9_option4">Christmas</string><!-- correct answer-->
+    <string name="g1_l8_q9_text">On which day we celebrate the birth of Jesus Christ?</string>
+
+
+    <string name="g1_l8_q10_option1">Satrun</string>
+    <string name="g1_l8_q10_option2">Mars</string>
+    <string name="g1_l8_q10_option3">Uranus</string>
+    <string name="g1_l8_q10_option4">Venus</string><!-- correct answer-->
+    <string name="g1_l8_q10_text">Which is the most Brightest Planet?</string>
+
+    <!-- LEVEL  9-->
+
+
+    <string name="g1_l9_q1_option1">Camel</string>
+    <string name="g1_l9_q1_option2">Giraffe</string><!-- correct answer-->
+    <string name="g1_l9_q1_option3">Elephant</string>
+    <string name="g1_l9_q1_option4">Horse</string>
+    <string name="g1_l9_q1_text">Animal with the longest tail</string>
+    <string name="g1_l9_q2_option1">Parrot</string><!-- correct answer-->
+    <string name="g1_l9_q2_option2">Peacock</string>
+    <string name="g1_l9_q2_option3">Hummingbird</string>
+    <string name="g1_l9_q2_option4">Sparrow</string>
+    <string name="g1_l9_q2_text">Which bird can learn and speak up to 100 words?</string>
+    <string name="g1_l9_q3_option1">Lake District</string>
+    <string name="g1_l9_q3_option2">Lake Victoria</string>
+    <string name="g1_l9_q3_option3">Lake Superior</string>
+    <string name="g1_l9_q3_option4">Caspian Sea</string><!-- correct answer-->
+    <string name="g1_l9_q3_text">Which is the biggest lake in the earth?</string>
+    <string name="g1_l9_q4_option1">Ideas</string>
+    <string name="g1_l9_q4_option2">Suggestions</string>
+    <string name="g1_l9_q4_option3">Information</string><!-- correct answer-->
+    <string name="g1_l9_q4_option4">Reports</string>
+    <string name="g1_l9_q4_text">The primary goal of a computer is to turn data into</string>
+    <string name="g1_l9_q5_option1">Stockholm</string><!-- correct answer-->
+    <string name="g1_l9_q5_option2">Cape Town</string>
+    <string name="g1_l9_q5_option3">Accra</string>
+    <string name="g1_l9_q5_option4">Rome</string>
+    <string name="g1_l9_q5_text">What is capital of Sweden?</string>
+    <string name="g1_l9_q6_option1">run</string>
+    <string name="g1_l9_q6_option2">stop Chattopadhyay</string><!-- correct answer-->
+    <string name="g1_l9_q6_option3">wait</string>
+    <string name="g1_l9_q6_option4">start</string>
+    <string name="g1_l9_q6_text">traffic signal red light means</string>
+    <string name="g1_l9_q7_option1">the body</string><!-- correct answer-->
+    <string name="g1_l9_q7_option2">stars</string>
+    <string name="g1_l9_q7_option3">old relics</string>
+    <string name="g1_l9_q7_option4">metals</string>
+    <string name="g1_l9_q7_text">anatomy is the study of what</string>
+    <string name="g1_l9_q8_option1">Charles Babbage</string><!-- correct answer-->
+    <string name="g1_l9_q8_option2">Thomas Edison</string>
+    <string name="g1_l9_q8_option3">Sir Isaac Newton</string>
+    <string name="g1_l9_q8_option4">Alexander Graham Bell</string>
+    <string name="g1_l9_q8_text">Which inventor is called as Father of Computers?</string>
+    <string name="g1_l9_q9_option1">Liver</string>
+    <string name="g1_l9_q9_option2">Stomach</string>
+    <string name="g1_l9_q9_option3">Small Intestines</string><!-- correct answer-->
+    <string name="g1_l9_q9_option4">Big Intestines</string>
+    <string name="g1_l9_q9_text">Food is digested in which part of body?</string>
+    <string name="g1_l9_q10_option1">Date</string><!-- correct answer-->
+    <string name="g1_l9_q10_option2">Mint</string>
+    <string name="g1_l9_q10_option3">Basil</string>
+    <string name="g1_l9_q10_option4">Potato</string>
+    <string name="g1_l9_q10_text">Which of the following is a Fruit?</string>
+
+
+    <!-- LEVEL  10-->
+
+
+    <string name="g1_l10_q1_option3">Doha</string>
+    <string name="g1_l10_q1_option2">Singapore</string>
+    <string name="g1_l10_q1_option1">Bangkok</string><!-- correct answer-->
+    <string name="g1_l10_q1_option4">Delhi</string>
+    <string name="g1_l10_q1_text">Capital of Thailand</string>
+
+    <string name="g1_l10_q2_option1">France Pound</string>
+    <string name="g1_l10_q2_option3">German Dollar</string>
+    <string name="g1_l10_q2_option2">European Euro</string><!-- correct answer-->
+    <string name="g1_l10_q2_option4">British Pound</string>
+    <string name="g1_l10_q2_text">Currency of Germany</string>
+
+    <string name="g1_l10_q3_option1">Doha</string>
+    <string name="g1_l10_q3_option2">Singapore</string>
+    <string name="g1_l10_q3_option4">Bangkok</string>
+    <string name="g1_l10_q3_option3">Astana</string><!-- correct answer-->
+    <string name="g1_l10_q3_text">Capital of Kazakhstan</string>
+
+    <string name="g1_l10_q4_option1">Radio</string>
+    <string name="g1_l10_q4_option2">Bed</string>
+    <string name="g1_l10_q4_option3">Book</string><!-- correct answer-->
+    <string name="g1_l10_q4_option4">Curtain</string>
+    <string name="g1_l10_q4_text">Which will you use for study?</string>
+    <string name="g1_l10_q5_option1">Calf</string>
+    <string name="g1_l10_q5_option2">Joey</string><!-- correct answer-->
+    <string name="g1_l10_q5_option3">Cub</string>
+    <string name="g1_l10_q5_option4">Pup</string>
+    <string name="g1_l10_q5_text">Kangaroo baby is called</string>
+    <string name="g1_l10_q6_option1">Car</string>
+    <string name="g1_l10_q6_option2">Aeroplane</string><!-- correct answer-->
+    <string name="g1_l10_q6_option3">Ship</string>
+    <string name="g1_l10_q6_option4">Boat</string>
+    <string name="g1_l10_q6_text">Which of the following travels in air?</string>
+    <string name="g1_l10_q7_option1">look</string>
+    <string name="g1_l10_q7_option2">sea</string>
+    <string name="g1_l10_q7_option3">read</string>
+    <string name="g1_l10_q7_option4">play</string><!-- correct answer-->
+    <string name="g1_l10_q7_text">we can ----------- games in a computer</string>
+    <string name="g1_l10_q8_option1">Eid-ul-Zuha</string><!-- correct answer-->
+    <string name="g1_l10_q8_option2">Muharram</string>
+    <string name="g1_l10_q8_option3">Eid-ul-Fitr</string>
+    <string name="g1_l10_q8_option4">Milad un Nabi</string>
+    <string name="g1_l10_q8_text">Which muslim festival is called as Festival of the Sacrifice</string>
+    <string name="g1_l10_q9_option1">tropic</string>
+    <string name="g1_l10_q9_option2">equator</string>
+    <string name="g1_l10_q9_option3">latitude</string><!-- correct answer-->
+    <string name="g1_l10_q9_option4">longitude</string>
+    <string name="g1_l10_q9_text">any horizontal line running parallel to the center of the earth is called a ----------</string>
+
+    <string name="g1_l10_q10_option1">Earth</string><!-- correct answer-->
+    <string name="g1_l10_q10_option2">Moon</string>
+    <string name="g1_l10_q10_option3">Sun</string>
+    <string name="g1_l10_q10_option4">Mars</string>
+    <string name="g1_l10_q10_text">Only planet where life exist</string>
+
+
+
+
+    <!-- LEVEL  11-->
+    <string name="g1_l11_q1_option1">Potato</string>
+    <string name="g1_l11_q1_option2">LadyFinger</string>
+    <string name="g1_l11_q1_option3">Carrot</string>
+    <string name="g1_l11_q1_option4">Fig</string><!-- correct answer-->
+    <string name="g1_l11_q1_text">Which of the following is a Fruit?</string>
+    <string name="g1_l11_q2_option1">17000</string>
+    <string name="g1_l11_q2_option2">5000</string>
+    <string name="g1_l11_q2_option3">15000</string>
+    <string name="g1_l11_q2_option4">25000</string><!-- correct answer-->
+    <string name="g1_l11_q2_text">How much total feathers a swan have, on avergae?</string>
+    <string name="g1_l11_q3_option1">Russia</string>
+    <string name="g1_l11_q3_option2">morocco</string>
+    <string name="g1_l11_q3_option3">China</string><!-- correct answer-->
+    <string name="g1_l11_q3_option4">Germany</string>
+    <string name="g1_l11_q3_text">Which is the country has most neighbouring countries in the world?</string>
+    <string name="g1_l11_q4_option1">Objects</string>
+    <string name="g1_l11_q4_option2">Data</string><!-- correct answer-->
+    <string name="g1_l11_q4_option3">Ideas</string>
+    <string name="g1_l11_q4_option4">Facts</string>
+    <string name="g1_l11_q4_text">Once information is input into a computer it becomes</string>
+    <string name="g1_l11_q5_option1">Rome</string>
+    <string name="g1_l11_q5_option2">Copenhagen</string><!-- correct answer-->
+    <string name="g1_l11_q5_option3">Berlin</string>
+    <string name="g1_l11_q5_option4">Port Louis</string>
+    <string name="g1_l11_q5_text">What is capital of Denmark?</string>
+   
+    <string name="g1_l11_q6_option4">New Delhi</string><!-- correct answer-->
+    <string name="g1_l11_q6_option2">Chennai</string>
+    <string name="g1_l11_q6_option3">Mumbai</string>
+    <string name="g1_l11_q6_option1">Kolkata</string>
+    <string name="g1_l11_q6_text">Capital of India</string>
+    <string name="g1_l11_q7_option1">Doha</string>
+    <string name="g1_l11_q7_option2">Singapore</string>
+    <string name="g1_l11_q7_option3">Bangkok</string>
+    <string name="g1_l11_q7_option4">Jakarta</string><!-- correct answer-->
+    <string name="g1_l11_q7_text">Capital of Indonesia</string>
+
+    <string name="g1_l11_q8_option1">18+3</string><!-- correct answer-->
+    <string name="g1_l11_q8_option2">15+5</string>
+    <string name="g1_l11_q8_option3">20+0</string>
+    <string name="g1_l11_q8_option4">1+19</string>
+    <string name="g1_l11_q8_text">Which of the following is not a number bond to 20?</string>
+    <string name="g1_l11_q9_option2">Tokyo</string><!-- correct answer-->
+    <string name="g1_l11_q9_option1">New Delhi</string>
+    <string name="g1_l11_q9_option3">Beijing</string>
+    <string name="g1_l11_q9_option4">Hong Kong</string>
+    <string name="g1_l11_q9_text">Capital of Japan</string>
+
+
+    <string name="g1_l11_q10_option1">Football</string>
+    <string name="g1_l11_q10_option2">Golf</string>
+    <string name="g1_l11_q10_option3">Tennis</string>
+    <string name="g1_l11_q10_option4">Cricket</string><!-- correct answer-->
+    <string name="g1_l11_q10_text">ICC world cup is related to which sport?</string>
+
+
+
+
+
+
+
+    <!-- LEVEL  12-->
+
+
+
+    <string name="g1_l12_q1_option1">Star Fish</string><!-- correct answer-->
+    <string name="g1_l12_q1_option2">Whale Fish</string>
+    <string name="g1_l12_q1_option3">Sea horse</string>
+    <string name="g1_l12_q1_option4">Gold Fish</string>
+    <string name="g1_l12_q1_text">Which of follwing fish have 8 eys?</string>
+
+
+    <string name="g1_l12_q2_option1">Pumpkin</string><!-- correct answer-->
+    <string name="g1_l12_q2_option2">Banana</string>
+    <string name="g1_l12_q2_option3">Tie</string>
+    <string name="g1_l12_q2_option4">Cherry</string>
+    <string name="g1_l12_q2_text">Which of the following is a vegetable?</string>
+    <string name="g1_l12_q3_option1">Screw Driver</string>
+    <string name="g1_l12_q3_option2">Spanners</string>
+    <string name="g1_l12_q3_option3">Utensils</string><!-- correct answer-->
+    <string name="g1_l12_q3_option4">Cars</string>
+    <string name="g1_l12_q3_text">Which of the following you will not find in Motor Garage?</string>
+    <string name="g1_l12_q4_option1">Glass</string><!-- correct answer-->
+    <string name="g1_l12_q4_option2">Tap</string>
+    <string name="g1_l12_q4_option3">Jug</string>
+    <string name="g1_l12_q4_option4">Bowl</string>
+    <string name="g1_l12_q4_text">Which will you use for drinking water?</string>
+    <string name="g1_l12_q5_option1">Calf</string>
+    <string name="g1_l12_q5_option2">Lamb</string>
+    <string name="g1_l12_q5_option3">Cub</string>
+    <string name="g1_l12_q5_option4">Infant</string><!-- correct answer-->
+    <string name="g1_l12_q5_text">Monkey baby is called</string>
+    <string name="g1_l12_q6_option1">Aeroplane</string>
+    <string name="g1_l12_q6_option2">Train</string><!-- correct answer-->
+    <string name="g1_l12_q6_option3">Bus</string>
+    <string name="g1_l12_q6_option4">Truck</string>
+    <string name="g1_l12_q6_text">Which of following does travel on tracks?</string>
+    <string name="g1_l12_q7_option1">19</string>
+    <string name="g1_l12_q7_option2">20</string>
+    <string name="g1_l12_q7_option3">10</string><!-- correct answer-->
+    <string name="g1_l12_q7_option4">2</string>
+    <string name="g1_l12_q7_text">Which number is added to 10 to make 20?</string>
+    <string name="g1_l12_q8_option1">Central Processing Unit (CPU)</string><!-- correct answer-->
+    <string name="g1_l12_q8_option2">monitor</string>
+    <string name="g1_l12_q8_option3">control unit</string>
+    <string name="g1_l12_q8_option4">RAM</string>
+    <string name="g1_l12_q8_text">which of the following is also known as brain of computer</string>
+    <string name="g1_l12_q9_option1">seahorse</string>
+    <string name="g1_l12_q9_option2">ant</string>
+    <string name="g1_l12_q9_option3">sloth</string>
+    <string name="g1_l12_q9_option4">tortoise</string><!-- correct answer-->
+    <string name="g1_l12_q9_text">which is the longest living animal on earth</string>
+
+
+    <string name="g1_l12_q10_option1">Pluto</string><!-- correct answer-->
+    <string name="g1_l12_q10_option2">Uranus</string>
+    <string name="g1_l12_q10_option3">Venus</string>
+    <string name="g1_l12_q10_option4">Neptune</string>
+    <string name="g1_l12_q10_text">Which planet is now called as dwarf Planet?</string>
+
+
+
+
+    <!-- LEVEL  13-->
+
+
+    <string name="g1_l13_q1_option1">PineCorn</string>
+    <string name="g1_l13_q1_option2">LadyFinger</string>
+    <string name="g1_l13_q1_option3">Carrot</string>
+    <string name="g1_l13_q1_option4">Papaya</string><!-- correct answer-->
+    <string name="g1_l13_q1_text">Which of the following is a Fruit?</string>
+    <string name="g1_l13_q2_option1">Ball</string>
+    <string name="g1_l13_q2_option2">Moon</string>
+    <string name="g1_l13_q2_option3">Cherry</string>
+    <string name="g1_l13_q2_option4">Corn</string><!-- correct answer-->
+    <string name="g1_l13_q2_text">Which of the following is a vegetable?</string>
+    <string name="g1_l13_q3_option1">Kashmir</string>
+    <string name="g1_l13_q3_option2">United Kingdom</string>
+    <string name="g1_l13_q3_option3">Switzerland</string><!-- correct answer-->
+    <string name="g1_l13_q3_option4">France</string>
+    <string name="g1_l13_q3_text">Which country is also called Heaven of earth?</string>
+    <string name="g1_l13_q4_option1">Super computer</string>
+    <string name="g1_l13_q4_option2">Mini computer</string>
+    <string name="g1_l13_q4_option3">File servers</string>
+    <string name="g1_l13_q4_option4">Laptop</string><!-- correct answer-->
+    <string name="g1_l13_q4_text">A computer portable and easy to carry by travellers is</string>
+    <string name="g1_l13_q5_option1">Paris</string>
+    <string name="g1_l13_q5_option2">Nairobi</string>
+    <string name="g1_l13_q5_option3">Prague</string><!-- correct answer-->
+    <string name="g1_l13_q5_option4">New Delhi</string>
+    <string name="g1_l13_q5_text">What is capital of Czech Republic?</string>
+    <string name="g1_l13_q6_option1">printer</string>
+    <string name="g1_l13_q6_option2">keyboard</string>
+    <string name="g1_l13_q6_option3">mouse</string>
+    <string name="g1_l13_q6_option4">cat</string><!-- correct answer-->
+    <string name="g1_l13_q6_text">Which of the following is not a part of computer</string>
+    <string name="g1_l13_q7_option1">femur</string><!-- correct answer-->
+    <string name="g1_l13_q7_option2">vomer</string>
+    <string name="g1_l13_q7_option3">humerus</string>
+    <string name="g1_l13_q7_option4">patella</string>
+    <string name="g1_l13_q7_text">which is the largest bone in human body</string>
+    <string name="g1_l13_q8_option1">Newton</string>
+    <string name="g1_l13_q8_option2">Galileo</string><!-- correct answer-->
+    <string name="g1_l13_q8_option3">John Logie Baird</string>
+    <string name="g1_l13_q8_option4">Guglielmo Marconi</string>
+    <string name="g1_l13_q8_text">Who developed a powerful telescope?</string>
+    <string name="g1_l13_q9_option1">Calcium</string>
+    <string name="g1_l13_q9_option2">Vitamins</string>
+    <string name="g1_l13_q9_option3">Sugar</string>
+    <string name="g1_l13_q9_option4">Insulin</string><!-- correct answer-->
+    <string name="g1_l13_q9_text">Lack of what causes Diabetes?</string>
+
+
+    <string name="g1_l13_q10_option1">Football</string><!-- correct answer-->
+    <string name="g1_l13_q10_option2">Golf</string>
+    <string name="g1_l13_q10_option3">Tennis</string>
+    <string name="g1_l13_q10_option4">Cricket</string>
+    <string name="g1_l13_q10_text">FIFA organisation is related to which sport?</string>
+
+
+
+
+
+    <!-- LEVEL  14-->
+
+    <string name="g1_l14_q1_option1">Rabbit</string>
+    <string name="g1_l14_q1_option2">Dog</string>
+    <string name="g1_l14_q1_option3">Cat</string><!-- correct answer-->
+    <string name="g1_l14_q1_option4">Cow</string>
+    <string name="g1_l14_q1_text">Which pet animal do not know taste of sweet items?</string>
+    <string name="g1_l14_q2_option1">Bidwise</string>
+    <string name="g1_l14_q2_option2">Parliament</string>
+    <string name="g1_l14_q2_option3">Nectar</string>
+    <string name="g1_l14_q2_option4">Congress</string><!-- correct answer-->
+    <string name="g1_l14_q2_text">The group of crows is called</string>
+
+
+    <string name="g1_l14_q3_option1">Swing</string>
+    <string name="g1_l14_q3_option2">Washing Machine</string><!-- correct answer-->
+    <string name="g1_l14_q3_option3">Ride</string>
+    <string name="g1_l14_q3_option4">Bench</string>
+    <string name="g1_l14_q3_text">Which of the following you will not find in Garden?</string>
+    <string name="g1_l14_q4_option1">Toys</string>
+    <string name="g1_l14_q4_option2">Train</string>
+    <string name="g1_l14_q4_option3">Television</string><!-- correct answer-->
+    <string name="g1_l14_q4_option4">Table</string>
+    <string name="g1_l14_q4_text">Which will you use for entertainment?</string>
+    <string name="g1_l14_q5_option1">Calf</string>
+    <string name="g1_l14_q5_option2">Lamb</string>
+    <string name="g1_l14_q5_option3">Cub</string><!-- correct answer-->
+    <string name="g1_l14_q5_option4">Pup</string>
+    <string name="g1_l14_q5_text">Cheetah baby is called</string>
+    <string name="g1_l14_q6_option1">Boat</string>
+    <string name="g1_l14_q6_option2">Helicopter</string><!-- correct answer-->
+    <string name="g1_l14_q6_option3">Ship</string>
+    <string name="g1_l14_q6_option4">Yatcht</string>
+    <string name="g1_l14_q6_text">Which of following does not travel on water?</string>
+    <string name="g1_l14_q7_option1">vitamin B</string>
+    <string name="g1_l14_q7_option2">vitamin C</string>
+    <string name="g1_l14_q7_option3">vitamin D</string><!-- correct answer-->
+    <string name="g1_l14_q7_option4">vitamin A</string>
+    <string name="g1_l14_q7_text">which vitamin we gets from sun</string>
+    <string name="g1_l14_q8_option1">brith certificate</string>
+    <string name="g1_l14_q8_option2">driving licence</string>
+    <string name="g1_l14_q8_option3">passport</string><!-- correct answer-->
+    <string name="g1_l14_q8_option4">chek book</string>
+    <string name="g1_l14_q8_text">what do you usually need to travel from one country to another</string>
+    <string name="g1_l14_q9_option1">rigel</string>
+    <string name="g1_l14_q9_option2">vega</string>
+    <string name="g1_l14_q9_option3">sun</string><!-- correct answer-->
+    <string name="g1_l14_q9_option4">sirius</string>
+    <string name="g1_l14_q9_text">which is the nearest star to the earth</string>
+
+    <string name="g1_l14_q10_option1">8</string>
+    <string name="g1_l14_q10_option2">5</string><!-- correct answer-->
+    <string name="g1_l14_q10_option3">6</string>
+    <string name="g1_l14_q10_option4">9</string>
+    <string name="g1_l14_q10_text">How many dwarf planet in the Solar System?</string>
+
+
+    <!-- LEVEL 15 -->
+
+    <string name="g1_l15_q1_option1">PineCorn</string>
+    <string name="g1_l15_q1_option2">Guava</string><!-- correct answer-->
+    <string name="g1_l15_q1_option3">Carrot</string>
+    <string name="g1_l15_q1_option4">LadyFinger</string>
+    <string name="g1_l15_q1_text">Which of the following is a Fruit?</string>
+    <string name="g1_l15_q2_option1">Basil</string>
+    <string name="g1_l15_q2_option2">Grapes</string>
+    <string name="g1_l15_q2_option3">Apple</string>
+    <string name="g1_l15_q2_option4">Beet Root</string><!-- correct answer-->
+    <string name="g1_l15_q2_text">Which of the following is a vegetable?</string>
+    <string name="g1_l15_q3_option1">TV Shop</string><!-- correct answer-->
+    <string name="g1_l15_q3_option2">Chairs</string>
+    <string name="g1_l15_q3_option3">Law Books</string>
+    <string name="g1_l15_q3_option4">Lawyers</string>
+    <string name="g1_l15_q3_text">Which of the following you will not find in Judicial Court?</string>
+
+
+
+
+    <string name="g1_l15_q4_option1">Super computer</string><!-- correct answer-->
+    <string name="g1_l15_q4_option2">Micro computer</string>
+    <string name="g1_l15_q4_option3">Note Book</string>
+    <string name="g1_l15_q4_option4">Laptop</string>
+    <string name="g1_l15_q4_text">The most powerful computer is</string>
+    <string name="g1_l15_q5_option1">Athens</string><!-- correct answer-->
+    <string name="g1_l15_q5_option2">Baghdad</string>
+    <string name="g1_l15_q5_option3">Moscow</string>
+    <string name="g1_l15_q5_option4">Rabat</string>
+    <string name="g1_l15_q5_text">What is capital of Greece?</string>
+    <string name="g1_l15_q6_option1">Tiger</string>
+    <string name="g1_l15_q6_option2">Ashok Chakra</string>
+    <string name="g1_l15_q6_option3">Four lions of Sarnath</string><!-- correct answer-->
+    <string name="g1_l15_q6_option4">Lotus</string>
+    <string name="g1_l15_q6_text">who invented mobile phone</string>
+    <string name="g1_l15_q7_option1">brain</string>
+    <string name="g1_l15_q7_option2">heart</string><!-- correct answer-->
+    <string name="g1_l15_q7_option3">kidney</string>
+    <string name="g1_l15_q7_option4">lungs</string>
+    <string name="g1_l15_q7_text">which of the following circulates blood throughout the body</string>
+    <string name="g1_l15_q8_option1">Newton</string>
+    <string name="g1_l15_q8_option2">Galileo</string>
+    <string name="g1_l15_q8_option3">James Watt</string><!-- correct answer-->
+    <string name="g1_l15_q8_option4">Guglielmo Marconi</string>
+    <string name="g1_l15_q8_text">Who was inventor of the steam engine?</string>
+    <string name="g1_l15_q9_option1">To remove waste from body</string><!-- correct answer-->
+    <string name="g1_l15_q9_option2">To digest the food</string>
+    <string name="g1_l15_q9_option3">To control blood pressure</string>
+    <string name="g1_l15_q9_option4">To control blood temprature</string>
+    <string name="g1_l15_q9_text">Main function of Kidney is</string>
+
+    <string name="g1_l15_q10_option1">Football</string><!-- correct answer-->
+    <string name="g1_l15_q10_option2">Golf</string>
+    <string name="g1_l15_q10_option3">Tennis</string>
+    <string name="g1_l15_q10_option4">Cricket</string>
+    <string name="g1_l15_q10_text">FIFA world cup is related to which sport?</string>
+
+
+
+
+    <!-- _________________________________________________________________________________________________ -->
+
+
+    <!-- GROUP B -->
+
+
+    <!-- LEVEL  1 -->
+
+    <string name="g2_l1_q1_option1">Ankle</string>
+    <string name="g2_l1_q1_option2">Tail</string><!-- correct answer-->
+    <string name="g2_l1_q1_option3">Leg</string>
+    <string name="g2_l1_q1_option4">None</string>
+    <string name="g2_l1_q1_text">How does kangaroo balance his body, using?</string>
+    <string name="g2_l1_q2_option1">Bidwise</string>
+    <string name="g2_l1_q2_option2">Parliament</string><!-- correct answer-->
+    <string name="g2_l1_q2_option3">Nectar</string>
+    <string name="g2_l1_q2_option4">Congress</string>
+    <string name="g2_l1_q2_text">The group of owls is called</string>
+    <string name="g2_l1_q3_option1">Qatar</string><!-- correct answer-->
+    <string name="g2_l1_q3_option2">Germany</string>
+    <string name="g2_l1_q3_option3">Vatican City</string>
+    <string name="g2_l1_q3_option4">United State of America</string>
+    <string name="g2_l1_q3_text">Which is the richest country in the world?</string>
+
+    <string name="g2_l1_q4_option3">Tokyo</string>
+    <string name="g2_l1_q4_option2">New Delhi</string>
+    <string name="g2_l1_q4_option1">Beijing</string><!-- correct answer-->
+    <string name="g2_l1_q4_option4">Hong Kong</string>
+    <string name="g2_l1_q4_text">Capital of China</string>
+
+    <string name="g2_l1_q5_option1">11</string>
+    <string name="g2_l1_q5_option2">12</string>
+    <string name="g2_l1_q5_option3">13</string>
+    <string name="g2_l1_q5_option4">14</string><!-- correct answer-->
+    <string name="g2_l1_q5_text">Which number is missing: 5 = 19 - ?</string>
+    <string name="g2_l1_q6_option1">Karachi</string>
+    <string name="g2_l1_q6_option2">New Delhi</string>
+    <string name="g2_l1_q6_option4">Beijing</string>
+    <string name="g2_l1_q6_option3">Kabul</string><!-- correct answer-->
+    <string name="g2_l1_q6_text">Capital of Afghanistan</string>
+
+    <string name="g2_l1_q7_option1">keyboard</string>
+    <string name="g2_l1_q7_option2">mouse</string>
+    <string name="g2_l1_q7_option3">printer</string>
+    <string name="g2_l1_q7_option4">computer screen</string><!-- correct answer-->
+    <string name="g2_l1_q7_text">monitor is called the ---------</string>
+    <string name="g2_l1_q8_option1">stable</string>
+    <string name="g2_l1_q8_option2">den</string>
+    <string name="g2_l1_q8_option3">sty</string><!-- correct answer-->
+    <string name="g2_l1_q8_option4">shed</string>
+    <string name="g2_l1_q8_text">a pig lives in a -----------</string>
+    <string name="g2_l1_q9_option1">15%</string>
+    <string name="g2_l1_q9_option2">25%</string>
+    <string name="g2_l1_q9_option3">45%</string><!-- correct answer-->
+    <string name="g2_l1_q9_option4">65%</string>
+    <string name="g2_l1_q9_text">How much people of world celebrate festivals during Chritsmas season?</string>
+    <string name="g2_l1_q10_option1">Mercury</string>
+    <string name="g2_l1_q10_option2">Venus</string><!-- correct answer-->
+    <string name="g2_l1_q10_option3">Earth</string>
+    <string name="g2_l1_q10_option4">Pluto</string>
+    <string name="g2_l1_q10_text">Which planet is hottest planet?</string>
+
+    <!-- LEVEL   2-->
+    <string name="g2_l2_q1_option1">Football</string>
+    <string name="g2_l2_q1_option2">Badminton</string><!-- correct answer-->
+    <string name="g2_l2_q1_option3">Tennis</string>
+    <string name="g2_l2_q1_option4">Cricket</string>
+    <string name="g2_l2_q1_text">All England Open Championship is related to which sport?</string>
+
+    <string name="g2_l2_q2_option1">Basil</string>
+    <string name="g2_l2_q2_option2">Strawberry</string>
+    <string name="g2_l2_q2_option3">Capsicum</string><!-- correct answer-->
+    <string name="g2_l2_q2_option4">Sunflower</string>
+    <string name="g2_l2_q2_text">Which of the following is a vegetable?</string>
+    <string name="g2_l2_q3_option1">Pen</string>
+    <string name="g2_l2_q3_option2">Table</string>
+    <string name="g2_l2_q3_option3">Chair</string>
+    <string name="g2_l2_q3_option4">Utensils</string><!-- correct answer-->
+    <string name="g2_l2_q3_text">Which of the following you will not find in Office Room?</string>
+    <string name="g2_l2_q4_option1">7</string>
+    <string name="g2_l2_q4_option2">12</string>
+    <string name="g2_l2_q4_option3">6</string>
+    <string name="g2_l2_q4_option4">4</string><!-- correct answer-->
+    <string name="g2_l2_q4_text">Which number is missing:        20 &#8211; 4 = 12 + ?</string>
+
+
+    <string name="g2_l2_q5_option1">Prague</string>
+    <string name="g2_l2_q5_option2">Budapest</string><!-- correct answer-->
+    <string name="g2_l2_q5_option3">Moscow</string>
+    <string name="g2_l2_q5_option4">Nairobi</string>
+    <string name="g2_l2_q5_text">What is capital of Hungary?</string>
+    <string name="g2_l2_q6_option1">architect</string><!-- correct answer-->
+    <string name="g2_l2_q6_option2">mason</string>
+    <string name="g2_l2_q6_option3">builder</string>
+    <string name="g2_l2_q6_option4">people</string>
+    <string name="g2_l2_q6_text">the person who designs houses and buildings</string>
+    <string name="g2_l2_q7_option1">Karchi</string>
+    <string name="g2_l2_q7_option2">New Delhi</string>
+    <string name="g2_l2_q7_option3">Dhaka</string><!-- correct answer-->
+    <string name="g2_l2_q7_option4">Kabul</string>
+    <string name="g2_l2_q7_text">Capital of Bangladesh</string>
+
+    <string name="g2_l2_q8_option1">5</string>
+    <string name="g2_l2_q8_option2">12</string>
+    <string name="g2_l2_q8_option3">0</string><!-- correct answer-->
+    <string name="g2_l2_q8_option4">10</string>
+    <string name="g2_l2_q8_text">Which number is missing: 20 - ? = 5 + 5 + 5 + 5</string>
+    <string name="g2_l2_q9_option1">Doha</string>
+    <string name="g2_l2_q9_option2">Islamabad</string>
+    <string name="g2_l2_q9_option3">Abu Dhabi</string><!-- correct answer-->
+    <string name="g2_l2_q9_option4">New Delhi</string>
+    <string name="g2_l2_q9_text">Capital of United Arab Emirates</string>
+
+    <string name="g2_l2_q10_option1">Basil</string>
+    <string name="g2_l2_q10_option2">Pomegranate</string><!-- correct answer-->
+    <string name="g2_l2_q10_option3">Carrot</string>
+    <string name="g2_l2_q10_option4">LadyFinger</string>
+    <string name="g2_l2_q10_text">Which of the following is a Fruit?</string>
+
+    <!-- LEVEL  3 -->
+
+
+    <string name="g2_l3_q1_option1">Goat</string>
+    <string name="g2_l3_q1_option2">Horse</string>
+    <string name="g2_l3_q1_option3">Koala</string><!-- correct answer-->
+    <string name="g2_l3_q1_option4">Panda</string>
+    <string name="g2_l3_q1_text">Which animal only eats eucalyptus leaves?</string>
+    <string name="g2_l3_q2_option1">8000</string>
+    <string name="g2_l3_q2_option2">1000</string>
+    <string name="g2_l3_q2_option3">10000</string><!-- correct answer-->
+    <string name="g2_l3_q2_option4">5000</string>
+    <string name="g2_l3_q2_text">How much total spices of birds are known?</string>
+    <string name="g2_l3_q3_option1">United State of America</string>
+    <string name="g2_l3_q3_option2">China</string><!-- correct answer-->
+    <string name="g2_l3_q3_option3">Australia</string>
+    <string name="g2_l3_q3_option4">morocco</string>
+    <string name="g2_l3_q3_text">Which is the country has highest army personnel?</string>
+    <string name="g2_l3_q4_option1">Scanner</string>
+    <string name="g2_l3_q4_option2">Keyboard</string><!-- correct answer-->
+    <string name="g2_l3_q4_option3">Mouse</string>
+    <string name="g2_l3_q4_option4">Printer</string>
+    <string name="g2_l3_q4_text">The general method for to input text and numerical data in computer is by</string>
+    <string name="g2_l3_q5_option1">6</string><!-- correct answer-->
+    <string name="g2_l3_q5_option2">2</string>
+    <string name="g2_l3_q5_option3">4</string>
+    <string name="g2_l3_q5_option4">8</string>
+    <string name="g2_l3_q5_text">Which number is missing: 8 - ? = 2</string>
+    <string name="g2_l3_q6_option1">Doha</string>
+    <string name="g2_l3_q6_option2">Baghdad</string>
+    <string name="g2_l3_q6_option3">Moscow</string>
+    <string name="g2_l3_q6_option4">Rabat</string><!-- correct answer-->
+    <string name="g2_l3_q6_text">Capital of Morocco</string>
+
+    <string name="g2_l3_q7_option1">8</string><!-- correct answer-->
+    <string name="g2_l3_q7_option2">11</string>
+    <string name="g2_l3_q7_option3">9</string>
+    <string name="g2_l3_q7_option4">6</string>
+    <string name="g2_l3_q7_text">Which number is missing: 2 + 3 + 6 = 19 - ?</string>
+    <string name="g2_l3_q8_option1">kennel</string>
+    <string name="g2_l3_q8_option2">anthill</string><!-- correct answer-->
+    <string name="g2_l3_q8_option3">coop</string>
+    <string name="g2_l3_q8_option4">stable</string>
+    <string name="g2_l3_q8_text">an ant lives in a ---------</string>
+    <string name="g2_l3_q9_option1">Bonfire</string>
+    <string name="g2_l3_q9_option2">Halloween</string>
+    <string name="g2_l3_q9_option3">Thanks Giving</string><!-- correct answer-->
+    <string name="g2_l3_q9_option4">Easter</string>
+    <string name="g2_l3_q9_text">The US harvest festival name for saying thanks to God?</string>
+
+    <string name="g2_l3_q10_option1">Inspector</string>
+    <string name="g2_l3_q10_option2">Scientist</string>
+    <string name="g2_l3_q10_option3">Astronauts</string><!-- correct answer-->
+    <string name="g2_l3_q10_option4">Doctor</string>
+    <string name="g2_l3_q10_text">People who travel in space are called</string>
+
+    <!-- LEVEL  4 -->
+    <string name="g2_l4_q1_option1">Radish</string>
+    <string name="g2_l4_q1_option2">Kiwi</string><!-- correct answer-->
+    <string name="g2_l4_q1_option3">Carrot</string>
+    <string name="g2_l4_q1_option4">Potato</string>
+    <string name="g2_l4_q1_text">Which of the following is a Fruit?</string>
+
+    <string name="g2_l4_q2_option1">3</string><!-- correct answer-->
+    <string name="g2_l4_q2_option2">5</string>
+    <string name="g2_l4_q2_option3">4</string>
+    <string name="g2_l4_q2_option4">6</string>
+    <string name="g2_l4_q2_text">Which number is missing: 20 = 17 + ?</string>
+    <string name="g2_l4_q3_option1">Shops</string>
+    <string name="g2_l4_q3_option2">Bus</string>
+    <string name="g2_l4_q3_option3">Time Table</string>
+    <string name="g2_l4_q3_option4">Washing Machine</string><!-- correct answer-->
+    <string name="g2_l4_q3_text">Which of the following you will not find in Bus Station?</string>
+    <string name="g2_l4_q4_option1">Hat</string>
+    <string name="g2_l4_q4_option2">Helmet</string><!-- correct answer-->
+    <string name="g2_l4_q4_option3">Rain Coat</string>
+    <string name="g2_l4_q4_option4">Umbrella</string>
+    <string name="g2_l4_q4_text">Which will you use while riding the bike?</string>
+
+    <string name="g2_l4_q5_option1">Manchester</string>
+    <string name="g2_l4_q5_option2">London</string>
+    <string name="g2_l4_q5_option3">Cardiff</string>
+    <string name="g2_l4_q5_option4">Edinburgh</string><!-- correct answer-->
+    <string name="g2_l4_q5_text">Capital of Scotland</string>
+
+    <string name="g2_l4_q6_option1">sheep</string>
+    <string name="g2_l4_q6_option2">camel</string><!-- correct answer-->
+    <string name="g2_l4_q6_option3">elephent</string>
+    <string name="g2_l4_q6_option4">cow</string>
+    <string name="g2_l4_q6_text">Which animal is known as ship of desert</string>
+    <string name="g2_l4_q7_option1">hardy</string>
+    <string name="g2_l4_q7_option2">jerry</string><!-- correct answer-->
+    <string name="g2_l4_q7_option3">gretel</string>
+    <string name="g2_l4_q7_option4">goliath</string>
+    <string name="g2_l4_q7_text">who is the correct partner of Tom</string>
+    <string name="g2_l4_q8_option1">Green Mean Time</string>
+    <string name="g2_l4_q8_option2">German Mean Time</string>
+    <string name="g2_l4_q8_option3">Ground Mean Time</string>
+    <string name="g2_l4_q8_option4">Greenwich Mean Time</string><!-- correct answer-->
+    <string name="g2_l4_q8_text">What does GMT stands for?</string>
+    <string name="g2_l4_q9_option1">Liver</string>
+    <string name="g2_l4_q9_option2">Skin</string><!-- correct answer-->
+    <string name="g2_l4_q9_option3">Kidney</string>
+    <string name="g2_l4_q9_option4">Heart</string>
+    <string name="g2_l4_q9_text">What is the biggest organ in the Human Body?</string>
+
+    <string name="g2_l4_q10_option1">10</string>
+    <string name="g2_l4_q10_option2">4</string>
+    <string name="g2_l4_q10_option3">7</string>
+    <string name="g2_l4_q10_option4">3</string><!-- correct answer-->
+    <string name="g2_l4_q10_text">Which number is missing: 3 + 4 = 10 - ?</string>
+
+    <!-- LEVEL  5 -->
+
+    <string name="g2_l5_q1_option1">Tiger</string>
+    <string name="g2_l5_q1_option2">Bat</string><!-- correct answer-->
+    <string name="g2_l5_q1_option3">Cock</string>
+    <string name="g2_l5_q1_option4">Monkey</string>
+    <string name="g2_l5_q1_text">Mammal(animal) who can fly?</string>
+    <string name="g2_l5_q2_option1">Sparrow</string>
+    <string name="g2_l5_q2_option2">Cuckoo</string><!-- correct answer-->
+    <string name="g2_l5_q2_option3">Parrot</string>
+    <string name="g2_l5_q2_option4">Crow</string>
+    <string name="g2_l5_q2_text">Which bird does not make his own nest?</string>
+    <string name="g2_l5_q3_option1">shed</string><!-- correct answer-->
+    <string name="g2_l5_q3_option2">coop</string>
+    <string name="g2_l5_q3_option3">nest</string>
+    <string name="g2_l5_q3_option4">kennel</string>
+    <string name="g2_l5_q3_text">a cow lives in a -----</string>
+    <string name="g2_l5_q4_option1">World Wide Window</string>
+    <string name="g2_l5_q4_option2">World Wide Web</string><!-- correct answer-->
+    <string name="g2_l5_q4_option3">Wide Web World</string>
+    <string name="g2_l5_q4_option4">Window Web World</string>
+    <string name="g2_l5_q4_text">What is full form of WWW?</string>
+    <string name="g2_l5_q5_option1">bhutan</string><!-- correct answer-->
+    <string name="g2_l5_q5_option2">wales</string>
+    <string name="g2_l5_q5_option3">ghana</string>
+    <string name="g2_l5_q5_option4">brazil</string>
+    <string name="g2_l5_q5_text">identify the flag</string>
+    <string name="g2_l5_q6_option1">duck</string>
+    <string name="g2_l5_q6_option2">ostrich</string><!-- correct answer-->
+    <string name="g2_l5_q6_option3">peacock</string>
+    <string name="g2_l5_q6_option4">puffin</string>
+    <string name="g2_l5_q6_text">which bird can run faster than horses and roar like lion</string>
+
+    <string name="g2_l5_q7_option1">Chinese Renminbi</string>
+    <string name="g2_l5_q7_option2">US Dollar</string>
+    <string name="g2_l5_q7_option4">Hong Kong Dollar</string><!-- correct answer-->
+    <string name="g2_l5_q7_option3">British Dollar</string>
+    <string name="g2_l5_q7_text">Currency of Hong Kong</string>
+
+
+    <string name="g2_l5_q8_option1">karl benz</string><!-- correct answer-->
+    <string name="g2_l5_q8_option2">isaac newton</string>
+    <string name="g2_l5_q8_option3">james watt</string>
+    <string name="g2_l5_q8_option4">alexander graham bell</string>
+    <string name="g2_l5_q8_text">who invented car</string>
+    <string name="g2_l5_q9_option1">ghee</string><!-- correct answer-->
+    <string name="g2_l5_q9_option2">jam</string>
+    <string name="g2_l5_q9_option3">jelly</string>
+    <string name="g2_l5_q9_option4">honey</string>
+    <string name="g2_l5_q9_text">which of the following is made of milk</string>
+    <string name="g2_l5_q10_option1">9</string>
+    <string name="g2_l5_q10_option2">8</string><!-- correct answer-->
+    <string name="g2_l5_q10_option3">10</string>
+    <string name="g2_l5_q10_option4">4</string>
+    <string name="g2_l5_q10_text">How many planets are there in the Solar System?</string>
+
+    <!-- LEVEL   6-->
+
+    <string name="g2_l6_q1_option1">Apple</string><!-- correct answer-->
+    <string name="g2_l6_q1_option2">Peas</string>
+    <string name="g2_l6_q1_option3">Basil</string>
+    <string name="g2_l6_q1_option4">Potato</string>
+    <string name="g2_l6_q1_text">Which of the following is a Fruit?</string>
+    <string name="g2_l6_q2_option1">Apple</string>
+    <string name="g2_l6_q2_option2">Banana</string>
+    <string name="g2_l6_q2_option3">Carrot</string><!-- correct answer-->
+    <string name="g2_l6_q2_option4">Grapes</string>
+    <string name="g2_l6_q2_text">Which of the following is a vegetable?</string>
+    <string name="g2_l6_q3_option1">Neil Armstrong (1969)</string>
+    <string name="g2_l6_q3_option3">Yuri Gagarin (1961)</string><!-- correct answer-->
+    <string name="g2_l6_q3_option2">Rakesh Sharma (1984)</string>
+    <string name="g2_l6_q3_option4">Kalpana Chawala (1997)</string>
+    <string name="g2_l6_q3_text">Who was the first person to reach space?</string>
+    <string name="g2_l6_q4_option3">Neil Armstrong (1969)</string><!-- correct answer-->
+    <string name="g2_l6_q4_option2">Yuri Gagarin (1961)</string>
+    <string name="g2_l6_q4_option1">Rakesh Sharma (1984)</string>
+    <string name="g2_l6_q4_option4">Kalpana Chawala (1997)</string>
+    <string name="g2_l6_q4_text">Who was the first person to step on the Moon?</string>
+
+    <string name="g2_l6_q5_option1">Calf</string>
+    <string name="g2_l6_q5_option2">Lamb</string><!-- correct answer-->
+    <string name="g2_l6_q5_option3">Cub</string>
+    <string name="g2_l6_q5_option4">Pup</string>
+    <string name="g2_l6_q5_text">Sheep baby is called</string>
+    <string name="g2_l6_q6_option1">Two Million</string>
+    <string name="g2_l6_q6_option2">Half a million</string><!-- correct answer-->
+    <string name="g2_l6_q6_option3">A Million</string>
+    <string name="g2_l6_q6_option4">One Lakh</string>
+    <string name="g2_l6_q6_text">On average, how many people are flying in the air at any time?</string>
+
+
+    <string name="g2_l6_q7_option1">nose</string>
+    <string name="g2_l6_q7_option2">eyes</string><!-- correct answer-->
+    <string name="g2_l6_q7_option3">ears</string>
+    <string name="g2_l6_q7_option4">skin</string>
+    <string name="g2_l6_q7_text">human sees with their</string>
+    <string name="g2_l6_q8_option1">Meters</string>
+    <string name="g2_l6_q8_option2">Liters</string>
+    <string name="g2_l6_q8_option3">Watts</string><!-- correct answer-->
+    <string name="g2_l6_q8_option4">Grams</string>
+    <string name="g2_l6_q8_text">Electric power is typically measured in what units?</string>
+    <string name="g2_l6_q9_option1">204</string>
+    <string name="g2_l6_q9_option2">206</string><!-- correct answer-->
+    <string name="g2_l6_q9_option3">312</string>
+    <string name="g2_l6_q9_option4">306</string>
+    <string name="g2_l6_q9_text">How many bones are in human body?</string>
+
+    <string name="g2_l6_q10_option1">11</string><!-- correct answer-->
+    <string name="g2_l6_q10_option2">10</string>
+    <string name="g2_l6_q10_option3">22</string>
+    <string name="g2_l6_q10_option4">16</string>
+    <string name="g2_l6_q10_text">How many players in international Cricket team?</string>
+
+
+
+
+
+
+
+    <!-- LEVEL  7 -->
+
+    <string name="g2_l7_q1_option1">Star Fish</string>
+    <string name="g2_l7_q1_option2">Whale Fish</string>
+    <string name="g2_l7_q1_option3">Sea horse</string><!-- correct answer-->
+    <string name="g2_l7_q1_option4">Gold Fish</string>
+    <string name="g2_l7_q1_text">Which is slowest fish in whole world?</string>
+    <string name="g2_l7_q2_option1">Color</string>
+    <string name="g2_l7_q2_option2">Color and Sound</string><!-- correct answer-->
+    <string name="g2_l7_q2_option3">Smell</string>
+    <string name="g2_l7_q2_option4">Eyes</string>
+    <string name="g2_l7_q2_text">How birds communicate with each other?</string>
+    <string name="g2_l7_q3_option1">Tugela Falls</string>
+    <string name="g2_l7_q3_option2">Angel Falls</string><!-- correct answer-->
+    <string name="g2_l7_q3_option3">Cataratas Fall</string>
+    <string name="g2_l7_q3_option4">Niagara falls</string>
+    <string name="g2_l7_q3_text">Which is the highest waterfall in the world?</string>
+    <string name="g2_l7_q4_option1">Local Area Network</string>
+    <string name="g2_l7_q4_option2">Personal Area Network</string><!-- correct answer-->
+    <string name="g2_l7_q4_option3">Wide Area Network</string>
+    <string name="g2_l7_q4_option4">Virtual Private Network</string>
+    <string name="g2_l7_q4_text">Bluetooth is an example of</string>
+    <string name="g2_l7_q5_option1">Vienna</string><!-- correct answer-->
+    <string name="g2_l7_q5_option2">Sydney</string>
+    <string name="g2_l7_q5_option3">Moscow</string>
+    <string name="g2_l7_q5_option4">Reykjavik</string>
+    <string name="g2_l7_q5_text">What is capital of Austria?</string>
+    <string name="g2_l7_q6_option1">345</string>
+    <string name="g2_l7_q6_option2">343</string>
+    <string name="g2_l7_q6_option3">3034</string>
+    <string name="g2_l7_q6_option4">334</string><!-- correct answer-->
+    <string name="g2_l7_q6_text">300+30+4=</string>
+    <string name="g2_l7_q7_option1">grass land</string><!-- correct answer-->
+    <string name="g2_l7_q7_option2">stable</string>
+    <string name="g2_l7_q7_option3">nest</string>
+    <string name="g2_l7_q7_option4">den</string>
+    <string name="g2_l7_q7_text">a kangaroo lives in a --------</string>
+
+
+
+    <string name="g2_l7_q8_option1">pressure</string>
+    <string name="g2_l7_q8_option2">gravity</string><!-- correct answer-->
+    <string name="g2_l7_q8_option3">mass</string>
+    <string name="g2_l7_q8_option4">temperature</string>
+    <string name="g2_l7_q8_text">which is the force that attracts a body twards the centre of the earth</string>
+    <string name="g2_l7_q9_option1">Death</string>
+    <string name="g2_l7_q9_option2">Birth</string><!-- correct answer-->
+    <string name="g2_l7_q9_option3">Exile</string>
+    <string name="g2_l7_q9_option4">Reunion</string>
+    <string name="g2_l7_q9_text">Easter Egg is symbol of what?</string>
+    <string name="g2_l7_q10_option1">1990</string>
+    <string name="g2_l7_q10_option2">2000</string>
+    <string name="g2_l7_q10_option3">2009</string>
+    <string name="g2_l7_q10_option4">2006</string><!-- correct answer-->
+    <string name="g2_l7_q10_text">When Pluto was declared as dwarf planet?</string>
+
+
+    <!-- LEVEL  8 -->
+    <string name="g2_l8_q1_option1">European Euro</string>
+    <string name="g2_l8_q1_option3">US Dollar</string>
+    <string name="g2_l8_q1_option2">Russian Ruble</string><!-- correct answer-->
+    <string name="g2_l8_q1_option4">British Pound</string>
+    <string name="g2_l8_q1_text">Currency of Russia</string>
+    <string name="g2_l8_q2_option1">384,40 KM</string>
+    <string name="g2_l8_q2_option2">384,400 KM</string><!-- correct answer-->
+    <string name="g2_l8_q2_option3">3,844,400 KM</string>
+    <string name="g2_l8_q2_option4">3,840 KM</string>
+    <string name="g2_l8_q2_text">What is the Average distance of Moon from Earth?</string>
+    <string name="g2_l8_q3_option1">White Board</string>
+    <string name="g2_l8_q3_option2">Bench</string>
+    <string name="g2_l8_q3_option3">Teachers</string>
+    <string name="g2_l8_q3_option4">Electronics Shop</string><!-- correct answer-->
+    <string name="g2_l8_q3_text">Which of the following you will not find in School?</string>
+    <string name="g2_l8_q4_option1">Cloth</string>
+    <string name="g2_l8_q4_option2">Glass</string>
+    <string name="g2_l8_q4_option3">Vacuum Cleaner</string><!-- correct answer-->
+    <string name="g2_l8_q4_option4">Plate</string>
+    <string name="g2_l8_q4_text">Which will you use for cleaning the house?</string>
+    <string name="g2_l8_q5_option1">Calf</string>
+    <string name="g2_l8_q5_option2">Foal</string><!-- correct answer-->
+    <string name="g2_l8_q5_option3">Cub</string>
+    <string name="g2_l8_q5_option4">Pup</string>
+    <string name="g2_l8_q5_text">Zebra baby is called</string>
+    <string name="g2_l8_q6_option1">Cycle</string><!-- correct answer-->
+    <string name="g2_l8_q6_option2">Truck</string>
+    <string name="g2_l8_q6_option3">Bus</string>
+    <string name="g2_l8_q6_option4">Aeroplane</string>
+    <string name="g2_l8_q6_text">Which of following transport vehicle is environment friendly?</string>
+    <string name="g2_l8_q7_option1">cd drive</string>
+    <string name="g2_l8_q7_option2">floppy disk drive</string>
+    <string name="g2_l8_q7_option3">printer</string><!-- correct answer-->
+    <string name="g2_l8_q7_option4">hard disk drive</string>
+    <string name="g2_l8_q7_text">which is not storage device</string>
+
+
+   <string name="g2_l8_q8_option1">Doha</string>
+   <string name="g2_l8_q8_option2">Baghdad</string>
+   <string name="g2_l8_q8_option3">Tehran</string><!-- correct answer-->
+   <string name="g2_l8_q8_option4">New Delhi</string>
+   <string name="g2_l8_q8_text">Capital of Iran</string>
+
+    <string name="g2_l8_q9_option1">206</string>
+    <string name="g2_l8_q9_option2">300</string><!-- correct answer-->
+    <string name="g2_l8_q9_option3">216</string>
+    <string name="g2_l8_q9_option4">280</string>
+    <string name="g2_l8_q9_text">How much bones are there in new born baby?</string>
+
+    <string name="g2_l8_q10_option1">Football</string>
+    <string name="g2_l8_q10_option2">Golf</string>
+    <string name="g2_l8_q10_option3">Horse Racing</string><!-- correct answer-->
+    <string name="g2_l8_q10_option4">Cricket</string>
+    <string name="g2_l8_q10_text">Grand National in England is related to which sport?</string>
+
+    <!-- LEVEL  9 -->
+
+    <string name="g2_l9_q1_option1">beetle Gurpurab</string>
+    <string name="g2_l9_q1_option2">cockroach</string>
+    <string name="g2_l9_q1_option3">butterfly</string><!-- correct answer-->
+    <string name="g2_l9_q1_option4">frog</string>
+    <string name="g2_l9_q1_text">the caterpillar gradually matures into ---------- </string>
+
+    <string name="g2_l9_q2_option1">Chinese Renminbi</string><!-- correct answer-->
+    <string name="g2_l9_q2_option2">US Dollar</string>
+    <string name="g2_l9_q2_option3">Hong Kong Dollar</string>
+    <string name="g2_l9_q2_option4">British Dollar</string>
+    <string name="g2_l9_q2_text">Currency of China</string>
+
+
+    <string name="g2_l9_q3_option1">parrot</string>
+    <string name="g2_l9_q3_option2">owl</string>
+    <string name="g2_l9_q3_option3">pigeon</string>
+    <string name="g2_l9_q3_option4">frog</string><!-- correct answer-->
+    <string name="g2_l9_q3_text">------------catches fies with its sticky tongue</string>
+
+	<string name="g2_l9_q4_option1">1</string><!-- correct answer-->
+    <string name="g2_l9_q4_option2">2</string>
+    <string name="g2_l9_q4_option3">4</string>
+    <string name="g2_l9_q4_option4">3</string>
+    <string name="g2_l9_q4_text">How many players in international Chess team?</string>
+
+
+    <string name="g2_l9_q5_option1">Calf</string><!-- correct answer-->
+    <string name="g2_l9_q5_option2">Lamb</string>
+    <string name="g2_l9_q5_option3">Cub</string>
+    <string name="g2_l9_q5_option4">Pup</string>
+    <string name="g2_l9_q5_text">Elephant baby is called</string>
+    <string name="g2_l9_q6_option1">Scotland</string>
+    <string name="g2_l9_q6_option2">England</string><!-- correct answer-->
+    <string name="g2_l9_q6_option3">Germany</string>
+    <string name="g2_l9_q6_option4">Japan</string>
+    <string name="g2_l9_q6_text">In which country, the train was invented?</string>
+    <string name="g2_l9_q7_option1">france</string>
+    <string name="g2_l9_q7_option2">italy</string>
+    <string name="g2_l9_q7_option3">germany</string><!-- correct answer-->
+    <string name="g2_l9_q7_option4">UK</string>
+    <string name="g2_l9_q7_text">in which country was the porsche car first made</string>
+
+
+    <string name="g2_l9_q8_option1">brazil</string>
+    <string name="g2_l9_q8_option2">england</string>
+    <string name="g2_l9_q8_option3">germany</string>
+    <string name="g2_l9_q8_option4">uruguay</string><!-- correct answer-->
+    <string name="g2_l9_q8_text">who won the first football world cup</string>
+    <string name="g2_l9_q9_option1">Russia</string>
+    <string name="g2_l9_q9_option2">Spain</string>
+    <string name="g2_l9_q9_option3">England</string><!-- correct answer-->
+    <string name="g2_l9_q9_option4">Germany</string>
+    <string name="g2_l9_q9_text">In which country Pancake Festival is celebrated?</string>
+    <string name="g2_l9_q10_option1">6</string>
+    <string name="g2_l9_q10_option2">5</string>
+    <string name="g2_l9_q10_option3">4</string>
+    <string name="g2_l9_q10_option4">3</string><!-- correct answer-->
+    <string name="g2_l9_q10_text">Which number is missing: 8 = ? + 5</string>
+
+
+
+    <!-- LEVEL  10 -->
+
+    <string name="g2_l10_q1_option1">Radish</string>
+    <string name="g2_l10_q1_option2">Watermelon</string><!-- correct answer-->
+    <string name="g2_l10_q1_option3">Carrot</string>
+    <string name="g2_l10_q1_option4">Potato</string>
+    <string name="g2_l10_q1_text">Which of the following is a Fruit?</string>
+
+    <string name="g2_l10_q2_option1">Duck</string>
+    <string name="g2_l10_q2_option2">Ostrich</string><!-- correct answer-->
+    <string name="g2_l10_q2_option3">Peacock</string>
+    <string name="g2_l10_q2_option4">Puffin</string>
+    <string name="g2_l10_q2_text">Which bird can run faster than horses and roar like lion?</string>
+    <string name="g2_l10_q3_option1">morocco</string>
+    <string name="g2_l10_q3_option2">Britain</string><!-- correct answer-->
+    <string name="g2_l10_q3_option3">United State of America</string>
+    <string name="g2_l10_q3_option4">China</string>
+    <string name="g2_l10_q3_text">Which is the oldest democracy / parliamentary in the world?</string>
+
+
+    <string name="g2_l10_q4_option1">+</string>
+    <string name="g2_l10_q4_option2">-</string><!-- correct answer-->
+    <string name="g2_l10_q4_option3">x</string>
+    <string name="g2_l10_q4_option4">divised by</string>
+    <string name="g2_l10_q4_text">Which symbol is missing from this calculation: 4 ? 1 = 3</string>
+    <string name="g2_l10_q5_option1">Indian Rupee</string>
+    <string name="g2_l10_q5_option2">US Dollar</string>
+    <string name="g2_l10_q5_option3">Pakistan Rupee</string><!-- correct answer-->
+    <string name="g2_l10_q5_option4">British Dollar</string>
+    <string name="g2_l10_q5_text">Currency of Pakistan</string>
+
+
+    <string name="g2_l10_q6_option1">Parrot</string>
+    <string name="g2_l10_q6_option2">Crow</string>
+    <string name="g2_l10_q6_option3">Hummingbird</string><!-- correct answer-->
+    <string name="g2_l10_q6_option4">Sparrow</string>
+    <string name="g2_l10_q6_text">The bird that lays the smallest egg in the world?</string>
+
+    <string name="g2_l10_q7_option1">Scotland</string>
+    <string name="g2_l10_q7_option2">Ireland</string><!-- correct answer-->
+    <string name="g2_l10_q7_option3">North Ireland</string>
+    <string name="g2_l10_q7_option4">Wales</string>
+    <string name="g2_l10_q7_text">Which of the following country not part of United Kingdom?</string>
+
+
+   
+    <string name="g2_l10_q8_option4">Sri Lankan Rupee</string><!-- correct answer-->
+    <string name="g2_l10_q8_option2">US Dollar</string>
+    <string name="g2_l10_q8_option3">European Euro</string>
+    <string name="g2_l10_q8_option1">British Pound</string>
+    <string name="g2_l10_q8_text">Currency of Sri lanka</string>
+
+
+    <string name="g2_l10_q9_option1">Cat</string>
+    <string name="g2_l10_q9_option2">Elephant</string><!-- correct answer-->
+    <string name="g2_l10_q9_option3">Dog</string>
+    <string name="g2_l10_q9_option4">Deer</string>
+    <string name="g2_l10_q9_text">Which animal can smell water up to 3 miles away?</string>
+
+
+
+    <string name="g2_l10_q10_option1">Earth</string>
+    <string name="g2_l10_q10_option2">Sun</string><!-- correct answer-->
+    <string name="g2_l10_q10_option3">Venus</string>
+    <string name="g2_l10_q10_option4">Moon</string>
+    <string name="g2_l10_q10_text">Which star is at the centre of our Solar System?</string>
+
+    <!-- LEVEL  11 -->
+
+
+
+
+    <string name="g2_l11_q1_option1">Radish</string>
+    <string name="g2_l11_q1_option2">Pear</string><!-- correct answer-->
+    <string name="g2_l11_q1_option3">Carrot</string>
+    <string name="g2_l11_q1_option4">Potato</string>
+    <string name="g2_l11_q1_text">Which of the following is a Fruit?</string>
+    <string name="g2_l11_q2_option1">Grapes</string>
+    <string name="g2_l11_q2_option2">Peas</string><!-- correct answer-->
+    <string name="g2_l11_q2_option3">Ball</string>
+    <string name="g2_l11_q2_option4">Bat</string>
+    <string name="g2_l11_q2_text">Which of the following is a vegetable?</string>
+    <string name="g2_l11_q3_option1">Oven</string>
+    <string name="g2_l11_q3_option2">Cooker</string>
+    <string name="g2_l11_q3_option3">Toothpaste</string><!-- correct answer-->
+    <string name="g2_l11_q3_option4">Utensils</string>
+    <string name="g2_l11_q3_text">Which of the following you will not find in Kitchen?</string>
+     <string name="g2_l11_q4_option2">Karchi</string>
+     <string name="g2_l11_q4_option1">Kathmandu</string><!-- correct answer-->
+     <string name="g2_l11_q4_option3">Dhaka</string>
+     <string name="g2_l11_q4_option4">Kabul</string>
+     <string name="g2_l11_q4_text">Capital of Nepal</string>
+
+    <string name="g2_l11_q5_option1">=</string>
+    <string name="g2_l11_q5_option2">x</string>
+    <string name="g2_l11_q5_option3">-</string>
+    <string name="g2_l11_q5_option4">+</string><!-- correct answer-->
+    <string name="g2_l11_q5_text">Which symbol is missing from this calculation: 3 ? 6 = 9</string>
+    <string name="g2_l11_q6_option1">13</string>
+    <string name="g2_l11_q6_option2">11</string>
+    <string name="g2_l11_q6_option3">10</string>
+    <string name="g2_l11_q6_option4">12</string><!-- correct answer-->
+    <string name="g2_l11_q6_text">how many months are in a year</string>
+    <string name="g2_l11_q7_option1">dog</string>
+    <string name="g2_l11_q7_option2">frog</string>
+    <string name="g2_l11_q7_option3">owl</string><!-- correct answer-->
+    <string name="g2_l11_q7_option4">pigean</string>
+    <string name="g2_l11_q7_text">who can see very easily in the dark</string>
+    <string name="g2_l11_q8_option1">Decibel</string>
+    <string name="g2_l11_q8_option2">Kilowatt</string>
+    <string name="g2_l11_q8_option3">Kilometer</string><!-- correct answer-->
+    <string name="g2_l11_q8_option4">Liters</string>
+    <string name="g2_l11_q8_text">Which of following is correct for measuring the distance?</string>
+    <string name="g2_l11_q9_option1">32</string>
+    <string name="g2_l11_q9_option2">206</string>
+    <string name="g2_l11_q9_option3">0</string><!-- correct answer-->
+    <string name="g2_l11_q9_option4">316</string>
+    <string name="g2_l11_q9_text">How many bones are in whale fish body?</string>
+
+    <string name="g2_l11_q10_option1">Australian Dollar</string><!-- correct answer-->
+    <string name="g2_l11_q10_option2">US Dollar</string>
+    <string name="g2_l11_q10_option3">Hong Kong Dollar</string>
+    <string name="g2_l11_q10_option4">British Pound</string>
+    <string name="g2_l11_q10_text">Currency of Australia</string>
+
+    <!-- LEVEL  12 -->
+
+    <string name="g2_l12_q1_option1">Cow</string><!-- correct answer-->
+    <string name="g2_l12_q1_option2">Buffalo</string>
+    <string name="g2_l12_q1_option3">Giraffe</string>
+    <string name="g2_l12_q1_option4">Elephant</string>
+    <string name="g2_l12_q1_text">Which animal have four stomach inside his body</string>
+    <string name="g2_l12_q2_option1">Ostrich</string><!-- correct answer-->
+    <string name="g2_l12_q2_option2">Duck</string>
+    <string name="g2_l12_q2_option3">Peacock</string>
+    <string name="g2_l12_q2_option4">Swan</string>
+    <string name="g2_l12_q2_text">The largest bird alive is:</string>
+    <string name="g2_l12_q3_option1">15,946 KM</string>
+    <string name="g2_l12_q3_option2">35,000 KM</string>
+    <string name="g2_l12_q3_option3">12,742 KM</string><!-- correct answer-->
+    <string name="g2_l12_q3_option4">7,742 KM</string>
+    <string name="g2_l12_q3_text">What is the diameter of EARTH?</string>
+
+    <string name="g2_l12_q4_option1">Sunglass</string>
+    <string name="g2_l12_q4_option2">Phone</string>
+    <string name="g2_l12_q4_option3">Toothpaste</string>
+    <string name="g2_l12_q4_option4">Umbrella</string><!-- correct answer-->
+    <string name="g2_l12_q4_text">Which will you use for Rain protection?</string>
+    <string name="g2_l12_q5_option1">Calf</string><!-- correct answer-->
+    <string name="g2_l12_q5_option2">Lamb</string>
+    <string name="g2_l12_q5_option3">Cub</string>
+    <string name="g2_l12_q5_option4">Pup</string>
+    <string name="g2_l12_q5_text">Cow baby is called</string>
+    <string name="g2_l12_q6_option1">300 Miles per hour</string>
+    <string name="g2_l12_q6_option2">1000 Miles per hour</string>
+    <string name="g2_l12_q6_option3">750 Miles per hour</string>
+    <string name="g2_l12_q6_option4">500 Miles per hour</string><!-- correct answer-->
+    <string name="g2_l12_q6_text">What is average speed of commercial jet planes?</string>
+    <string name="g2_l12_q7_option1">European Euro</string>
+    <string name="g2_l12_q7_option3">US Dollar</string>
+    <string name="g2_l12_q7_option2">Danish Krone</string><!-- correct answer-->
+    <string name="g2_l12_q7_option4">British Pound</string>
+    <string name="g2_l12_q7_text">Currency of Denmark</string>
+    <string name="g2_l12_q8_option1">saturn</string>
+    <string name="g2_l12_q8_option2">neptune</string>
+    <string name="g2_l12_q8_option3">pluto</string><!-- correct answer-->
+    <string name="g2_l12_q8_option4">uranus</string>
+    <string name="g2_l12_q8_text">whitch planet is relegated from its status as the ninth planet</string>
+    <string name="g2_l12_q9_option1">london</string>
+    <string name="g2_l12_q9_option2">sydney</string><!-- correct answer-->
+    <string name="g2_l12_q9_option3">paris</string>
+    <string name="g2_l12_q9_option4">morocco</string>
+    <string name="g2_l12_q9_text">opera house is located in</string>
+    <string name="g2_l12_q10_option1">Venus</string>
+    <string name="g2_l12_q10_option2">Jupiter</string>
+    <string name="g2_l12_q10_option3">Earth</string>
+    <string name="g2_l12_q10_option4">Mercury</string><!-- correct answer-->
+    <string name="g2_l12_q10_text">Which planet is nearest to the sun?</string>
+
+
+
+    <!-- LEVEL  13 -->
+    <string name="g2_l13_q1_option1">Radish</string>
+    <string name="g2_l13_q1_option2">Mint</string>
+    <string name="g2_l13_q1_option3">Banana</string><!-- correct answer-->
+    <string name="g2_l13_q1_option4">Potato</string>
+    <string name="g2_l13_q1_text">Which of the following is a Fruit?</string>
+    <string name="g2_l13_q2_option1">Radish</string><!-- correct answer-->
+    <string name="g2_l13_q2_option2">Apple</string>
+    <string name="g2_l13_q2_option3">Banana</string>
+    <string name="g2_l13_q2_option4">Ballon</string>
+    <string name="g2_l13_q2_text">Which of the following is a vegetable?</string>
+    <string name="g2_l13_q3_option1">WhiteBoard</string><!-- correct answer-->
+    <string name="g2_l13_q3_option2">Refrigerator</string>
+    <string name="g2_l13_q3_option3">Bench</string>
+    <string name="g2_l13_q3_option4">Chair</string>
+    <string name="g2_l13_q3_text">Which of the following you will not find in Classroom?</string>
+    <string name="g2_l13_q4_option1">Hat</string><!-- correct answer-->
+    <string name="g2_l13_q4_option2">Ball</string>
+    <string name="g2_l13_q4_option3">Camera</string>
+    <string name="g2_l13_q4_option4">Chair</string>
+    <string name="g2_l13_q4_text">Which will you use for Sunlight protection?</string>
+
+
+    <string name="g2_l13_q5_option1">Paris</string>
+    <string name="g2_l13_q5_option2">Riyadh</string>
+    <string name="g2_l13_q5_option3">Moscow</string>
+    <string name="g2_l13_q5_option4">Wellington</string><!-- correct answer-->
+    <string name="g2_l13_q5_text">What is capital of New Zealand?</string>
+    <string name="g2_l13_q6_option1">CD</string>
+    <string name="g2_l13_q6_option2">keyboard</string><!-- correct answer-->
+    <string name="g2_l13_q6_option3">speaker</string>
+    <string name="g2_l13_q6_option4">joystick</string>
+    <string name="g2_l13_q6_text">what do we use to type numbers and alphabet</string>
+    <string name="g2_l13_q7_option1">ganymede</string>
+    <string name="g2_l13_q7_option2">titan</string><!-- correct answer-->
+    <string name="g2_l13_q7_option3">luna</string>
+    <string name="g2_l13_q7_option4">deimos</string>
+    <string name="g2_l13_q7_text">name the second biggest moon of the solar system</string>
+    <string name="g2_l13_q8_option1">Liters</string>
+    <string name="g2_l13_q8_option2">Grams</string>
+    <string name="g2_l13_q8_option3">Decibel</string><!-- correct answer-->
+    <string name="g2_l13_q8_option4">Meters</string>
+    <string name="g2_l13_q8_text">Sound is measured in what units?</string>
+    <string name="g2_l13_q9_option1">Arm Bone</string>
+    <string name="g2_l13_q9_option2">Leg Bone</string>
+    <string name="g2_l13_q9_option3">Jaw Bone</string>
+    <string name="g2_l13_q9_option4">Thigh Bone</string><!-- correct answer-->
+    <string name="g2_l13_q9_text">In human body, which bone is longest?</string>
+
+    <string name="g2_l13_q10_option1">1 Year</string>
+    <string name="g2_l13_q10_option2">2 Years</string>
+    <string name="g2_l13_q10_option3">10 Years</string>
+    <string name="g2_l13_q10_option4">4 Years</string><!-- correct answer-->
+    <string name="g2_l13_q10_text">Olympic Games are organising after every</string>
+
+
+    <!-- LEVEL  14 -->
+
+    <string name="g2_l14_q1_option1">Camel</string>
+    <string name="g2_l14_q1_option2">Elephant</string>
+    <string name="g2_l14_q1_option3">Giraffe</string><!-- correct answer-->
+    <string name="g2_l14_q1_option4">Rhino</string>
+    <string name="g2_l14_q1_text">The tallest living animal is</string>
+    <string name="g2_l14_q2_option1">Ostrich</string>
+    <string name="g2_l14_q2_option2">Peacock</string>
+    <string name="g2_l14_q2_option3">Hummingbird</string><!-- correct answer-->
+    <string name="g2_l14_q2_option4">Sparrow</string>
+    <string name="g2_l14_q2_text">Which bird can fly backward</string>
+    <string name="g2_l14_q3_option1">New York</string>
+    <string name="g2_l14_q3_option2">Rajasthan</string>
+    <string name="g2_l14_q3_option3">Poland</string>
+    <string name="g2_l14_q3_option4">Ethiopia</string><!-- correct answer-->
+    <string name="g2_l14_q3_text">Which is the hottest place in the earth?</string>
+    <string name="g2_l14_q4_option1">Monitor</string>
+    <string name="g2_l14_q4_option2">Central Processing Unit</string><!-- correct answer-->
+    <string name="g2_l14_q4_option3">Printer</string>
+    <string name="g2_l14_q4_option4">Scanner</string>
+    <string name="g2_l14_q4_text">What is the heart of the computer and where all the computing is done?</string>
+    <string name="g2_l14_q5_option1">three</string>
+    <string name="g2_l14_q5_option2">two</string>
+    <string name="g2_l14_q5_option3">four</string>
+    <string name="g2_l14_q5_option4">one</string><!-- correct answer-->
+    <string name="g2_l14_q5_text">how many wheels does a wheelbarrow normaly have</string>
+
+
+
+    <string name="g2_l14_q6_option2">walkway</string>
+    <string name="g2_l14_q6_option1">Walkman</string><!-- correct answer-->
+    <string name="g2_l14_q6_option3">walkabout</string>
+    <string name="g2_l14_q6_option4">walkover</string>
+    <string name="g2_l14_q6_text">what was the first personal stereo called</string>
+
+    <string name="g2_l14_q7_option1">lock</string>
+    <string name="g2_l14_q7_option2">canal</string>
+    <string name="g2_l14_q7_option3">dam</string><!-- correct answer-->
+    <string name="g2_l14_q7_option4">moat</string>
+    <string name="g2_l14_q7_text">what name given to a barrier across a river</string>
+    <string name="g2_l14_q8_option1">Italy</string><!-- correct answer-->
+    <string name="g2_l14_q8_option2">Germany</string>
+    <string name="g2_l14_q8_option3">UK</string>
+    <string name="g2_l14_q8_option4">France</string>
+    <string name="g2_l14_q8_text">in which country is the learning tower of Pisa</string>
+
+    <string name="g2_l14_q9_option4">500 million</string>
+    <string name="g2_l14_q9_option2">400 million</string>
+    <string name="g2_l14_q9_option3">300 million</string>
+    <string name="g2_l14_q9_option1">600 million</string><!-- correct answer-->
+    <string name="g2_l14_q9_text">How much year ago, life began on Earth?</string>
+
+    <string name="g2_l14_q10_option1">Satrun</string>
+    <string name="g2_l14_q10_option2">Venus</string><!-- correct answer-->
+    <string name="g2_l14_q10_option3">Mercury</string>
+    <string name="g2_l14_q10_option4">Neptune</string>
+    <string name="g2_l14_q10_text">Which planet is known as Morning Star or Evening Star?</string>
+
+
+
+
+    <!-- LEVEL  15 -->
+    <string name="g2_l15_q1_option1">Melon</string><!-- correct answer-->
+    <string name="g2_l15_q1_option2">Brinjal</string>
+    <string name="g2_l15_q1_option3">Carrot</string>
+    <string name="g2_l15_q1_option4">Potato</string>
+    <string name="g2_l15_q1_text">Which of the following is a Fruit?</string>
+    <string name="g2_l15_q2_option1">Ball</string>
+    <string name="g2_l15_q2_option2">Brinjal</string><!-- correct answer-->
+    <string name="g2_l15_q2_option3">Chair</string>
+    <string name="g2_l15_q2_option4">Plum</string>
+    <string name="g2_l15_q2_text">Which of the following is a vegetable?</string>
+    <string name="g2_l15_q3_option1">Washing Machine</string><!-- correct answer-->
+    <string name="g2_l15_q3_option2">Bed</string>
+    <string name="g2_l15_q3_option3">Fan</string>
+    <string name="g2_l15_q3_option4">Curtain</string>
+    <string name="g2_l15_q3_text">Which of the following you will not find in Bedroom?</string>
+    <string name="g2_l15_q4_option1">Raincoat</string><!-- correct answer-->
+    <string name="g2_l15_q4_option2">Bed</string>
+    <string name="g2_l15_q4_option3">Stick</string>
+    <string name="g2_l15_q4_option4">Curtain</string>
+    <string name="g2_l15_q4_text">Which will you use for Rain protection?</string>
+    <string name="g2_l15_q5_option1">Calf</string>
+    <string name="g2_l15_q5_option2">Lamb</string>
+    <string name="g2_l15_q5_option3">Cub</string><!-- correct answer-->
+    <string name="g2_l15_q5_option4">Pup</string>
+    <string name="g2_l15_q5_text">Bear baby is called</string>
+
+
+    <string name="g2_l15_q6_option1">shark</string>
+    <string name="g2_l15_q6_option2">elephent</string><!-- correct answer-->
+    <string name="g2_l15_q6_option3">blue whale</string>
+    <string name="g2_l15_q6_option4">giraffe</string>
+    <string name="g2_l15_q6_text">which is the largest animal on land</string>
+    <string name="g2_l15_q7_option1">rock</string>
+    <string name="g2_l15_q7_option2">iceberg</string><!-- correct answer-->
+    <string name="g2_l15_q7_option3">ship</string>
+    <string name="g2_l15_q7_option4">whale</string>
+    <string name="g2_l15_q7_text">what did titanic hit befor it sank</string>
+
+    <string name="g2_l15_q8_option1">149,600,000 KM</string><!-- correct answer-->
+    <string name="g2_l15_q8_option2">249,600,000 KM</string>
+    <string name="g2_l15_q8_option3">14,960,000 KM</string>
+    <string name="g2_l15_q8_option4">34,960,000 KM</string>
+    <string name="g2_l15_q8_text">What is the distance between Sun and Earth?</string>
+
+    <string name="g2_l15_q9_option1">71%</string><!-- correct answer-->
+    <string name="g2_l15_q9_option2">17%</string>
+    <string name="g2_l15_q9_option3">27%</string>
+    <string name="g2_l15_q9_option4">50%</string>
+    <string name="g2_l15_q9_text">How much water is in our body?</string>
+
+    <string name="g2_l15_q10_option1">12</string>
+    <string name="g2_l15_q10_option2">11</string><!-- correct answer-->
+    <string name="g2_l15_q10_option3">6</string>
+    <string name="g2_l15_q10_option4">16</string>
+    <string name="g2_l15_q10_text">How many players in international Hockey team?</string>
+
+
+<!-- _________________________________________________________________________________________________-->
+
+
+
+
+
+<!--GROUP C-->
+
+ <!--LEVEL 1-->
+    
+    <string name="g3_l1_q1_option1">Deer</string>
+    <string name="g3_l1_q1_option2">Camel</string>
+    <string name="g3_l1_q1_option3">Rhino</string>
+    <string name="g3_l1_q1_option4">Human</string><!-- correct answer-->
+    <string name="g3_l1_q1_text">The only animal that sleeps on its back is</string>
+     <string name="g3_l1_q2_option1">Tokyo</string>
+     <string name="g3_l1_q2_option2">Lusaka</string>
+     <string name="g3_l1_q2_option3">Khartoum</string><!-- correct answer-->
+     <string name="g3_l1_q2_option4">Hong Kong</string>
+     <string name="g3_l1_q2_text">Capital of Sudan</string>
+
+    <string name="g3_l1_q3_option1">Ethiopia</string>
+    <string name="g3_l1_q3_option2">Kashmir</string>
+    <string name="g3_l1_q3_option3">East Antarctica</string><!-- correct answer-->
+    <string name="g3_l1_q3_option4">Scotland</string>
+    <string name="g3_l1_q3_text">Which is the coldest location in the earth?</string>
+    <string name="g3_l1_q4_option1">Write Only Memory</string>
+    <string name="g3_l1_q4_option2">Read Only Memory</string><!-- correct answer-->
+    <string name="g3_l1_q4_option3">Random Access Memory</string>
+    <string name="g3_l1_q4_option4">Read Access Memory</string>
+    <string name="g3_l1_q4_text">In terms of computing, what does ROM stand for?</string>
+    <string name="g3_l1_q5_option1">Kabul</string>
+    <string name="g3_l1_q5_option2">Karachi</string>
+    <string name="g3_l1_q5_option3">Islamabad</string><!-- correct answer-->
+    <string name="g3_l1_q5_option4">Dhaka</string>
+    <string name="g3_l1_q5_text">What is capital of Pakistan?</string>
+    <string name="g3_l1_q6_option1">china</string>
+    <string name="g3_l1_q6_option2">england</string>
+    <string name="g3_l1_q6_option3">United states of america</string><!-- correct answer-->
+    <string name="g3_l1_q6_option4">united kingdom</string>
+    <string name="g3_l1_q6_text">identify the flag</string>
+
+	
+  <string name="g3_l1_q7_option1">Johannesburg</string>
+  <string name="g3_l1_q7_option2">Harare</string>
+  <string name="g3_l1_q7_option3">Pretoria</string><!-- correct answer-->
+  <string name="g3_l1_q7_option4">Lusaka</string>
+  <string name="g3_l1_q7_text">Capital of South Africa</string>
+
+    <string name="g3_l1_q8_option1">platinum</string>
+    <string name="g3_l1_q8_option2">iron</string>
+    <string name="g3_l1_q8_option3">silver</string>
+    <string name="g3_l1_q8_option4">gold</string><!-- correct answer-->
+    <string name="g3_l1_q8_text">which is the heavier metal from the following</string>
+    <string name="g3_l1_q9_option1">USA</string>
+    <string name="g3_l1_q9_option2">China</string>
+    <string name="g3_l1_q9_option3">Mylasia</string>
+    <string name="g3_l1_q9_option4">Australia</string><!-- correct answer-->
+    <string name="g3_l1_q9_text">Each year, which country celebrates Happy New Year first?</string>
+     <string name="g3_l1_q10_option1">Earth</string>
+    <string name="g3_l1_q10_option2">Mars</string>
+    <string name="g3_l1_q10_option3">Jupiter</string><!-- correct answer-->
+    <string name="g3_l1_q10_option4">Pluto</string>
+    <string name="g3_l1_q10_text">Largest planet in our solar system</string>
+	
+<!--   LEVEL 2-->
+	<string name="g3_l2_q1_option1">Potato</string>
+    <string name="g3_l2_q1_option2">Brinjal</string>
+    <string name="g3_l2_q1_option3">Carrot</string>
+    <string name="g3_l2_q1_option4">Cherry</string><!-- correct answer-->
+    <string name="g3_l2_q1_text">Which of the following is a Fruit?</string>
+   
+
+    <string name="g3_l2_q2_option2">Cairo</string>
+    <string name="g3_l2_q2_option1">Nairobi</string><!-- correct answer-->
+    <string name="g3_l2_q2_option3">Cape Town</string>
+    <string name="g3_l2_q2_option4">New Delhi</string>
+    <string name="g3_l2_q2_text">Capital of Kenya</string>
+
+
+    <string name="g3_l2_q3_option1">Mars</string>
+    <string name="g3_l2_q3_option3">Moon</string><!-- correct answer-->
+    <string name="g3_l2_q3_option2">Mercury</string>
+    <string name="g3_l2_q3_option4">Jupiter</string>
+    <string name="g3_l2_q3_text">What is satellite name of Earth?</string>
+    <string name="g3_l2_q4_option1">Paris</string>
+    <string name="g3_l2_q4_option2">London</string>
+    <string name="g3_l2_q4_option3">Washington</string><!-- correct answer-->
+    <string name="g3_l2_q4_option4">New Delhi</string>
+    <string name="g3_l2_q4_text">Capital of United States</string>
+
+    <string name="g3_l2_q5_option1">Calf</string>
+    <string name="g3_l2_q5_option2">Lamb</string>
+    <string name="g3_l2_q5_option3">Cub</string>
+    <string name="g3_l2_q5_option4">Puppy</string><!-- correct answer-->
+    <string name="g3_l2_q5_text">Dog baby is called</string>
+    <string name="g3_l2_q6_option1">Aeroplane</string>
+    <string name="g3_l2_q6_option2">Train</string><!-- correct answer-->
+    <string name="g3_l2_q6_option3">Bus</string>
+    <string name="g3_l2_q6_option4">Truck</string>
+    <string name="g3_l2_q6_text">Which of following can carry most passengers?</string>
+
+
+    <string name="g3_l2_q7_option1">mouse</string><!-- correct answer-->
+    <string name="g3_l2_q7_option2">keyboard</string>
+    <string name="g3_l2_q7_option3">cpu</string>
+    <string name="g3_l2_q7_option4">speaker</string>
+    <string name="g3_l2_q7_text">which instrument helps the cursor to move on the computer screen</string>
+    <string name="g3_l2_q8_option1">Decibel</string>
+    <string name="g3_l2_q8_option2">Grams</string>
+    <string name="g3_l2_q8_option3">Meters</string>
+    <string name="g3_l2_q8_option4">Liters</string><!-- correct answer-->
+    <string name="g3_l2_q8_text">Liquid is measured in what units?</string>
+    <string name="g3_l2_q9_option1">380</string>
+    <string name="g3_l2_q9_option2">203</string>
+    <string name="g3_l2_q9_option3">230</string><!-- correct answer-->
+    <string name="g3_l2_q9_option4">304</string>
+    <string name="g3_l2_q9_text">How much joints in our body?</string>
+    
+	<string name="g3_l2_q10_option1">4</string>
+    <string name="g3_l2_q10_option2">2</string><!-- correct answer-->
+    <string name="g3_l2_q10_option3">6</string>
+    <string name="g3_l2_q10_option4">8</string>
+      <string name="g3_l2_q10_text">How many players in each team of international doubles tennis match?</string>
+   
+<!--LEVEL 3-->
+
+        <string name="g3_l3_q1_option1">Giraffe</string><!-- correct answer-->
+    <string name="g3_l3_q1_option2">Tiger</string>
+    <string name="g3_l3_q1_option3">Sheep</string>
+    <string name="g3_l3_q1_option4">Cat</string>
+    <string name="g3_l3_q1_text">An animal which is dumb</string>
+    <string name="g3_l3_q2_option1">2</string>
+    <string name="g3_l3_q2_option2">4</string>
+    <string name="g3_l3_q2_option3">6</string><!-- correct answer-->
+    <string name="g3_l3_q2_option4">8</string>
+    <string name="g3_l3_q2_text">How many legs does a butterfly have?</string>
+    <string name="g3_l3_q3_option1">North America</string>
+    <string name="g3_l3_q3_option2">Asia</string><!-- correct answer-->
+    <string name="g3_l3_q3_option3">Europe</string>
+    <string name="g3_l3_q3_option4">Africa</string>
+    <string name="g3_l3_q3_text">Which is the largest continent on Earth?</string>
+    <string name="g3_l3_q4_option1">Right Arm Memory</string>
+    <string name="g3_l3_q4_option2">Read Only Memory</string>
+    <string name="g3_l3_q4_option3">Read Access Memory</string>
+    <string name="g3_l3_q4_option4">Random Access Memory</string><!-- correct answer-->
+    <string name="g3_l3_q4_text">In terms of computing, what does RAM stand for?</string>
+    <string name="g3_l3_q5_option1">Dhaka</string><!-- correct answer-->
+    <string name="g3_l3_q5_option2">Beijing</string>
+    <string name="g3_l3_q5_option3">Moscow</string>
+    <string name="g3_l3_q5_option4">New Delhi</string>
+    <string name="g3_l3_q5_text">What is capital of Bangladesh?</string>
+    <string name="g3_l3_q6_option1">purple</string><!-- correct answer-->
+    <string name="g3_l3_q6_option2">brown</string>
+    <string name="g3_l3_q6_option3">black</string>
+    <string name="g3_l3_q6_option4">green</string>
+    <string name="g3_l3_q6_text">if you mixed red and blue, what color would you get</string>
+     <string name="g3_l3_q7_option1">France</string>
+     <string name="g3_l3_q7_option2">Germany</string><!-- correct answer-->
+     <string name="g3_l3_q7_option3">Russia</string>
+     <string name="g3_l3_q7_option4">Morocco</string>
+     <string name="g3_l3_q7_text">identify the flag</string>
+
+     <string name="g3_l3_q8_option1">multiplication</string>
+    <string name="g3_l3_q8_option2">addition</string>
+    <string name="g3_l3_q8_option3">subtraction</string><!-- correct answer-->
+    <string name="g3_l3_q8_option4">division</string>
+    <string name="g3_l3_q8_text">What does this symbol mean: -</string>
+    <string name="g3_l3_q9_option1">Spain</string>
+    <string name="g3_l3_q9_option2">France</string>
+    <string name="g3_l3_q9_option3">morocco</string><!-- correct answer-->
+    <string name="g3_l3_q9_option4">Finland</string>
+    <string name="g3_l3_q9_text">The MAWAZIN festival celebrated in which country ?</string>
+   <string name="g3_l3_q10_option1">Mercury</string>
+    <string name="g3_l3_q10_option2">Venus</string>
+    <string name="g3_l3_q10_option3">Neptune</string>
+    <string name="g3_l3_q10_option4">Jupiter</string><!-- correct answer-->
+    <string name="g3_l3_q10_text">Which Planet has the most moons?</string>
+
+   
+<!--LEVEL  4-->
+
+
+<string name="g3_l4_q1_option1">PineCorn</string>
+    <string name="g3_l4_q1_option2">Mint</string>
+    <string name="g3_l4_q1_option3">Carrot</string>
+    <string name="g3_l4_q1_option4">PineApple</string><!-- correct answer-->
+    <string name="g3_l4_q1_text">Which of the following is a Fruit?</string>
+    
+   <string name="g3_l4_q2_option1">PineApple</string>
+    <string name="g3_l4_q2_option2">Banana</string>
+    <string name="g3_l4_q2_option3">Cherry</string>
+    <string name="g3_l4_q2_option4">Tomato</string><!-- correct answer-->
+    <string name="g3_l4_q2_text">Which of the following is a vegetable?</string>
+    <string name="g3_l4_q3_option1">Food</string>
+    <string name="g3_l4_q3_option2">Dishes</string>
+    <string name="g3_l4_q3_option3">Toys</string><!-- correct answer-->
+    <string name="g3_l4_q3_option4">Drink</string>
+    <string name="g3_l4_q3_text">Which of the following you will not find in Restaurants?</string>
+    <string name="g3_l4_q4_option1">Cycle</string>
+    <string name="g3_l4_q4_option2">Train</string><!-- correct answer-->
+    <string name="g3_l4_q4_option3">Skating</string>
+    <string name="g3_l4_q4_option4">Table</string>
+    <string name="g3_l4_q4_text">Which will you use for long distance Travel?</string>
+    <string name="g3_l4_q5_option1">Calf</string>
+    <string name="g3_l4_q5_option2">Kitten</string><!-- correct answer-->
+    <string name="g3_l4_q5_option3">Cub</string>
+    <string name="g3_l4_q5_option4">Pup</string>
+    <string name="g3_l4_q5_text">Cat baby is called</string>
+    <string name="g3_l4_q6_option1">Boat</string>
+    <string name="g3_l4_q6_option2">Helicopter</string><!-- correct answer-->
+    <string name="g3_l4_q6_option3">Ship</string>
+    <string name="g3_l4_q6_option4">Yatcht</string>
+    <string name="g3_l4_q6_text">Which of following is also called choppers?</string>
+    <string name="g3_l4_q7_option1">-</string>
+    <string name="g3_l4_q7_option2">+</string>
+    <string name="g3_l4_q7_option3">x</string>
+    <string name="g3_l4_q7_option4">=</string><!-- correct answer-->
+    <string name="g3_l4_q7_text">Which symbol is missing from this calculation: 6 &#8211; 2 ? 4</string>
+
+    <string name="g3_l4_q8_option1">Liters</string>
+    <string name="g3_l4_q8_option2">Meters</string>
+    <string name="g3_l4_q8_option3">Seconds</string><!-- correct answer-->
+    <string name="g3_l4_q8_option4">Decibel</string>
+    <string name="g3_l4_q8_text">Time is measured in what units?</string>
+    <string name="g3_l4_q9_option1">Nitrogen</string>
+    <string name="g3_l4_q9_option2">Oxygen</string><!-- correct answer-->
+    <string name="g3_l4_q9_option3">Carbon dioxide</string>
+    <string name="g3_l4_q9_option4">Methane</string>
+    <string name="g3_l4_q9_text">Which gas we takes in while breathing?</string>
+	
+    <string name="g3_l4_q10_option1">1</string><!-- correct answer-->
+    <string name="g3_l4_q10_option2">3</string>
+    <string name="g3_l4_q10_option3">2</string>
+    <string name="g3_l4_q10_option4">4</string>
+    <string name="g3_l4_q10_text">How many players in each team of international singles tennis match?</string>
+   
+
+<!--LEVEL 5-->
+
+
+
+	
+     <string name="g3_l5_q1_option1">Dog</string>
+    <string name="g3_l5_q1_option2">Camel</string><!-- correct answer-->
+    <string name="g3_l5_q1_option3">Cow</string>
+    <string name="g3_l5_q1_option4">Leopard</string>
+    <string name="g3_l5_q1_text">An animal who can drink 100 liters water in a single time</string>
+    <string name="g3_l5_q2_option1">Sparrow</string>
+    <string name="g3_l5_q2_option2">HoneyBee</string>
+    <string name="g3_l5_q2_option3">Butterfly</string><!-- correct answer-->
+    <string name="g3_l5_q2_option4">Parrot</string>
+    <string name="g3_l5_q2_text">Living which tastes using its feet</string>
+    <string name="g3_l5_q3_option1">Alfa (Europe)</string>
+    <string name="g3_l5_q3_option2">Bruj (Dubai)</string>
+    <string name="g3_l5_q3_option3">Sahara (Africa)</string><!-- correct answer-->
+    <string name="g3_l5_q3_option4">Thar (India)</string>
+    <string name="g3_l5_q3_text">Which is the largest desert on Earth?</string>
+
+    <string name="g3_l5_q4_option1">Earth</string><!-- correct answer-->
+    <string name="g3_l5_q4_option2">Mercury</string>
+    <string name="g3_l5_q4_option3">Mars</string>
+    <string name="g3_l5_q4_option4">Moon</string>
+    <string name="g3_l5_q4_text">What is the third planet from the Sun?</string>
+
+    <string name="g3_l5_q5_option1">Johannesburg</string>
+    <string name="g3_l5_q5_option2">Paris</string><!-- correct answer-->
+    <string name="g3_l5_q5_option3">Cape Town</string>
+    <string name="g3_l5_q5_option4">London</string>
+    <string name="g3_l5_q5_text">Capital of France</string>
+
+    <string name="g3_l5_q6_option1">360</string>
+    <string name="g3_l5_q6_option2">365</string><!-- correct answer-->
+    <string name="g3_l5_q6_option3">295</string>
+    <string name="g3_l5_q6_option4">361</string>
+    <string name="g3_l5_q6_text">Who many days are in a year</string>
+    <string name="g3_l5_q7_option1">milky way</string><!-- correct answer-->
+    <string name="g3_l5_q7_option2">creamy way</string>
+    <string name="g3_l5_q7_option3">right way</string>
+    <string name="g3_l5_q7_option4">no ways</string>
+    <string name="g3_l5_q7_text">most of what we see in the night sky is part of what</string>
+    <string name="g3_l5_q8_option1">Newton</string>
+    <string name="g3_l5_q8_option2">Alexander Graham Bell</string>
+    <string name="g3_l5_q8_option3">John Logie Baird</string><!-- correct answer-->
+    <string name="g3_l5_q8_option4">Guglielmo Marconi</string>
+    <string name="g3_l5_q8_text">Who invented Television?</string>
+	
+        <string name="g3_l5_q9_option1">Spain</string><!-- correct answer-->
+    <string name="g3_l5_q9_option2">Germany</string>
+    <string name="g3_l5_q9_option3">Itlay</string>
+    <string name="g3_l5_q9_option4">France</string>
+    <string name="g3_l5_q9_text">Onion eating Festival(Fiesta de la Calcotada)celebarted in country</string>
+    <string name="g3_l5_q10_option1">Jupiter</string><!-- correct answer-->
+    <string name="g3_l5_q10_option2">Pluto</string>
+    <string name="g3_l5_q10_option3">Earth</string>
+    <string name="g3_l5_q10_option4">Mercury</string>
+    <string name="g3_l5_q10_text">Planet with the 67 moons</string>
+   
+<!--LEVEL 6-->
+<string name="g3_l6_q1_option1">PineCorn</string>
+    <string name="g3_l6_q1_option2">Grapes</string><!-- correct answer-->
+    <string name="g3_l6_q1_option3">Carrot</string>
+    <string name="g3_l6_q1_option4">LadyFinger</string>
+    <string name="g3_l6_q1_text">Which of the following is a Fruit?</string>
+   
+   <string name="g3_l6_q2_option1">PineApple</string>
+    <string name="g3_l6_q2_option2">Grapes</string>
+    <string name="g3_l6_q2_option3">Apple</string>
+    <string name="g3_l6_q2_option4">LadyFinger</string><!-- correct answer-->
+    <string name="g3_l6_q2_text">Which of the following is a vegetable?</string>
+  
+   <string name="g3_l6_q3_option1">Cardiff</string><!-- correct answer-->
+   <string name="g3_l6_q3_option2">Manchester</string>
+   <string name="g3_l6_q3_option3">London</string>
+   <string name="g3_l6_q3_option4">Kingston</string>
+   <string name="g3_l6_q3_text">Capital of Wales</string>
+   <string name="g3_l6_q4_option1">Venice</string>
+   <string name="g3_l6_q4_option2">Paris</string>
+   <string name="g3_l6_q4_option3">Cape Town</string>
+   <string name="g3_l6_q4_option4">Bern</string><!-- correct answer-->
+   <string name="g3_l6_q4_text">Capital of Switzerland</string>
+
+    <string name="g3_l6_q5_option1">+</string>
+    <string name="g3_l6_q5_option2">-</string>
+    <string name="g3_l6_q5_option3">=</string><!-- correct answer-->
+    <string name="g3_l6_q5_option4">x</string>
+    <string name="g3_l6_q5_text">Which symbol could be used instead of the words in brackets? 5 + 4 (is equal to) 9</string>
+    <string name="g3_l6_q6_option1">Swift</string>
+    <string name="g3_l6_q6_option2">Nano</string><!-- correct answer-->
+    <string name="g3_l6_q6_option3">Golf</string>
+    <string name="g3_l6_q6_option4">Cooper</string>
+    <string name="g3_l6_q6_text">What was the name of cheapest car of world?</string>
+    <string name="g3_l6_q7_option1">tankers</string>
+    <string name="g3_l6_q7_option2">liners</string>
+    <string name="g3_l6_q7_option3">trawlers</string><!-- correct answer-->
+    <string name="g3_l6_q7_option4">yachts</string>
+    <string name="g3_l6_q7_text">which of theses ships are used for catching fish</string>
+    <string name="g3_l6_q8_option1">coffee beans</string>
+    <string name="g3_l6_q8_option2">broad beans</string>
+    <string name="g3_l6_q8_option3">runner beans</string>
+    <string name="g3_l6_q8_option4">cocoa beans</string><!-- correct answer-->
+    <string name="g3_l6_q8_text">what kind of beans are used to make chocolate</string>
+    <string name="g3_l6_q9_option1">Nitrogen</string>
+    <string name="g3_l6_q9_option2">Oxygen</string>
+    <string name="g3_l6_q9_option3">Carbon dioxide</string><!-- correct answer-->
+    <string name="g3_l6_q9_option4">Methane</string>
+    <string name="g3_l6_q9_text">Which gas we takes out while breathing?</string>
+     <string name="g3_l6_q10_option1">10</string>
+    <string name="g3_l6_q10_option2">11</string>
+    <string name="g3_l6_q10_option3">6</string><!-- correct answer-->
+    <string name="g3_l6_q10_option4">5</string>
+    <string name="g3_l6_q10_text">How many players in international volleyball match team?</string>
+
+<!--LEVEL 7-->
+
+   
+    <string name="g3_l7_q1_option1">Tortoise</string><!-- correct answer-->
+    <string name="g3_l7_q1_option2">Dog</string>
+    <string name="g3_l7_q1_option3">Tiger</string>
+    <string name="g3_l7_q1_option4">Cow</string>
+    <string name="g3_l7_q1_text">The animal having longest life span</string>
+    <string name="g3_l7_q2_option1">Swan</string>
+    <string name="g3_l7_q2_option2">Eagle</string>
+    <string name="g3_l7_q2_option3">Peacock</string>
+    <string name="g3_l7_q2_option4">Ostrich</string><!-- correct answer-->
+    <string name="g3_l7_q2_text">Which living bird lays the world largest egg?</string>
+    <string name="g3_l7_q3_option1">Asia</string>
+    <string name="g3_l7_q3_option2">Russia</string>
+    <string name="g3_l7_q3_option3">Vatican City</string><!-- correct answer-->
+    <string name="g3_l7_q3_option4">Afria</string>
+    <string name="g3_l7_q3_text">Which is the smallest country in the world ?</string>
+    <string name="g3_l7_q4_option1">Monitor</string>
+    <string name="g3_l7_q4_option2">Keyboard</string><!-- correct answer-->
+    <string name="g3_l7_q4_option3">Headphone</string>
+    <string name="g3_l7_q4_option4">Printer</string>
+    <string name="g3_l7_q4_text">Which of the following is input device to Computer?</string>
+    <string name="g3_l7_q5_option1">battery</string>
+    <string name="g3_l7_q5_option2">engine</string>
+    <string name="g3_l7_q5_option3">sun</string>
+    <string name="g3_l7_q5_option4">wind</string><!-- correct answer-->
+    <string name="g3_l7_q5_text">What do we use to power a sail boat</string>
+    <string name="g3_l7_q6_option1">Kenya</string>
+    <string name="g3_l7_q6_option2">Libya</string>
+    <string name="g3_l7_q6_option3">Nepal</string><!-- correct answer-->
+    <string name="g3_l7_q6_option4">Singapore</string>
+    <string name="g3_l7_q6_text">Which country national flag is not horizontal</string>
+    <string name="g3_l7_q7_option1">cable-car</string><!-- correct answer-->
+    <string name="g3_l7_q7_option2">aeroplan</string>
+    <string name="g3_l7_q7_option3">bus</string>
+    <string name="g3_l7_q7_option4">truck</string>
+    <string name="g3_l7_q7_text">which of following travel on cables</string>
+    <string name="g3_l7_q8_option1">Newton</string>
+    <string name="g3_l7_q8_option2">Alexander Graham Bell</string><!-- correct answer-->
+    <string name="g3_l7_q8_option3">John Logie Baird</string>
+    <string name="g3_l7_q8_option4">Guglielmo Marconi</string>
+    <string name="g3_l7_q8_text">Who invented Telephone?</string>
+ 
+    <string name="g3_l7_q9_option1">Germany</string>
+    <string name="g3_l7_q9_option2">England</string>
+    <string name="g3_l7_q9_option3">Poland</string><!-- correct answer-->
+    <string name="g3_l7_q9_option4">Spain</string>
+    <string name="g3_l7_q9_text">The Orange eating festival celebrated in country</string>
+   <string name="g3_l7_q10_option1">Uranus</string>
+    <string name="g3_l7_q10_option2">Neptune</string>
+    <string name="g3_l7_q10_option3">Satrun</string><!-- correct answer-->
+    <string name="g3_l7_q10_option4">Mars</string>
+    <string name="g3_l7_q10_text">Planet with biggest rings</string>
+   
+
+<!--LEVEL 8-->
+
+    <string name="g3_l8_q1_option1">Basil</string>
+    <string name="g3_l8_q1_option2">Strawberry</string><!-- correct answer-->
+    <string name="g3_l8_q1_option3">Carrot</string>
+    <string name="g3_l8_q1_option4">LadyFinger</string>
+    <string name="g3_l8_q1_text">Which of the following is a Fruit?</string>
+    <string name="g3_l8_q2_option1">80 minutes</string>
+    <string name="g3_l8_q2_option2">10 minutes</string>
+    <string name="g3_l8_q2_option3">8 minutes</string><!-- correct answer-->
+    <string name="g3_l8_q2_option4">4 minutes</string>
+    <string name="g3_l8_q2_text">How much time does sun rays take to reach earth?</string>
+
+    <string name="g3_l8_q3_option1">Bench</string>
+    <string name="g3_l8_q3_option2">Swings</string>
+    <string name="g3_l8_q3_option3">Slides</string>
+    <string name="g3_l8_q3_option4">Cooking Gas</string><!-- correct answer-->
+    <string name="g3_l8_q3_text">Which of the following you will not find in Park (PlayGround)?</string>
+    <string name="g3_l8_q4_option1">Needle</string>
+    <string name="g3_l8_q4_option2">Swings</string>
+    <string name="g3_l8_q4_option3">Scissor</string><!-- correct answer-->
+    <string name="g3_l8_q4_option4">Knife</string>
+    <string name="g3_l8_q4_text">Which will you use for cutting cloth?</string>
+	<string name="g3_l8_q5_option1">moroccan dirham</string>
+    <string name="g3_l8_q5_option2">US Dollar</string>
+    <string name="g3_l8_q5_option3">Canadian Dollar</string><!-- correct answer-->
+    <string name="g3_l8_q5_option4">British Dollar</string>
+    <string name="g3_l8_q5_text">Currency of Canada</string>
+    <string name="g3_l8_q6_option1">Scotland</string>
+    <string name="g3_l8_q6_option2">England</string>
+    <string name="g3_l8_q6_option3">Germany</string>
+    <string name="g3_l8_q6_option4">Japan</string><!-- correct answer-->
+    <string name="g3_l8_q6_text">In which country, the bullet train was invented?</string>
+    <string name="g3_l8_q7_option1">2</string>
+    <string name="g3_l8_q7_option2">8</string>
+    <string name="g3_l8_q7_option3">3</string>
+    <string name="g3_l8_q7_option4">6</string><!-- correct answer-->
+    <string name="g3_l8_q7_text">what is 12 divised by 2</string>
+    <string name="g3_l8_q8_option1">grams</string>
+    <string name="g3_l8_q8_option2">liters</string><!-- correct answer-->
+    <string name="g3_l8_q8_option3">meters</string>
+    <string name="g3_l8_q8_option4">decibel</string>
+    <string name="g3_l8_q8_text">liquid is measured in what units</string>
+    <string name="g3_l8_q9_option1">Bonfire</string>
+    <string name="g3_l8_q9_option2">Halloween</string><!-- correct answer-->
+    <string name="g3_l8_q9_option3">Patrick</string>
+    <string name="g3_l8_q9_option4">Easter</string>
+    <string name="g3_l8_q9_text">On which day, people wear scary dress and haunted decorations at home?</string>
+    
+ <string name="g3_l8_q10_option1">add</string>
+    <string name="g3_l8_q10_option2">divided by</string>
+    <string name="g3_l8_q10_option3">plus</string>
+    <string name="g3_l8_q10_option4">minus</string><!-- correct answer-->
+    <string name="g3_l8_q10_text">Which word could be placed in the space? 16 ____ 4 gives an answer of 12.</string>
+    
+
+<!--LEVEL 9-->
+	
+    <string name="g3_l9_q1_option1">Kangaroo</string><!-- correct answer-->
+    <string name="g3_l9_q1_option2">Tiger</string>
+    <string name="g3_l9_q1_option3">Lion</string>
+    <string name="g3_l9_q1_option4">Rabbit</string>
+    <string name="g3_l9_q1_text">An animal who keeps its baby in his pocket</string>
+    <string name="g3_l9_q2_option1">Ostrich</string>
+    <string name="g3_l9_q2_option2">Hummingbird</string><!-- correct answer-->
+    <string name="g3_l9_q2_option3">Sparrow</string>
+    <string name="g3_l9_q2_option4">Crow</string>
+    <string name="g3_l9_q2_text">Which of the following is the smallest bird?</string>
+    <string name="g3_l9_q3_option1">European Euro</string>
+    <string name="g3_l9_q3_option2">US Dollar</string>
+    <string name="g3_l9_q3_option3">Hungarian Forint</string><!-- correct answer-->
+    <string name="g3_l9_q3_option4">British Pound</string>
+    <string name="g3_l9_q3_text">Currency of Hungary</string>
+
+    <string name="g3_l9_q4_option1">Scanner</string>
+    <string name="g3_l9_q4_option2">Keyboard</string>
+    <string name="g3_l9_q4_option3">Mouse</string>
+    <string name="g3_l9_q4_option4">Printer</string><!-- correct answer-->
+    <string name="g3_l9_q4_text">Which of the following is output device to Computer?</string>
+    <string name="g3_l9_q5_option1">New Delhi</string>
+    <string name="g3_l9_q5_option2">Bern</string>
+    <string name="g3_l9_q5_option3">Moscow</string><!-- correct answer-->
+    <string name="g3_l9_q5_option4">London</string>
+    <string name="g3_l9_q5_text">What is capital of Russia?</string>
+
+    <string name="g3_l9_q6_option1">European Euro</string>
+    <string name="g3_l9_q6_option2">US Dollar</string>
+    <string name="g3_l9_q6_option4">UAE Dirham</string><!-- correct answer-->
+    <string name="g3_l9_q6_option3">British Pound</string>
+    <string name="g3_l9_q6_text">Currency of United Arab Emirates</string>
+    <string name="g3_l9_q7_option1">European Euro</string>
+    <string name="g3_l9_q7_option3">US Dollar</string>
+    <string name="g3_l9_q7_option2">Qatar Riyal</string><!-- correct answer-->
+    <string name="g3_l9_q7_option4">British Pound</string>
+    <string name="g3_l9_q7_text">Currency of Qatar</string>
+
+    <string name="g3_l9_q8_option1">Newton</string>
+    <string name="g3_l9_q8_option2">Alexander Graham Bell</string>
+    <string name="g3_l9_q8_option3">John Logie Baird</string>
+    <string name="g3_l9_q8_option4">Guglielmo Marconi</string><!-- correct answer-->
+    <string name="g3_l9_q8_text">Who invented Radio?</string>
+    <string name="g3_l9_q9_option1">Jaw Bone</string><!-- correct answer-->
+    <string name="g3_l9_q9_option2">Thigh Bone</string>
+    <string name="g3_l9_q9_option3">Leg Bone</string>
+    <string name="g3_l9_q9_option4">Arm Bone</string>
+    <string name="g3_l9_q9_text">What is the hardest bone in the Human Body?</string>
+ <string name="g3_l9_q10_option1">Saturn and Jupiter</string>
+    <string name="g3_l9_q10_option2">Mercury and Venus</string><!-- correct answer-->
+    <string name="g3_l9_q10_option3">Pluto and Mars</string>
+    <string name="g3_l9_q10_option4">Pluto and Venus</string>
+    <string name="g3_l9_q10_text">Which planets do not have moons?</string>
+   
+<!--LEVEL 10-->
+
+    <string name="g3_l10_q1_option3">European Euro</string>
+    <string name="g3_l10_q1_option2">US Dollar</string>
+    <string name="g3_l10_q1_option1">Saudi Arabian Riyal</string><!-- correct answer-->
+    <string name="g3_l10_q1_option4">British Pound</string>
+    <string name="g3_l10_q1_text">Currency of Saudi Arabia</string>
+
+
+   <string name="g3_l10_q2_option1">Calf</string><!-- correct answer-->
+    <string name="g3_l10_q2_option2">Lamb</string>
+    <string name="g3_l10_q2_option3">Cub</string>
+    <string name="g3_l10_q2_option4">Pup</string>
+    <string name="g3_l10_q2_text">Giraffe baby is called</string>
+    <string name="g3_l10_q3_option1">tube</string>
+    <string name="g3_l10_q3_option2">metro</string><!-- correct answer-->
+    <string name="g3_l10_q3_option3">circle</string>
+    <string name="g3_l10_q3_option4">district</string>
+    <string name="g3_l10_q3_text">what is the pairs underground railway called</string>
+
+  <string name="g3_l10_q4_option1">killer whale</string><!-- correct answer-->
+    <string name="g3_l10_q4_option2">dog</string>
+    <string name="g3_l10_q4_option3">elephant</string>
+    <string name="g3_l10_q4_option4">dolphin</string>
+    <string name="g3_l10_q4_text">in the movie free Willy, what is willy</string>
+    <string name="g3_l10_q5_option2">European Euro</string>
+    <string name="g3_l10_q5_option1">US Dollar</string><!-- correct answer-->
+    <string name="g3_l10_q5_option3">Zimbabwe Pound</string>
+    <string name="g3_l10_q5_option4">British Pound</string>
+    <string name="g3_l10_q5_text">Currency of Zimbabwe</string>
+
+	<string name="g3_l10_q6_option1">200 KM per Hour</string>
+    <string name="g3_l10_q6_option2">500 KM per Hour</string>
+    <string name="g3_l10_q6_option3">320 KM per Hour</string><!-- correct answer-->
+    <string name="g3_l10_q6_option4">440 KM per Hour</string>
+    <string name="g3_l10_q6_text">What is running speed of bullet train?</string>
+<string name="g3_l10_q7_option1">E-mailing</string>
+    <string name="g3_l10_q7_option2">intershop</string>
+    <string name="g3_l10_q7_option3">shopping online</string><!-- correct answer-->
+    <string name="g3_l10_q7_option4">surfing</string>
+    <string name="g3_l10_q7_text">what do we call shopping on the INTERNET </string>
+
+<string name="g3_l10_q8_option1">26</string>
+    <string name="g3_l10_q8_option2">25</string>
+    <string name="g3_l10_q8_option3">28</string>
+    <string name="g3_l10_q8_option4">27</string><!-- correct answer-->
+    <string name="g3_l10_q8_text">how manu moons are there for planet uranus</string>
+
+
+<string name="g3_l10_q9_option1">30</string>
+    <string name="g3_l10_q9_option2">28</string>
+    <string name="g3_l10_q9_option3">32</string><!-- correct answer-->
+    <string name="g3_l10_q9_option4">34</string>
+    <string name="g3_l10_q9_text">How much teeth an adult having on average?</string>
+
+    <string name="g3_l10_q10_option1">multiplied by</string>
+    <string name="g3_l10_q10_option2">minus</string>
+    <string name="g3_l10_q10_option3">subtract</string>
+    <string name="g3_l10_q10_option4">plus</string><!-- correct answer-->
+    <string name="g3_l10_q10_text">Which word could be placed in the space? 12 ____ 8 gives an answer of 20.</string>
+
+<!--LEVEL 11-->
+	
+<string name="g3_l11_q1_option1">Calculator</string>
+    <string name="g3_l11_q1_option2">Macroprocessor</string>
+    <string name="g3_l11_q1_option3">Battery</string>
+    <string name="g3_l11_q1_option4">Microprocessor</string><!-- correct answer-->
+    <string name="g3_l11_q1_text">What is the brain of the computer?</string>
+    <string name="g3_l11_q2_option1">European Euro</string>
+    <string name="g3_l11_q2_option2">US Dollar</string>
+    <string name="g3_l11_q2_option4">Singapore Dollar</string><!-- correct answer-->
+    <string name="g3_l11_q2_option3">British Pound</string>
+    <string name="g3_l11_q2_text">Currency of Singapore</string>
+
+	<string name="g3_l11_q3_option1">Bed</string>
+    <string name="g3_l11_q3_option2">Soap</string>
+    <string name="g3_l11_q3_option3">Electronics Shop</string><!-- correct answer-->
+    <string name="g3_l11_q3_option4">Shampoo</string>
+    <string name="g3_l11_q3_text">Which of the following you will not find in Hotel?</string>
+
+   <string name="g3_l11_q4_option1">London</string>
+   <string name="g3_l11_q4_option2">Paris</string>
+   <string name="g3_l11_q4_option3">Colombo</string>
+   <string name="g3_l11_q4_option4">Rome</string><!-- correct answer-->
+   <string name="g3_l11_q4_text">Capital of Italy</string>
+
+<string name="g3_l11_q5_option1">stan lee and steve ditko</string>
+    <string name="g3_l11_q5_option2">herge</string>
+    <string name="g3_l11_q5_option3">Bill waterson</string>
+    <string name="g3_l11_q5_option4">Bob kane</string><!-- correct answer-->
+    <string name="g3_l11_q5_text">who created the comic strip character batman</string>
+    <string name="g3_l11_q6_option1">binjamin franklin</string><!-- correct answer-->
+    <string name="g3_l11_q6_option2">netwon</string>
+    <string name="g3_l11_q6_option3">james watt</string>
+    <string name="g3_l11_q6_option4">albert eunstein</string>
+    <string name="g3_l11_q6_text">who invented electricity</string>
+
+
+<string name="g3_l11_q7_option1">Spain</string>
+    <string name="g3_l11_q7_option2">Russia</string><!-- correct answer-->
+    <string name="g3_l11_q7_option3">Australia</string>
+    <string name="g3_l11_q7_option4">morocco</string>
+    <string name="g3_l11_q7_text">Which is the largest country (area) in the world ?</string>
+
+
+
+    <string name="g3_l11_q8_option1">Smart Page</string>
+    <string name="g3_l11_q8_option2">Yellow Page</string>
+    <string name="g3_l11_q8_option3">Home Page</string><!-- correct answer-->
+    <string name="g3_l11_q8_option4">First Page</string>
+    <string name="g3_l11_q8_text">The first page of a website is called</string>
+
+<string name="g3_l11_q9_option1">Itlay</string>
+    <string name="g3_l11_q9_option2">Germany</string>
+    <string name="g3_l11_q9_option3">Spain</string><!-- correct answer-->
+    <string name="g3_l11_q9_option4">England</string>
+    <string name="g3_l11_q9_text">In which country Tomato Festival (La Tomatina) is celebarted?</string>
+
+<string name="g3_l11_q10_option1">Mint</string>
+    <string name="g3_l11_q10_option2">Oranges</string><!-- correct answer-->
+    <string name="g3_l11_q10_option3">Carrot</string>
+    <string name="g3_l11_q10_option4">Potato</string>
+    <string name="g3_l11_q10_text">Which of the following is a Fruit?</string>
+
+<!--LEVEL 12-->
+     
+    <string name="g3_l12_q1_option1">Horse</string><!-- correct answer-->
+    <string name="g3_l12_q1_option2">Elephant</string>
+    <string name="g3_l12_q1_option3">Giraffe</string>
+    <string name="g3_l12_q1_option4">Camel</string>
+    <string name="g3_l12_q1_text">Animal who sleeps while standing.</string>
+    <string name="g3_l12_q2_option1">Italian lira</string>
+    <string name="g3_l12_q2_option2">Turkish Lira</string><!-- correct answer-->
+    <string name="g3_l12_q2_option3">European Euro</string>
+    <string name="g3_l12_q2_option4">British Pound</string>
+    <string name="g3_l12_q2_text">Currency of Turkey</string>
+
+    <string name="g3_l12_q3_option1">Chemicals</string>
+    <string name="g3_l12_q3_option2">Beakers</string>
+    <string name="g3_l12_q3_option3">Bed</string><!-- correct answer-->
+    <string name="g3_l12_q3_option4">Water</string>
+      <string name="g3_l12_q3_text">Which of the following you will not find in Laboratory?</string>
+    <string name="g3_l12_q4_option1">Berlin</string><!-- correct answer-->
+    <string name="g3_l12_q4_option2">Bern</string>
+    <string name="g3_l12_q4_option3">London</string>
+    <string name="g3_l12_q4_option4">Paris</string>
+    <string name="g3_l12_q4_text">Capital of Germany</string>
+
+	<string name="g3_l12_q5_option1">Calf</string>
+    <string name="g3_l12_q5_option2">Lamb</string>
+    <string name="g3_l12_q5_option3">fawn</string><!-- correct answer-->
+    <string name="g3_l12_q5_option4">Pup</string>
+    <string name="g3_l12_q5_text">Deer baby is called</string>
+    <string name="g3_l12_q6_option1">Greek Dollar</string>
+    <string name="g3_l12_q6_option2">US Dollar</string>
+    <string name="g3_l12_q6_option3">Sterling Pound</string>
+    <string name="g3_l12_q6_option4">European Euro</string><!-- correct answer-->
+    <string name="g3_l12_q6_text">Currency of Greece</string>
+
+    <string name="g3_l12_q7_option1">toucan</string>
+    <string name="g3_l12_q7_option2">kite</string>
+    <string name="g3_l12_q7_option3">eagle</string>
+    <string name="g3_l12_q7_option4">owl</string><!-- correct answer-->
+    <string name="g3_l12_q7_text">birds can rotate their neck 270 degrees</string>
+    <string name="g3_l12_q8_option1">Charles Babbage</string><!-- correct answer-->
+    <string name="g3_l12_q8_option2">Thomas Edison</string>
+    <string name="g3_l12_q8_option3">Sir Isaac Newton</string>
+    <string name="g3_l12_q8_option4">Alexander Graham Bell</string>
+    <string name="g3_l12_q8_text">Who created first mechnical computer?</string>
+    <string name="g3_l12_q9_option1">Blood</string>
+    <string name="g3_l12_q9_option2">Bones</string><!-- correct answer-->
+    <string name="g3_l12_q9_option3">Hair</string>
+    <string name="g3_l12_q9_option4">Eyes</string>
+    <string name="g3_l12_q9_text">Ricketts is disease of which</string>
+    <string name="g3_l12_q10_option1">Car</string>
+    <string name="g3_l12_q10_option2">Train</string>
+    <string name="g3_l12_q10_option3">Ship</string>
+    <string name="g3_l12_q10_option4">Swing</string><!-- correct answer-->
+    <string name="g3_l12_q10_text">Which of the following is not used for travel?</string>
+   
+<!--LEVEL 13-->
+
+    <string name="g3_l13_q1_option1">Stockholm</string><!-- correct answer-->
+    <string name="g3_l13_q1_option2">Cape Town</string>
+    <string name="g3_l13_q1_option3">Accra</string>
+    <string name="g3_l13_q1_option4">Rome</string>
+    <string name="g3_l13_q1_text">Capital of Sweden</string>
+
+    <string name="g3_l13_q2_option1">moroccan dirham</string>
+    <string name="g3_l13_q2_option2">Sterling Pound</string>
+    <string name="g3_l13_q2_option3">US Dollar</string><!-- correct answer-->
+    <string name="g3_l13_q2_option4">British Dollar</string>
+    <string name="g3_l13_q2_text">Currency of United State of America</string>
+
+    <string name="g3_l13_q3_option1">Air</string>
+    <string name="g3_l13_q3_option2">Water</string>
+    <string name="g3_l13_q3_option3">Sun</string><!-- correct answer-->
+    <string name="g3_l13_q3_option4">River</string>
+    <string name="g3_l13_q3_text">Which is the principal source of energy for earth?</string>
+
+    <string name="g3_l13_q4_option1">Washing Machine</string><!-- correct answer-->
+    <string name="g3_l13_q4_option2">Needle</string>
+    <string name="g3_l13_q4_option3">Sword</string>
+    <string name="g3_l13_q4_option4">Dishwasher</string>
+    <string name="g3_l13_q4_text">Which will you use for washing clothes?</string>
+    <string name="g3_l13_q5_option1">Calf</string>
+    <string name="g3_l13_q5_option2">Lamb</string>
+    <string name="g3_l13_q5_option3">Cub</string>
+    <string name="g3_l13_q5_option4">Froglet (Tadpole)</string><!-- correct answer-->
+    <string name="g3_l13_q5_text">Frog baby is called</string>
+    <string name="g3_l13_q6_option1">Rocket</string>
+    <string name="g3_l13_q6_option2">Aeroplane</string>
+    <string name="g3_l13_q6_option3">Boat</string><!-- correct answer-->
+    <string name="g3_l13_q6_option4">helicopter</string>
+    <string name="g3_l13_q6_text">Which of following does not travel in Air?</string>
+    <string name="g3_l13_q7_option1">April</string>
+    <string name="g3_l13_q7_option2">January</string>
+    <string name="g3_l13_q7_option3">February</string><!-- correct answer-->
+    <string name="g3_l13_q7_option4">march</string>
+    <string name="g3_l13_q7_text">in which month is the valentine day</string>
+  
+    <string name="g3_l13_q8_option1">Paper Tissue</string>
+    <string name="g3_l13_q8_option2">Tap</string>
+    <string name="g3_l13_q8_option3">knife</string><!-- correct answer-->
+    <string name="g3_l13_q8_option4">Soap</string>
+    <string name="g3_l13_q8_text">Which of the following you will not find in Toilet?</string>
+    <string name="g3_l13_q9_option1">Table</string>
+    <string name="g3_l13_q9_option2">Tap</string>
+    <string name="g3_l13_q9_option3">Bed</string><!-- correct answer-->
+    <string name="g3_l13_q9_option4">Chair</string>
+    <string name="g3_l13_q9_text">Which will you use for Sleep in night?</string>
+    <string name="g3_l13_q10_option1">Brazilian Real</string>
+    <string name="g3_l13_q10_option2">South African Rand</string><!-- correct answer-->
+    <string name="g3_l13_q10_option3">US Dollar</string>
+    <string name="g3_l13_q10_option4">British Dollar</string>
+    <string name="g3_l13_q10_text">Currency of South Africa</string>
+
+
+<!--LEVEL 14-->
+	 <string name="g3_l14_q1_option1">Calf</string>
+    <string name="g3_l14_q1_option2">Lamb</string>
+    <string name="g3_l14_q1_option3">Foal</string><!-- correct answer-->
+    <string name="g3_l14_q1_option4">Pony</string>
+    <string name="g3_l14_q1_text">Horse baby is called</string>
+
+    <string name="g3_l14_q2_option1">Kangchenjunga</string>
+    <string name="g3_l14_q2_option2">Makalu</string>
+    <string name="g3_l14_q2_option4">Mount Everest</string><!-- correct answer-->
+    <string name="g3_l14_q2_option3">K2</string>
+    <string name="g3_l14_q2_text">Which is the Highest mountain range on Earth?</string>
+
+
+	<string name="g3_l14_q3_option1">TV Shop</string><!-- correct answer-->
+    <string name="g3_l14_q3_option2">Fishes</string>
+    <string name="g3_l14_q3_option3">Birds</string>
+    <string name="g3_l14_q3_option4">Animals</string>
+    <string name="g3_l14_q3_text">Which of the following you will not find in Zoo?</string>
+    <string name="g3_l14_q4_option1">Screw</string>
+    <string name="g3_l14_q4_option2">Needle</string>
+    <string name="g3_l14_q4_option3">Sword</string>
+    <string name="g3_l14_q4_option4">Knife</string><!-- correct answer-->
+    <string name="g3_l14_q4_text">Which will you use for cutting vegetables?</string>
+    <string name="g3_l14_q5_option1">US Dollar</string>
+    <string name="g3_l14_q5_option2">Sterling Pound</string>
+    <string name="g3_l14_q5_option3">dirham</string><!-- correct answer-->
+    <string name="g3_l14_q5_option4">British Dollar</string>
+    <string name="g3_l14_q5_text">Currency of morocco</string>
+
+	<string name="g3_l14_q6_option1">Basil</string>
+    <string name="g3_l14_q6_option2">Strawberry</string>
+    <string name="g3_l14_q6_option3">CauliFlower</string><!-- correct answer-->
+    <string name="g3_l14_q6_option4">Sunflower</string>
+    <string name="g3_l14_q6_text">Which of the following is a vegetable?</string>
+    <string name="g3_l14_q7_option1">2</string>
+    <string name="g3_l14_q7_option2">5</string>
+    <string name="g3_l14_q7_option3">9</string>
+    <string name="g3_l14_q7_option4">4</string><!-- correct answer-->
+    <string name="g3_l14_q7_text">What is the missing number: 9 = ? + 5</string>
+    <string name="g3_l14_q8_option1">RAM</string>
+    <string name="g3_l14_q8_option2">keyboard</string>
+    <string name="g3_l14_q8_option3">mouse</string><!-- correct answer-->
+    <string name="g3_l14_q8_option4">CPU</string>
+    <string name="g3_l14_q8_text">---------- is a pointing device</string>
+    
+    <string name="g3_l14_q9_option1">Bill Gates</string><!-- correct answer-->
+    <string name="g3_l14_q9_option2">Warren Buffet</string>
+    <string name="g3_l14_q9_option3">George Bush</string>
+    <string name="g3_l14_q9_option4">Narayan Murthy</string>
+    <string name="g3_l14_q9_text">Who founded company Microsoft?</string>
+    <string name="g3_l14_q10_option1">58 cats</string>
+    <string name="g3_l14_q10_option2">11 cats</string><!-- correct answer-->
+    <string name="g3_l14_q10_option3">8 cats</string>
+    <string name="g3_l14_q10_option4">10 cats</string>
+    <string name="g3_l14_q10_text">Jim has five cats. Sam has six cats. How many cats do the boys have altogether?</string>
+<!-- LEVEL  15 -->
+	<string name="g3_l15_q1_option1">Super computer</string><!-- correct answer-->
+    <string name="g3_l15_q1_option2">Micro computer</string>
+    <string name="g3_l15_q1_option3">Note Book</string>
+    <string name="g3_l15_q1_option4">Laptop</string>
+    <string name="g3_l15_q1_text">Which of the following is fastest, biggest and most expansive computer?</string>
+    <string name="g3_l15_q2_option1">Output Devices</string>
+    <string name="g3_l15_q2_option2">Input Devices</string>
+    <string name="g3_l15_q2_option3">Operating System</string>
+    <string name="g3_l15_q2_option4">Web Browser</string><!-- correct answer-->
+    <string name="g3_l15_q2_text">Firefox, Opera, Chrome, Safari and Internet Explorer are types of what?</string>
+
+	<string name="g3_l15_q3_option1">Europe</string>
+    <string name="g3_l15_q3_option2">Africa</string>
+    <string name="g3_l15_q3_option3">Australia</string><!-- correct answer-->
+    <string name="g3_l15_q3_option4">Asia</string>
+    <string name="g3_l15_q3_text">Which is the smallest continent on Earth?</string>
+<string name="g3_l15_q4_option1">Television</string>
+    <string name="g3_l15_q4_option2">Radio</string>
+    <string name="g3_l15_q4_option3">Camera</string>
+    <string name="g3_l15_q4_option4">Mobile Phone</string><!-- correct answer-->
+    <string name="g3_l15_q4_text">Which will you use for talking to friends and relatives?</string>
+
+    <string name="g3_l15_q5_option1">Calf</string><!-- correct answer-->
+    <string name="g3_l15_q5_option2">Lamb</string>
+    <string name="g3_l15_q5_option3">Cub</string>
+    <string name="g3_l15_q5_option4">Pup</string>
+    <string name="g3_l15_q5_text">Buffalo baby is called</string>
+
+
+    <string name="g3_l15_q6_option1">Group Jack</string>
+    <string name="g3_l15_q6_option2">Union Sign</string>
+    <string name="g3_l15_q6_option3">Union Scott</string>
+    <string name="g3_l15_q6_option4">Union Jack</string><!-- correct answer-->
+    <string name="g3_l15_q6_text">UK National flag is also known as</string>
+    <string name="g3_l15_q7_option1">22</string>
+    <string name="g3_l15_q7_option2">24</string><!-- correct answer-->
+    <string name="g3_l15_q7_option3">32</string>
+    <string name="g3_l15_q7_option4">18</string>
+    <string name="g3_l15_q7_text">3 + 5 + 2 + 6 + 8 = ?</string>
+
+
+    
+	<string name="g3_l15_q8_option1">Bed</string>
+    <string name="g3_l15_q8_option2">Medical Instruments</string>
+    <string name="g3_l15_q8_option3">Medicines</string>
+    <string name="g3_l15_q8_option4">Swing</string><!-- correct answer-->
+    <string name="g3_l15_q8_text">Which of the following you will not find in Hospital?</string>
+	<string name="g3_l15_q9_option1">Needle</string>
+    <string name="g3_l15_q9_option2">Chair</string>
+    <string name="g3_l15_q9_option3">Scissor</string>
+    <string name="g3_l15_q9_option4">Pencil</string><!-- correct answer-->
+    <string name="g3_l15_q9_text">Which will you use for writing?</string>
+
+<string name="g3_l15_q10_option1">10</string>
+    <string name="g3_l15_q10_option2">11</string>
+    <string name="g3_l15_q10_option3">6</string>
+    <string name="g3_l15_q10_option4">5</string><!-- correct answer-->
+    <string name="g3_l15_q10_text">How many players in international Basketball match team?</string>
+
+<!-- _________________________________________________________________________________________________-->
+
+
+<!-- group D-->
+
+<!-- level 1  -->
+
+
+	<string name="g4_l1_q1_option1">Sydney</string>
+    <string name="g4_l1_q1_option2">Brisbane</string>
+    <string name="g4_l1_q1_option3">Canberra</string><!-- correct answer-->
+    <string name="g4_l1_q1_option4">Manchester</string>
+    <string name="g4_l1_q1_text">Capital of Australia</string>
+	<string name="g4_l1_q2_option1">Spinach</string><!-- correct answer-->
+    <string name="g4_l1_q2_option2">Fig</string>
+    <string name="g4_l1_q2_option3">Rose</string>
+    <string name="g4_l1_q2_option4">Ring</string>
+    <string name="g4_l1_q2_text">Which of the following is a vegetable?</string>
+	<string name="g4_l1_q3_option1">cheese</string><!-- correct answer-->
+    <string name="g4_l1_q3_option2">nut</string>
+    <string name="g4_l1_q3_option3">fruit</string>
+    <string name="g4_l1_q3_option4">vegetable</string>
+    <string name="g4_l1_q3_text">what kind of food is parmesan</string>
+    <string name="g4_l1_q4_option1"> 2 + 18 = 20 so 18 + 2 = 20</string><!-- correct answer-->
+    <string name="g4_l1_q4_option2"> 2 + 18 = 20 so 20 + 2 = 18</string>
+    <string name="g4_l1_q4_option3"> 2 + 18 = 20 so 18 + 20 = 2</string>
+    <string name="g4_l1_q4_option4"> 2 + 18 = 20 so 20 + 18 = 2</string>
+    <string name="g4_l1_q4_text"> Which of the following is true?</string>
+    
+	
+	<string name="g4_l1_q5_option1">Hatchling</string><!-- correct answer-->
+    <string name="g4_l1_q5_option2">Lamb</string>
+    <string name="g4_l1_q5_option3">Cub</string>
+    <string name="g4_l1_q5_option4">Pup</string>
+    <string name="g4_l1_q5_text">Crocodile baby is called</string>
+    <string name="g4_l1_q6_option1">Car</string>
+    <string name="g4_l1_q6_option2">Bus</string>
+    <string name="g4_l1_q6_option3">Truck</string>
+    <string name="g4_l1_q6_option4">Aeroplane</string><!-- correct answer-->
+    <string name="g4_l1_q6_text">Which of following does not travel on Road?</string>
+
+	<string name="g4_l1_q7_option1">fruits</string>
+    <string name="g4_l1_q7_option2">meat</string>
+    <string name="g4_l1_q7_option3">plants</string><!-- correct answer-->
+    <string name="g4_l1_q7_option4">flies</string>
+    <string name="g4_l1_q7_text">a herbivore animal eats --------</string>
+    <string name="g4_l1_q8_option1">automatic</string>
+    <string name="g4_l1_q8_option2">storage</string>
+    <string name="g4_l1_q8_option3">input</string><!-- correct answer-->
+    <string name="g4_l1_q8_option4">output</string>
+    <string name="g4_l1_q8_text">scanner is an ------------- device</string>
+    <string name="g4_l1_q9_option1">44.0 C</string>
+    <string name="g4_l1_q9_option2">98.0 C</string>
+    <string name="g4_l1_q9_option3">37.0 C</string><!-- correct answer-->
+    <string name="g4_l1_q9_option4">31.0 C</string>
+    <string name="g4_l1_q9_text">What is the average temprature of human body?</string>
+	<string name="g4_l1_q10_option1">Brisbane</string>
+    <string name="g4_l1_q10_option2">Sydney</string>
+    <string name="g4_l1_q10_option3">Suva</string><!-- correct answer-->
+    <string name="g4_l1_q10_option4">Kingston</string>
+    <string name="g4_l1_q10_text">Capital of Fiji</string>
+<!-- level 2 -->
+
+
+	<string name="g4_l2_q1_option1"> 11 + 9 = 20</string>
+    <string name="g4_l2_q1_option2"> 11 &#8211; 20 = 9</string><!-- correct answer-->
+    <string name="g4_l2_q1_option3"> 20 &#8211; 9 = 11</string>
+    <string name="g4_l2_q1_option4">9 + 11 = 20 </string>
+    <string name="g4_l2_q1_text">Which number fact is incorrect? </string>
+    <string name="g4_l2_q2_option1">Nairobi</string>
+    <string name="g4_l2_q2_option2">Vienna</string>
+    <string name="g4_l2_q2_option3">Moscow</string>
+    <string name="g4_l2_q2_option4">Reykjavik</string><!-- correct answer-->
+    <string name="g4_l2_q2_text">What is capital of Iceland?</string>
+	<string name="g4_l2_q3_option1"> diwali</string>
+    <string name="g4_l2_q3_option2"> onam</string>
+    <string name="g4_l2_q3_option3">christmas </string><!-- correct answer-->
+    <string name="g4_l2_q3_option4"> sankranthi</string>
+    <string name="g4_l2_q3_text">a beautifully decorated tree is celebrated on festival-------- </string>
+	<string name="g4_l2_q4_option1">yahoo </string>
+    <string name="g4_l2_q4_option2"> google</string>
+    <string name="g4_l2_q4_option3"> whatsApp</string>
+    <string name="g4_l2_q4_option4">facebook </string><!-- correct answer-->
+    <string name="g4_l2_q4_text">what did mark Elliot zuckerberg create </string>
+    <string name="g4_l2_q5_option1">greenland</string><!-- correct answer-->
+    <string name="g4_l2_q5_option2"> great britain</string>
+    <string name="g4_l2_q5_option3"> iceland</string>
+    <string name="g4_l2_q5_option4"> malta</string>
+    <string name="g4_l2_q5_text">which is the largest island</string>
+	<string name="g4_l2_q6_option1"> russia</string>
+    <string name="g4_l2_q6_option2"> italy</string><!-- correct answer-->
+    <string name="g4_l2_q6_option3"> portugal</string>
+    <string name="g4_l2_q6_option4"> germany</string>
+    <string name="g4_l2_q6_text">in which conutry would you be must likely to eat pasta</string>
+	<string name="g4_l2_q7_option1">green</string>
+    <string name="g4_l2_q7_option2">yellow</string>
+    <string name="g4_l2_q7_option3">red</string><!-- correct answer-->
+    <string name="g4_l2_q7_option4">blue</string>
+    <string name="g4_l2_q7_text">crimson is shade of which color</string>
+	<string name="g4_l2_q8_option1">directory</string>
+    <string name="g4_l2_q8_option2"> dictionary</string>
+    <string name="g4_l2_q8_option3">notebook </string>
+    <string name="g4_l2_q8_option4"> dairy</string><!-- correct answer-->
+    <string name="g4_l2_q8_text">a book you write down what happens everyday </string>
+    <string name="g4_l2_q9_option1">jumbo</string><!-- correct answer-->
+    <string name="g4_l2_q9_option2">dumbo </string>
+    <string name="g4_l2_q9_option3">mamaba</string>
+    <string name="g4_l2_q9_option4">rumba</string>
+    <string name="g4_l2_q9_text">Boeing 747 jet also known as </string>
+	<string name="g4_l2_q10_option1">ice </string>
+    <string name="g4_l2_q10_option2">rain</string><!-- correct answer-->
+    <string name="g4_l2_q10_option3">wind</string>
+    <string name="g4_l2_q10_option4">snow</string>
+    <string name="g4_l2_q10_text">what sort of weather appears in a monsoon</string>
+
+<!-- level 3 -->
+
+
+	<string name="g4_l3_q1_option1"> medicine</string>
+    <string name="g4_l3_q1_option2"> television</string>
+    <string name="g4_l3_q1_option3"> shoes</string><!-- correct answer-->
+    <string name="g4_l3_q1_option4">furniture </string>
+    <string name="g4_l3_q1_text">adidas company manufactures ----------- </string>
+	<string name="g4_l3_q2_option1"> nepal</string>
+    <string name="g4_l3_q2_option2">bhutan </string>
+    <string name="g4_l3_q2_option3"> bangladesh</string>
+    <string name="g4_l3_q2_option4">tiblet </string><!-- correct answer-->
+    <string name="g4_l3_q2_text"> which country is called as the roof of the world</string>
+    <string name="g4_l3_q3_option1">8 </string><!-- correct answer-->
+    <string name="g4_l3_q3_option2">10 </string>
+    <string name="g4_l3_q3_option3"> 4</string>
+    <string name="g4_l3_q3_option4"> 12</string>
+    <string name="g4_l3_q3_text"> I measure my pencil on Monday and it is 16cm long. By Friday, it is only half of this length. How long is my pencil on Friday?</string>
+	<string name="g4_l3_q4_option1">Stockholm</string>
+    <string name="g4_l3_q4_option2">Castries</string><!-- correct answer-->
+    <string name="g4_l3_q4_option3">Accra</string>
+    <string name="g4_l3_q4_option4">Rome</string>
+    <string name="g4_l3_q4_text">Capital of Saint Lucia</string>
+    <string name="g4_l3_q5_option1"> Divide it by 4</string><!-- correct answer-->
+    <string name="g4_l3_q5_option2"> Divide it by 2</string>
+    <string name="g4_l3_q5_option3">Multiply it by 4 </string>
+    <string name="g4_l3_q5_option4">Multiply it by 2 </string>
+    <string name="g4_l3_q5_text">How do you find a quarter of a number? </string>
+	<string name="g4_l3_q6_option1">Football</string>
+    <string name="g4_l3_q6_option2">Golf</string>
+    <string name="g4_l3_q6_option3">Tennis</string>
+    <string name="g4_l3_q6_option4">Car Race</string><!-- correct answer-->
+    <string name="g4_l3_q6_text">Formula One is related to which sport?</string>
+	<string name="g4_l3_q7_option1">Toothpaste</string>
+    <string name="g4_l3_q7_option2">Soap</string>
+    <string name="g4_l3_q7_option3">Toaster</string><!-- correct answer-->
+    <string name="g4_l3_q7_option4">Shampoo</string>
+    <string name="g4_l3_q7_text">Which of the following you will not find in Bathroom?</string>
+    <string name="g4_l3_q8_option1">Toothpaste</string>
+    <string name="g4_l3_q8_option2">Soap</string>
+    <string name="g4_l3_q8_option3">Sunglass</string><!-- correct answer-->
+    <string name="g4_l3_q8_option4">Camera</string>
+    <string name="g4_l3_q8_text">Which will you use for Sunlight protection?</string>
+	<string name="g4_l3_q9_option1">Ampere</string>
+    <string name="g4_l3_q9_option2">Kilogram</string>
+    <string name="g4_l3_q9_option3">Watts</string><!-- correct answer-->
+    <string name="g4_l3_q9_option4">Litres</string>
+    <string name="g4_l3_q9_text">Electricity in measured in what units?</string>
+	<string name="g4_l3_q10_option1">London</string>
+    <string name="g4_l3_q10_option2">Kingston</string>
+    <string name="g4_l3_q10_option3">Colombo</string>
+    <string name="g4_l3_q10_option4">Mexico City</string><!-- correct answer-->
+    <string name="g4_l3_q10_text">Capital of Mexico</string>
+   
+
+<!-- level  4-->
+
+    <string name="g4_l4_q1_option1"> 5</string><!-- correct answer-->
+    <string name="g4_l4_q1_option2"> 4</string>
+    <string name="g4_l4_q1_option3">10 </string>
+    <string name="g4_l4_q1_option4">40 </string>
+    <string name="g4_l4_q1_text">What is &#188; of 20? </string>
+    <string name="g4_l4_q2_option1">Bad</string>
+    <string name="g4_l4_q2_option2">Mad</string><!-- correct answer-->
+    <string name="g4_l4_q2_option3">Par</string>
+    <string name="g4_l4_q2_option4">Man</string>
+    <string name="g4_l4_q2_text">which word goes before "rid" to complete the name of a capital city</string>
+    <string name="g4_l4_q3_option1">Ball</string>
+    <string name="g4_l4_q3_option2">Green Bean</string><!-- correct answer-->
+    <string name="g4_l4_q3_option3">Comb</string>
+    <string name="g4_l4_q3_option4">Grapes</string>
+    <string name="g4_l4_q3_text">Which of the following is a vegetable?</string>
+	<string name="g4_l4_q4_option1">4</string>
+    <string name="g4_l4_q4_option2">2</string>
+    <string name="g4_l4_q4_option3">1</string>
+    <string name="g4_l4_q4_option4">3</string><!-- correct answer-->
+    <string name="g4_l4_q4_text">how many lights are in traffic signals</string>
+	<string name="g4_l4_q5_option1">25 </string>
+    <string name="g4_l4_q5_option2"> 30</string><!-- correct answer-->
+    <string name="g4_l4_q5_option3"> 35</string>
+    <string name="g4_l4_q5_option4">40 </string>
+    <string name="g4_l4_q5_text">What is 5 + 5 + 10 + 5 + 5 </string>
+    <string name="g4_l4_q6_option1">Eagle</string>
+    <string name="g4_l4_q6_option2">Peacock</string>
+    <string name="g4_l4_q6_option3">Ostrich</string><!-- correct answer-->
+    <string name="g4_l4_q6_option4">Hen</string>
+    <string name="g4_l4_q6_text">Which bird lays more than 100 eggs in nest?</string>
+    <string name="g4_l4_q7_option1">forests</string>
+    <string name="g4_l4_q7_option2">rivers</string>
+    <string name="g4_l4_q7_option3">mountains</string><!-- correct answer-->
+    <string name="g4_l4_q7_option4">lakes</string>
+    <string name="g4_l4_q7_text">what are the andes</string>
+    <string name="g4_l4_q8_option1">Potato</string><!-- correct answer-->
+    <string name="g4_l4_q8_option2">Banana</string>
+    <string name="g4_l4_q8_option3">Apple</string>
+    <string name="g4_l4_q8_option4">Cherry</string>
+    <string name="g4_l4_q8_text">Which of the following is a vegetable?</string>
+	<string name="g4_l4_q9_option1">9 </string>
+    <string name="g4_l4_q9_option2"> 5</string>
+    <string name="g4_l4_q9_option3"> 3</string><!-- correct answer-->
+    <string name="g4_l4_q9_option4"> 7</string>
+    <string name="g4_l4_q9_text">Which number is missing: 17 + ? = 20 </string>
+    <string name="g4_l4_q10_option1">Kingston</string><!-- correct answer-->
+    <string name="g4_l4_q10_option2">Bern</string>
+    <string name="g4_l4_q10_option3">London</string>
+    <string name="g4_l4_q10_option4">Paris</string>
+    <string name="g4_l4_q10_text">Capital of Jamaica</string>
+<!-- level  5-->
+
+	<string name="g4_l5_q1_option1">12 </string>
+    <string name="g4_l5_q1_option2"> 24</string>
+    <string name="g4_l5_q1_option3"> 60</string><!-- correct answer-->
+    <string name="g4_l5_q1_option4"> 30</string>
+    <string name="g4_l5_q1_text"> There are ___ seconds in a minute.</string>
+    <string name="g4_l5_q2_option1">normal</string>
+    <string name="g4_l5_q2_option2">even</string><!-- correct answer-->
+    <string name="g4_l5_q2_option3">strange</string>
+    <string name="g4_l5_q2_option4">level</string>
+    <string name="g4_l5_q2_text">if a number is not odd, what is it</string>
+    <string name="g4_l5_q3_option1">green</string>
+    <string name="g4_l5_q3_option2">yellow</string>
+    <string name="g4_l5_q3_option3">red</string>
+    <string name="g4_l5_q3_option4">blue</string><!-- correct answer-->
+    <string name="g4_l5_q3_text">ultramarine is a shade of which color</string>
+	<string name="g4_l5_q4_option1">Karachi</string>
+    <string name="g4_l5_q4_option2">Bern</string><!-- correct answer-->
+    <string name="g4_l5_q4_option3">Riyadh</string>
+    <string name="g4_l5_q4_option4">Moscow</string>
+    <string name="g4_l5_q4_text">What is capital of Switzerland?</string>
+    <string name="g4_l5_q5_option1">Calf</string>
+    <string name="g4_l5_q5_option2">Kitten</string>
+    <string name="g4_l5_q5_option3">Cub</string><!-- correct answer-->
+    <string name="g4_l5_q5_option4">Pup</string>
+    <string name="g4_l5_q5_text">Lion baby is called</string>
+	<string name="g4_l5_q6_option1">good health</string>
+    <string name="g4_l5_q6_option2">cheers</string>
+    <string name="g4_l5_q6_option3">good bye</string>
+    <string name="g4_l5_q6_option4">good morning</string><!-- correct answer-->
+    <string name="g4_l5_q6_text">what does the french phrase "bonjour" mean</string>
+    <string name="g4_l5_q7_option1">St. John</string>
+    <string name="g4_l5_q7_option2">Paris</string>
+    <string name="g4_l5_q7_option3">San Jose</string><!-- correct answer-->
+    <string name="g4_l5_q7_option4">London</string>
+    <string name="g4_l5_q7_text">Capital of Costa Rica</string>
+    <string name="g4_l5_q8_option1">Venice</string>
+    <string name="g4_l5_q8_option2">Paris</string>
+    <string name="g4_l5_q8_option3">Havana</string><!-- correct answer-->
+    <string name="g4_l5_q8_option4">Bern</string>
+    <string name="g4_l5_q8_text">Capital of Cuba</string>
+	<string name="g4_l5_q9_option1"> 4</string>
+    <string name="g4_l5_q9_option2"> 3</string><!-- correct answer-->
+    <string name="g4_l5_q9_option3"> 6</string>
+    <string name="g4_l5_q9_option4"> 2</string>
+    <string name="g4_l5_q9_text">What is a quarter of 12? </string>
+    <string name="g4_l5_q10_option1">dog</string>
+    <string name="g4_l5_q10_option2">parrot</string><!-- correct answer-->
+    <string name="g4_l5_q10_option3">owl</string>
+    <string name="g4_l5_q10_option4">cat</string>
+    <string name="g4_l5_q10_text">which animal can be trained to imitate the human voice</string>
+
+<!-- level 6 -->
+
+	<string name="g4_l6_q1_option1">Ginger</string><!-- correct answer-->
+    <string name="g4_l6_q1_option2">Watermelon</string>
+    <string name="g4_l6_q1_option3">Rose</string>
+    <string name="g4_l6_q1_option4">Bulb</string>
+    <string name="g4_l6_q1_text">Which of the following is a vegetable?</string>
+    <string name="g4_l6_q2_option1">Shops</string>
+    <string name="g4_l6_q2_option2">Stalls</string>
+    <string name="g4_l6_q2_option3">Escalators</string>
+    <string name="g4_l6_q2_option4">Kitchen</string><!-- correct answer-->
+    <string name="g4_l6_q2_text">Which of the following you will not find in Shopping mall?</string>
+    <string name="g4_l6_q3_option1">Spoon</string><!-- correct answer-->
+    <string name="g4_l6_q3_option2">Scissor</string>
+    <string name="g4_l6_q3_option3">Needle</string>
+    <string name="g4_l6_q3_option4">Knife</string>
+    <string name="g4_l6_q3_text">Which will you use for Eating food?</string>
+	<string name="g4_l6_q4_option1">permanent</string>
+    <string name="g4_l6_q4_option2">short</string>
+    <string name="g4_l6_q4_option3">special</string>
+    <string name="g4_l6_q4_option4">temporary</string><!-- correct answer-->
+    <string name="g4_l6_q4_text">RAM is a ------------ memory</string>
+    <string name="g4_l6_q5_option1">1</string>
+    <string name="g4_l6_q5_option2">2</string><!-- correct answer-->
+    <string name="g4_l6_q5_option3">5</string>
+    <string name="g4_l6_q5_option4">4</string>
+    <string name="g4_l6_q5_text">How many players in international double table tennis team?</string>
+	<string name="g4_l6_q6_option1">Central Processing Unit</string><!-- correct answer-->
+    <string name="g4_l6_q6_option2">Car Park Unit</string>
+    <string name="g4_l6_q6_option3">Center Power Unit</string>
+    <string name="g4_l6_q6_option4">Computer Power Unit</string>
+    <string name="g4_l6_q6_text">In terms of computing, what does CPU stand for?</string>
+    <string name="g4_l6_q7_option1">Wellington</string>
+    <string name="g4_l6_q7_option2">Karachi</string>
+    <string name="g4_l6_q7_option3">Dhaka</string>
+    <string name="g4_l6_q7_option4">Beijing</string><!-- correct answer-->
+    <string name="g4_l6_q7_text">What is capital of China?</string>
+	<string name="g4_l6_q8_option1">United State of America</string>
+    <string name="g4_l6_q8_option2">England</string>
+    <string name="g4_l6_q8_option3">Vatican City</string><!-- correct answer-->
+    <string name="g4_l6_q8_option4">morocco</string>
+    <string name="g4_l6_q8_text">Which is the least populated country in the world?</string>
+	<string name="g4_l6_q9_option1"> A quarter of 20</string>
+    <string name="g4_l6_q9_option2"> Five</string>
+    <string name="g4_l6_q9_option3"> Half of 10</string>
+    <string name="g4_l6_q9_option4"> They are both the same</string><!-- correct answer-->
+    <string name="g4_l6_q9_text">Which is greater: half of 10 or a quarter of 20? </string>
+	<string name="g4_l6_q10_option1">Manchester</string>
+    <string name="g4_l6_q10_option2">London</string>
+    <string name="g4_l6_q10_option3">Bridgetown</string>
+    <string name="g4_l6_q10_option4">Ottawa</string><!-- correct answer-->
+    <string name="g4_l6_q10_text">Capital of Canada</string>
+
+
+<!-- level  7-->
+
+
+	<string name="g4_l7_q1_option1"> 80</string>
+    <string name="g4_l7_q1_option2">240 </string>
+    <string name="g4_l7_q1_option3"> 40</string>
+    <string name="g4_l7_q1_option4"> 60</string><!-- correct answer-->
+    <string name="g4_l7_q1_text"> Harry is 120 cm tall. His little brother is half this height. How tall is Harry’s brother?</string>
+    <string name="g4_l7_q2_option1">Boat</string><!-- correct answer-->
+    <string name="g4_l7_q2_option2">Car</string>
+    <string name="g4_l7_q2_option3">Cable Car</string>
+    <string name="g4_l7_q2_option4">Swing</string>
+    <string name="g4_l7_q2_text">What is one of the oldest methods of transportation?</string>
+    <string name="g4_l7_q3_option1">11 times</string>
+    <string name="g4_l7_q3_option2">9 times</string>
+    <string name="g4_l7_q3_option3">7 times</string><!-- correct answer-->
+    <string name="g4_l7_q3_option4">3 times</string>
+    <string name="g4_l7_q3_text">how many times can light travel around the world in one second</string>
+    <string name="g4_l7_q4_option1">USA</string><!-- correct answer-->
+    <string name="g4_l7_q4_option2">germany</string>
+    <string name="g4_l7_q4_option3">morocco</string>
+    <string name="g4_l7_q4_option4">nepal</string>
+    <string name="g4_l7_q4_text">where is mount everest located</string>
+    <string name="g4_l7_q5_option1">ocean</string><!-- correct answer-->
+    <string name="g4_l7_q5_option2">peak</string>
+    <string name="g4_l7_q5_option3">lake</string>
+    <string name="g4_l7_q5_option4">valley</string>
+    <string name="g4_l7_q5_text">what is the geographical term for a large area of salt water</string>
+    <string name="g4_l7_q6_option1">the time</string><!-- correct answer-->
+    <string name="g4_l7_q6_option2">the temperature</string>
+    <string name="g4_l7_q6_option3">date</string>
+    <string name="g4_l7_q6_option4">phone numbers</string>
+    <string name="g4_l7_q6_text">what does a sundial tell</string>
+	<string name="g4_l7_q7_option1">Grams</string><!-- correct answer-->
+    <string name="g4_l7_q7_option2">Liters</string>
+    <string name="g4_l7_q7_option3">Decibel</string>
+    <string name="g4_l7_q7_option4">Meters</string>
+    <string name="g4_l7_q7_text">Weight is measured in what units?</string>
+	<string name="g4_l7_q8_option1">add  0.6 </string>
+    <string name="g4_l7_q8_option2">subtract 0.6 </string><!-- correct answer-->
+    <string name="g4_l7_q8_option3">subtract 6 </string>
+    <string name="g4_l7_q8_option4">add 6 </string>
+    <string name="g4_l7_q8_text"> How is 0.8 changed to 0.2?</string>
+	<string name="g4_l7_q9_option1">blue</string>
+    <string name="g4_l7_q9_option2">green</string><!-- correct answer-->
+    <string name="g4_l7_q9_option3">red</string>
+    <string name="g4_l7_q9_option4">yellow</string>
+    <string name="g4_l7_q9_text">jade is shade of which color</string>
+	<string name="g4_l7_q10_option1">Mint</string>
+    <string name="g4_l7_q10_option2">Apricot</string><!-- correct answer-->
+    <string name="g4_l7_q10_option3">Carrot</string>
+    <string name="g4_l7_q10_option4">Potato</string>
+    <string name="g4_l7_q10_text">Which of the following is a Fruit?</string>
+
+<!-- level  8-->
+
+    <string name="g4_l8_q1_option1">Lotus</string>
+    <string name="g4_l8_q1_option2">Broccoli</string><!-- correct answer-->
+    <string name="g4_l8_q1_option3">Chair</string>
+    <string name="g4_l8_q1_option4">Ball</string>
+    <string name="g4_l8_q1_text">Which of the following is a vegetable?</string>
+    <string name="g4_l8_q2_option1">Paris</string>
+    <string name="g4_l8_q2_option2">Nairobi</string>
+    <string name="g4_l8_q2_option3">Prague</string><!-- correct answer-->
+    <string name="g4_l8_q2_option4">New Delhi</string>
+    <string name="g4_l8_q2_text">Capital of Czech Republic</string>
+    <string name="g4_l8_q3_option1">Harare</string>
+    <string name="g4_l8_q3_option2">New Delhi</string>
+    <string name="g4_l8_q3_option3">London</string><!-- correct answer-->
+    <string name="g4_l8_q3_option4">Manchester</string>
+    <string name="g4_l8_q3_text">Capital of England</string>
+    <string name="g4_l8_q4_option1">Football</string>
+    <string name="g4_l8_q4_option2">Golf</string>
+    <string name="g4_l8_q4_option3">Tennis</string><!-- correct answer-->
+    <string name="g4_l8_q4_option4">Cricket</string>
+    <string name="g4_l8_q4_text">Wimbeldon cup is related to which sport?</string>
+	<string name="g4_l8_q5_option1">1 Year</string>
+    <string name="g4_l8_q5_option2">2 Years</string>
+    <string name="g4_l8_q5_option3">10 Years</string>
+    <string name="g4_l8_q5_option4">4 Years</string><!-- correct answer-->
+    <string name="g4_l8_q5_text">Cricket world cup is being organised after every</string>
+	<string name="g4_l8_q6_option1">Karchi</string>
+    <string name="g4_l8_q6_option2">Khartoum</string>
+    <string name="g4_l8_q6_option3">Algiers</string><!-- correct answer-->
+    <string name="g4_l8_q6_option4">Cape Town</string>
+    <string name="g4_l8_q6_text">Capital of Algeria</string>
+    <string name="g4_l8_q7_option1">Cairo</string><!-- correct answer-->
+    <string name="g4_l8_q7_option2">Islamabad</string>
+    <string name="g4_l8_q7_option3">Colombo</string>
+    <string name="g4_l8_q7_option4">Lahore</string>
+    <string name="g4_l8_q7_text">Capital of Egypt</string>
+	<string name="g4_l8_q8_option1">friday </string>
+    <string name="g4_l8_q8_option2">sunday </string>
+    <string name="g4_l8_q8_option3"> saturday</string>
+    <string name="g4_l8_q8_option4">wednesday </string><!-- correct answer-->
+    <string name="g4_l8_q8_text">Which day comes before Thursday? </string>
+	<string name="g4_l8_q9_option1">ammeter</string>
+    <string name="g4_l8_q9_option2">ohmmmeter</string>
+    <string name="g4_l8_q9_option3">voltmeter</string>
+    <string name="g4_l8_q9_option4">transformer</string><!-- correct answer-->
+    <string name="g4_l8_q9_text">which device is used to alter the voltage of an electrical supply</string>
+    <string name="g4_l8_q10_option1"> mysophobia</string><!-- correct answer-->
+    <string name="g4_l8_q10_option2"> aquaphobia</string>
+    <string name="g4_l8_q10_option3">claustrophobia </string>
+    <string name="g4_l8_q10_option4">dromophobia </string>
+    <string name="g4_l8_q10_text">phobia fear of being contaminated with germ or dirt is ---------------- </string>
+<!-- level  9-->
+
+
+	<string name="g4_l9_q1_option1"> Nepal and germany</string>
+    <string name="g4_l9_q1_option2">Switzerland and Vatican city </string><!-- correct answer-->
+    <string name="g4_l9_q1_option3">Italy and france </string>
+    <string name="g4_l9_q1_option4">Germany and france </string>
+    <string name="g4_l9_q1_text">which two countries national flag is exact  square </string>
+	<string name="g4_l9_q2_option1"> 5 x 20 = 4</string>
+    <string name="g4_l9_q2_option2">20 x 5 = 100 </string>
+    <string name="g4_l9_q2_option3">5 x 4 = 20 </string><!-- correct answer-->
+    <string name="g4_l9_q2_option4"> 5 x 2 = 10</string>
+    <string name="g4_l9_q2_text">Which multiplication fact could help you work out 20 ÷ 5? </string>
+	<string name="g4_l9_q3_option1">vineyard</string>
+    <string name="g4_l9_q3_option2"> brewery</string>
+    <string name="g4_l9_q3_option3"> harour</string><!-- correct answer-->
+    <string name="g4_l9_q3_option4"> hangar</string>
+    <string name="g4_l9_q3_text"> ships are sheltered in -----------</string>
+	<string name="g4_l9_q4_option1">  formicidae</string>
+    <string name="g4_l9_q4_option2">falis catus </string>
+    <string name="g4_l9_q4_option3"> lacertilia</string>
+    <string name="g4_l9_q4_option4">panther tigris </string><!-- correct answer-->
+    <string name="g4_l9_q4_text"> what is the scientific name of tiger </string>
+    <string name="g4_l9_q5_option1"> spores</string><!-- correct answer-->
+    <string name="g4_l9_q5_option2"> holes</string>
+    <string name="g4_l9_q5_option3"> seeds</string>
+    <string name="g4_l9_q5_option4">flowers </string>
+    <string name="g4_l9_q5_text">fern plant reproduce through cells called -------- </string>
+	<string name="g4_l9_q6_option1"> 24</string>
+    <string name="g4_l9_q6_option2">60 </string><!-- correct answer-->
+    <string name="g4_l9_q6_option3"> 6</string>
+    <string name="g4_l9_q6_option4"> 12</string>
+    <string name="g4_l9_q6_text"> There are ___ minutes in an hour.</string>
+	<string name="g4_l9_q7_option1"> mount  whitney</string>
+    <string name="g4_l9_q7_option2"> mount mckinley </string><!-- correct answer-->
+    <string name="g4_l9_q7_option3"> mount foraker </string>
+    <string name="g4_l9_q7_option4"> blanca peak</string>
+    <string name="g4_l9_q7_text"> the highest mountain of USA is the ---------------</string>
+    <string name="g4_l9_q8_option1"> boxing</string><!-- correct answer-->
+    <string name="g4_l9_q8_option2">archery </string>
+    <string name="g4_l9_q8_option3">basketball </string>
+    <string name="g4_l9_q8_option4"> shooting</string>
+    <string name="g4_l9_q8_text">in which one of the following Olympic sports is the wearing of beard not allowed </string>
+	<string name="g4_l9_q9_option1">kari benz </string>
+    <string name="g4_l9_q9_option2"> Edward jenner</string><!-- correct answer-->
+    <string name="g4_l9_q9_option3">Isaac newton </string>
+    <string name="g4_l9_q9_option4"> james watt</string>
+    <string name="g4_l9_q9_text"> how invented vaccination</string>
+	<string name="g4_l9_q10_option1"> parrot</string>
+    <string name="g4_l9_q10_option2"> crow</string>
+    <string name="g4_l9_q10_option3">duck </string><!-- correct answer-->
+    <string name="g4_l9_q10_option4">sparrow </string>
+    <string name="g4_l9_q10_text">which of the following bird cannot fly </string>
+
+<!-- level 10 -->
+
+
+	<string name="g4_l10_q1_option1">pouch </string>
+    <string name="g4_l10_q1_option2"> webbed</string>
+    <string name="g4_l10_q1_option3"> thumbs</string>
+    <string name="g4_l10_q1_option4"> spout</string><!-- correct answer-->
+    <string name="g4_l10_q1_text">which of the following is the feature of whale </string>
+    <string name="g4_l10_q2_option1"> robin</string><!-- correct answer-->
+    <string name="g4_l10_q2_option2">juliet </string>
+    <string name="g4_l10_q2_option3"> jerry</string>
+    <string name="g4_l10_q2_option4"> gretal</string>
+    <string name="g4_l10_q2_text"> who is correct partner of batman</string>
+	<string name="g4_l10_q3_option1">radar </string>
+    <string name="g4_l10_q3_option2">black box </string><!-- correct answer-->
+    <string name="g4_l10_q3_option3"> cockpit</string>
+    <string name="g4_l10_q3_option4"> transponders</string>
+    <string name="g4_l10_q3_text"> which equipment thet records informayion about the performance of an aircraft during flight</string>
+	<string name="g4_l10_q4_option1"> bengaluru</string>
+    <string name="g4_l10_q4_option2"> goa</string>
+    <string name="g4_l10_q4_option3"> new delhi</string><!-- correct answer-->
+    <string name="g4_l10_q4_option4"> chennai</string>
+    <string name="g4_l10_q4_text"> lotus temple located in -----------</string>
+	<string name="g4_l10_q5_option1">valley </string>
+    <string name="g4_l10_q5_option2"> peak</string>
+    <string name="g4_l10_q5_option3"> lake</string>
+    <string name="g4_l10_q5_option4">island </string><!-- correct answer-->
+    <string name="g4_l10_q5_text">what is the geaographical term for a piece of land surrounded by water on all side </string>
+	<string name="g4_l10_q6_option1"> 8</string>
+    <string name="g4_l10_q6_option2"> 10</string><!-- correct answer-->
+    <string name="g4_l10_q6_option3"> 12</string>
+    <string name="g4_l10_q6_option4"> 5</string>
+    <string name="g4_l10_q6_text">What is 20 halved? </string>
+    <string name="g4_l10_q7_option1">Rome</string>
+    <string name="g4_l10_q7_option2">Copenhagen</string><!-- correct answer-->
+    <string name="g4_l10_q7_option3">Berlin</string>
+    <string name="g4_l10_q7_option4">Port Louis</string>
+    <string name="g4_l10_q7_text">Capital of Denmark</string>
+    <string name="g4_l10_q8_option1"> 16 october</string><!-- correct answer-->
+    <string name="g4_l10_q8_option2"> 16 september</string>
+    <string name="g4_l10_q8_option3">26 october  </string>
+    <string name="g4_l10_q8_option4"> 26 september</string>
+    <string name="g4_l10_q8_text">when is world food celebrated </string>
+	<string name="g4_l10_q9_option1"> fish</string>
+    <string name="g4_l10_q9_option2"> meat</string><!-- correct answer-->
+    <string name="g4_l10_q9_option3">milk </string>
+    <string name="g4_l10_q9_option4"> leaves</string>
+    <string name="g4_l10_q9_text">what is the favourite food of a dog </string>
+	<string name="g4_l10_q10_option1">formula 1 racing</string>
+    <string name="g4_l10_q10_option2">basket ball </string>
+    <string name="g4_l10_q10_option3">tennis</string><!-- correct answer-->
+    <string name="g4_l10_q10_option4">badminton </string>
+    <string name="g4_l10_q10_text">maria sharapova is ---------- sports personality </string>
+
+
+
+<!-- level  11-->
+
+
+	<string name="g4_l11_q1_option1"> bat</string>
+    <string name="g4_l11_q1_option2"> kitten</string>
+    <string name="g4_l11_q1_option3"> eel</string>
+    <string name="g4_l11_q1_option4"> bee</string><!-- correct answer-->
+    <string name="g4_l11_q1_text"> animal similes: as busy as a --------</string>
+    <string name="g4_l11_q2_option1"> plough</string><!-- correct answer-->
+    <string name="g4_l11_q2_option2">pillow </string>
+    <string name="g4_l11_q2_option3">ploy </string>
+    <string name="g4_l11_q2_option4">plague </string>
+    <string name="g4_l11_q2_text">how do we spell the American word ‘plow’ in the written british form </string>
+	<string name="g4_l11_q3_option1"> 50 minutes</string>
+    <string name="g4_l11_q3_option2"> 60 minutes </string><!-- correct answer-->
+    <string name="g4_l11_q3_option3">90 minutes </string>
+    <string name="g4_l11_q3_option4"> 120 minutes </string>
+    <string name="g4_l11_q3_text">what is the total playing time of a match for men’s hockey </string>
+	<string name="g4_l11_q4_option1"> 1946</string>
+    <string name="g4_l11_q4_option2"> 1956</string>
+    <string name="g4_l11_q4_option3"> 1957</string><!-- correct answer-->
+    <string name="g4_l11_q4_option4"> 1947</string>
+    <string name="g4_l11_q4_text">the first satellite to orbit earth was the sputnik satellite launched on year ------  </string>
+    <string name="g4_l11_q5_option1"> pulmonologist</string><!-- correct answer-->
+    <string name="g4_l11_q5_option2"> haematologist</string>
+    <string name="g4_l11_q5_option3"> nephrologist</string>
+    <string name="g4_l11_q5_option4"> dermatologist</string>
+    <string name="g4_l11_q5_text"> which doctor is to be consulted for breathing problem</string>
+	<string name="g4_l11_q6_option1">52 </string>
+    <string name="g4_l11_q6_option2"> 48</string>
+    <string name="g4_l11_q6_option3"> 44</string>
+    <string name="g4_l11_q6_option4"> 50</string><!-- correct answer-->
+    <string name="g4_l11_q6_text">What is 42 + 8? </string>
+    <string name="g4_l11_q7_option1"> cycle track</string><!-- correct answer-->
+    <string name="g4_l11_q7_option2">footpath </string>
+    <string name="g4_l11_q7_option3">side road </string>
+    <string name="g4_l11_q7_option4">zebra crossing </string>
+    <string name="g4_l11_q7_text"> we should always ride bicycle on ----------</string>
+	<string name="g4_l11_q8_option1">bolivia </string>
+    <string name="g4_l11_q8_option2">venezuela </string><!-- correct answer-->
+    <string name="g4_l11_q8_option3"> ecuador</string>
+    <string name="g4_l11_q8_option4">peru </string>
+    <string name="g4_l11_q8_text"> which of the following south American countries has never qualified for FIFA world cup </string>
+	<string name="g4_l11_q9_option1"> RAM</string>
+    <string name="g4_l11_q9_option2">CPU </string>
+    <string name="g4_l11_q9_option3"> DVD</string><!-- correct answer-->
+    <string name="g4_l11_q9_option4"> ROM </string>
+    <string name="g4_l11_q9_text"> it is a high-capacity optical disk that can store much more information than CD </string>
+	<string name="g4_l11_q10_option1">1985 </string>
+    <string name="g4_l11_q10_option2"> 1975</string>
+    <string name="g4_l11_q10_option3">1970 </string>
+    <string name="g4_l11_q10_option4">1980 </string><!-- correct answer-->
+    <string name="g4_l11_q10_text">in which year the first table tennis world cup was held </string>
+
+<!-- level  12-->
+
+
+
+    <string name="g4_l12_q1_option1"> mexico</string><!-- correct answer-->
+    <string name="g4_l12_q1_option2"> portugal</string>
+    <string name="g4_l12_q1_option3">costa rica </string>
+    <string name="g4_l12_q1_option4"> agypt</string>
+    <string name="g4_l12_q1_text">what country is believed to have been at the epicenter  of the 2009 H1N1 outbreak </string>
+	<string name="g4_l12_q2_option1">1944 </string>
+    <string name="g4_l12_q2_option2"> 1936</string><!-- correct answer-->
+    <string name="g4_l12_q2_option3"> 1984</string>
+    <string name="g4_l12_q2_option4"> 1956</string>
+    <string name="g4_l12_q2_text">in ----------- year both the summer and winter Olympics were held in the same country</string>
+	<string name="g4_l12_q3_option1">UNICEF </string>
+    <string name="g4_l12_q3_option2">IMF </string>
+    <string name="g4_l12_q3_option3"> the united nations</string><!-- correct answer-->
+    <string name="g4_l12_q3_option4"> green peace</string>
+    <string name="g4_l12_q3_text">what organization tries to find solutions to world problems and disputes </string>
+	<string name="g4_l12_q4_option1"> graphology</string>
+    <string name="g4_l12_q4_option2"> paleography</string>
+    <string name="g4_l12_q4_option3">etymology </string>
+    <string name="g4_l12_q4_option4">linguistic </string><!-- correct answer-->
+    <string name="g4_l12_q4_text">------- is study of languagees </string>
+	<string name="g4_l12_q5_option1"> 92</string>
+    <string name="g4_l12_q5_option2"> 84</string>
+    <string name="g4_l12_q5_option3">94 </string><!-- correct answer-->
+    <string name="g4_l12_q5_option4"> 87</string>
+    <string name="g4_l12_q5_text"> What is double 47?</string>
+    <string name="g4_l12_q6_option1">solar panel </string><!-- correct answer-->
+    <string name="g4_l12_q6_option2">sundial </string>
+    <string name="g4_l12_q6_option3">solar cooker </string>
+    <string name="g4_l12_q6_option4"> solar collection bucket</string>
+    <string name="g4_l12_q6_text">when using energy , what do you call the device that absorbs sunlight  </string>
+	<string name="g4_l12_q7_option1"> Charles dickenson</string>
+    <string name="g4_l12_q7_option2"> C S lewis</string><!-- correct answer-->
+    <string name="g4_l12_q7_option3">enid blyton </string>
+    <string name="g4_l12_q7_option4"> George eliot</string>
+    <string name="g4_l12_q7_text"> who is author of the children fantasy novel’s the chronicles of narnia</string>
+	<string name="g4_l12_q8_option1"> Abraham lincoln</string>
+    <string name="g4_l12_q8_option2">barack obama </string>
+    <string name="g4_l12_q8_option3"> john f kennedy</string><!-- correct answer-->
+    <string name="g4_l12_q8_option4"> George w bush</string>
+    <string name="g4_l12_q8_text">which US president’s patriotic quote is  “ask not  what your country can do for you. Ask what you can do for your country  </string>
+	<string name="g4_l12_q9_option1"> poland</string>
+    <string name="g4_l12_q9_option2">germany </string>
+    <string name="g4_l12_q9_option3">france </string>
+    <string name="g4_l12_q9_option4">italy </string><!-- correct answer-->
+    <string name="g4_l12_q9_text">the country has an airport named after a famous painter </string>
+    <string name="g4_l12_q10_option1">james t.russell </string><!-- correct answer-->
+    <string name="g4_l12_q10_option2"> Charles babbage</string>
+    <string name="g4_l12_q10_option3"> ted hoff</string>
+    <string name="g4_l12_q10_option4">stan mazor </string>
+    <string name="g4_l12_q10_text">the compact disc (CD) was invented by --------- </string>
+
+
+
+
+
+<!-- level 13 -->
+
+
+	<string name="g4_l13_q1_option1">25m </string>
+    <string name="g4_l13_q1_option2"> 250m</string><!-- correct answer-->
+    <string name="g4_l13_q1_option3"> 250cm</string>
+    <string name="g4_l13_q1_option4"> 25m</string>
+    <string name="g4_l13_q1_text">What is  &#188; of a kilometre? </string>
+	<string name="g4_l13_q2_option1">40 cm</string>
+    <string name="g4_l13_q2_option2">23 cm</string>
+    <string name="g4_l13_q2_option3">32 cm</string><!-- correct answer-->
+    <string name="g4_l13_q2_option4">28cm </string>
+    <string name="g4_l13_q2_text">I have a piece of ribbon which is 64cm long. I cut it in half - how long will each piece be? </string>
+	<string name="g4_l13_q3_option1">inuit </string>
+    <string name="g4_l13_q3_option2"> icelandic</string><!-- correct answer-->
+    <string name="g4_l13_q3_option3"> german</string>
+    <string name="g4_l13_q3_option4"> russian</string>
+    <string name="g4_l13_q3_text">from which language does English word “geyser” came from </string>
+	<string name="g4_l13_q4_option1">cobra </string>
+    <string name="g4_l13_q4_option2"> deer</string>
+    <string name="g4_l13_q4_option3"> crocodile</string><!-- correct answer-->
+    <string name="g4_l13_q4_option4"> eagle</string>
+    <string name="g4_l13_q4_text"> which animal has a scaly body and webbed feet, it spends most of its time in water but lays its eggs on land</string>
+	<string name="g4_l13_q5_option1">moroccans </string>
+    <string name="g4_l13_q5_option2">british </string>
+    <string name="g4_l13_q5_option3"> germans</string>
+    <string name="g4_l13_q5_option4">greeks </string><!-- correct answer-->
+    <string name="g4_l13_q5_text"> the -------- were the first to develop writing tools similar to the modern pen</string>
+    <string name="g4_l13_q6_option1"> baseball</string><!-- correct answer-->
+    <string name="g4_l13_q6_option2">lacrosse </string>
+    <string name="g4_l13_q6_option3">soccer </string>
+    <string name="g4_l13_q6_option4">taekwondo </string>
+    <string name="g4_l13_q6_text"> ----------- sport is played with rounded bat and ball on a field known as diamond. This game is very popular in japan and USA</string>
+	<string name="g4_l13_q7_option1">brazil </string>
+    <string name="g4_l13_q7_option2"> spain</string><!-- correct answer-->
+    <string name="g4_l13_q7_option3">the netherlands </string>
+    <string name="g4_l13_q7_option4">ethiopia </string>
+    <string name="g4_l13_q7_text"> what country won the 2010 FIFA world cup</string>
+	<string name="g4_l13_q8_option1"> vitamin k</string>
+    <string name="g4_l13_q8_option2"> vitamin  B</string>
+    <string name="g4_l13_q8_option3"> vitamin  D</string><!-- correct answer-->
+    <string name="g4_l13_q8_option4"> vitamin C</string>
+    <string name="g4_l13_q8_text">deficiency of -------- causes disease rickets </string>
+	<string name="g4_l13_q9_option1"> rabbit</string>
+    <string name="g4_l13_q9_option2"> mouse</string>
+    <string name="g4_l13_q9_option3">cat </string>
+    <string name="g4_l13_q9_option4">dog </string><!-- correct answer-->
+    <string name="g4_l13_q9_text">pluto is mickey mouse’s pet. He is big, draft and goofy. What kind of animal is he  </string>
+	<string name="g4_l13_q10_option1"> 550</string>
+    <string name="g4_l13_q10_option2"> 700</string>
+    <string name="g4_l13_q10_option3">450 </string>
+    <string name="g4_l13_q10_option4"> 650</string><!-- correct answer-->
+    <string name="g4_l13_q10_text"> What is the missing number in 350 + ___ = 1,000?</string>
+<!-- level 14 -->
+
+
+    <string name="g4_l14_q1_option1"> volga</string><!-- correct answer-->
+    <string name="g4_l14_q1_option2"> nile</string>
+    <string name="g4_l14_q1_option3"> murray</string>
+    <string name="g4_l14_q1_option4"> brahmaputra</string>
+    <string name="g4_l14_q1_text"> which one of the following is a river of russia</string>
+	<string name="g4_l14_q2_option1">rachid hamma ali </string>
+    <string name="g4_l14_q2_option2">amitav ghosh </string><!-- correct answer-->
+    <string name="g4_l14_q2_option3">chetan bhagat </string>
+    <string name="g4_l14_q2_option4"> salman rushdie</string>
+    <string name="g4_l14_q2_text"> who is the author of  the book, “the shadow lines “</string>
+	<string name="g4_l14_q3_option1"> the hulk</string>
+    <string name="g4_l14_q3_option2"> wolverine</string>
+    <string name="g4_l14_q3_option3"> flash</string><!-- correct answer-->
+    <string name="g4_l14_q3_option4"> cyclops</string>
+    <string name="g4_l14_q3_text"> which superhero use the “ barry allen “ as part of his secret identity</string>
+	<string name="g4_l14_q4_option1"> 1/8</string>
+    <string name="g4_l14_q4_option2">&#188;</string>
+    <string name="g4_l14_q4_option3">&#189;</string><!-- correct answer-->
+    <string name="g4_l14_q4_option4"> 1/5</string>
+    <string name="g4_l14_q4_text">Two quarters is the same as &#8230; </string>
+	<string name="g4_l14_q5_option1"> vitamin C</string>
+    <string name="g4_l14_q5_option2"> lodine</string>
+    <string name="g4_l14_q5_option3"> calcium</string>
+    <string name="g4_l14_q5_option4"> iron</string><!-- correct answer-->
+    <string name="g4_l14_q5_text">deficiency of ---------- causes anaemia</string>
+    <string name="g4_l14_q6_option1"> haematologist</string><!-- correct answer-->
+    <string name="g4_l14_q6_option2">geratrician </string>
+    <string name="g4_l14_q6_option3">dermatologist </string>
+    <string name="g4_l14_q6_option4">pulmonologist </string>
+    <string name="g4_l14_q6_text">which doctor is to be consulted for blood cancer </string>
+    <string name="g4_l14_q7_option1"> 2 seconds</string><!-- correct answer-->
+    <string name="g4_l14_q7_option2"> 2 minutes</string>
+    <string name="g4_l14_q7_option3">2 hours </string>
+    <string name="g4_l14_q7_option4">2 days </string>
+    <string name="g4_l14_q7_text">Which is shortest? </string>
+    <string name="g4_l14_q8_option1">Bridgetown</string>
+    <string name="g4_l14_q8_option2">New Delhi</string>
+    <string name="g4_l14_q8_option3">St. John</string><!-- correct answer-->
+    <string name="g4_l14_q8_option4">Manchester</string>
+    <string name="g4_l14_q8_text">Capital of Antigua and Barbuda</string>
+	<string name="g4_l14_q9_option1">vikram seth </string>
+    <string name="g4_l14_q9_option2">vikram chandra </string><!-- correct answer-->
+    <string name="g4_l14_q9_option3">chetan bhagat </string>
+    <string name="g4_l14_q9_option4"> salman rushdie</string>
+    <string name="g4_l14_q9_text"> who is the author of  the book, “scared games “</string>
+    <string name="g4_l14_q10_option1"> haematologist</string>
+    <string name="g4_l14_q10_option2">geratrician </string>
+    <string name="g4_l14_q10_option3">oncologist </string><!-- correct answer-->
+    <string name="g4_l14_q10_option4">pulmonologist </string>
+    <string name="g4_l14_q10_text">which doctor is to be consulted for breast cancer </string>
+
+<!-- level 15 -->
+
+	<string name="g4_l15_q1_option1"> pluto</string><!-- correct answer-->
+    <string name="g4_l15_q1_option2"> saturn</string>
+    <string name="g4_l15_q1_option3">jupiter </string>
+    <string name="g4_l15_q1_option4"> uranus</string>
+    <string name="g4_l15_q1_text">which planet is the roman god of the under world </string>
+	<string name="g4_l15_q2_option1">1 </string>
+    <string name="g4_l15_q2_option2">8 </string>
+    <string name="g4_l15_q2_option3"> 4</string>
+    <string name="g4_l15_q2_option4"> 2</string><!-- correct answer-->
+    <string name="g4_l15_q2_text"> To find half of a number, you should divide it by &#8230;</string>
+	<string name="g4_l15_q3_option1"> thyroglobulin</string>
+    <string name="g4_l15_q3_option2"> antigens</string><!-- correct answer-->
+    <string name="g4_l15_q3_option3"> DNA</string>
+    <string name="g4_l15_q3_option4">corneal tissue </string>
+    <string name="g4_l15_q3_text">which of the followings are responsible for different types of blood groups </string>
+	<string name="g4_l15_q4_option1">conductor </string>
+    <string name="g4_l15_q4_option2">semiconductor </string>
+    <string name="g4_l15_q4_option3">insulator </string><!-- correct answer-->
+    <string name="g4_l15_q4_option4"> superconductor</string>
+    <string name="g4_l15_q4_text">name the substance the does not allow heat or electricity to pass through </string>
+	<string name="g4_l15_q5_option1"> gases</string>
+    <string name="g4_l15_q5_option2"> air pressure</string>
+    <string name="g4_l15_q5_option3"> radiation</string>
+    <string name="g4_l15_q5_option4">gravity </string><!-- correct answer-->
+    <string name="g4_l15_q5_text"> the ------------ of the earth holds the atmosphere</string>
+    <string name="g4_l15_q6_option1"> 65</string><!-- correct answer-->
+    <string name="g4_l15_q6_option2"> 67</string>
+    <string name="g4_l15_q6_option3"> 75</string>
+    <string name="g4_l15_q6_option4"> 66</string>
+    <string name="g4_l15_q6_text"> What is 10 + 43 + 10 + 2</string>
+    <string name="g4_l15_q7_option1"> Elisha G.otis</string><!-- correct answer-->
+    <string name="g4_l15_q7_option2"> Z. janssen</string>
+    <string name="g4_l15_q7_option3">Charles macintosh </string>
+    <string name="g4_l15_q7_option4"> john J.loud</string>
+    <string name="g4_l15_q7_text">who invented elevator </string>
+	<string name="g4_l15_q8_option1"> bakery</string>
+    <string name="g4_l15_q8_option2"> tannery</string><!-- correct answer-->
+    <string name="g4_l15_q8_option3">hangar </string>
+    <string name="g4_l15_q8_option4"> brewery</string>
+    <string name="g4_l15_q8_text">leather is made in -------------- </string>
+	<string name="g4_l15_q9_option1">london </string>
+    <string name="g4_l15_q9_option2">tifratin </string>
+    <string name="g4_l15_q9_option3">moscow </string><!-- correct answer-->
+    <string name="g4_l15_q9_option4">new york </string>
+    <string name="g4_l15_q9_text"> which is known as the port of five seas</string>
+    <string name="g4_l15_q10_option1"> 44</string><!-- correct answer-->
+    <string name="g4_l15_q10_option2"> 64</string>
+    <string name="g4_l15_q10_option3"> 54</string>
+    <string name="g4_l15_q10_option4"> 45</string>
+    <string name="g4_l15_q10_text"> What would we add to 56 to total 100?</string>
+
+
+
+
+
+</resources>
